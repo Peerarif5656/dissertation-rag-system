@@ -1,0 +1,1387 @@
+case_id,model,model_id,rag_enabled,success,processing_time,ground_truth_efficient,predicted_efficient,classification_correct,prediction_confidence,extraction_method,agile_score,lean_score,overall_score,response_length,error,full_response
+pattern_62,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.01649808883667,False,False,True,0.8,numerical_scores,25,20,22.5,600,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1731 hours (over 2 months) and multiple bottlenecks across all stakeholder roles, indicating poor flow and excessive waste. While the 100% success rate is positive, the linear approval chain lacks iterative feedback loops and parallel processing opportunities that would improve both agility and lean efficiency. The process appears to be a traditional waterfall approach with substantial waiting time between handoffs."
+case_1,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.2335641384124756,False,False,True,0.8,numerical_scores,0,0,0.0,461,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of workflow structure, success metrics, and process definition represents maximum inefficiency from both Agile and Lean perspectives, as there is no value delivery, iteration capability, or waste elimination possible without a defined process."
+pattern_10,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.29417085647583,True,False,False,0.8,numerical_scores,25,15,20.0,574,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a cycle of repeated rejections between the same two roles (EMPLOYEE and PRE_APPROVER) without apparent learning or improvement, violating Agile principles of iterative progress and collaboration. The extremely long average duration of 625 hours and the repetitive rejection pattern indicate substantial waste in the process, with bottlenecks at both key roles creating poor flow and no clear value delivery to the customer."
+case_3,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.649941921234131,False,False,True,0.8,numerical_scores,0,0,0.0,421,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow characteristics, it fails to meet both Agile principles of iterative development and collaboration, as well as Lean principles of value delivery and waste elimination."
+pattern_128,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.651524066925049,True,False,False,0.8,numerical_scores,25,20,22.5,550,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,256 hours (over 7 weeks) and bottlenecks across all stakeholders including undefined roles. The linear, sequential approval process lacks iterative feedback loops and collaboration principles from Agile, while the excessive wait times and multiple handoffs represent substantial waste in the value stream, violating core Lean principles of flow and waste elimination."
+pattern_158,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.532285928726196,True,False,False,0.8,numerical_scores,25,15,20.0,633,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 912 hours and multiple rejection cycles that create waste through rework. The presence of bottlenecks across all actors (EMPLOYEE, SUPERVISOR, UNDEFINED) and the rejection-resubmission loop violate Lean principles of smooth flow and waste elimination. While there is some iterative feedback through the rejection process, the excessive duration and rework indicate poor collaboration and process design that fails both Agile and Lean standards."
+pattern_11,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.314395904541016,False,False,True,0.8,numerical_scores,25,15,20.0,576,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2857 hours (nearly 4 months) and a rejection-heavy process that creates substantial waste. The sequence shows a declaration being rejected twice before resubmission, indicating poor collaboration and lack of early feedback mechanisms. Multiple bottlenecks including an ""UNDEFINED"" actor suggest unclear processes and poor value stream design that violates both Agile and Lean principles."
+case_7,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.882847785949707,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_109,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.185717105865479,False,False,True,0.8,numerical_scores,25,20,22.5,513,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with an extremely long average duration (4025 hours ≈ 167 days), low success rate (82%), and a process that ends in rejection rather than value delivery. The bottlenecks at both EMPLOYEE and ADMINISTRATION levels, combined with the rejection-heavy flow, indicate poor collaboration and substantial waste in the value stream with no apparent iterative improvement mechanisms."
+pattern_96,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.940040111541748,True,False,False,0.8,numerical_scores,25,20,22.5,551,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1361 hours (nearly 57 days) and multiple bottlenecks across all stakeholders involved. The linear, sequential approval process lacks iterative feedback loops and collaborative elements typical of Agile methodologies, while the excessive wait times and numerous handoffs indicate substantial waste in the value stream that violates Lean principles of flow and efficiency."
+pattern_126,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.445099830627441,True,False,False,0.8,numerical_scores,25,20,22.5,669,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 1,200 hours (approximately 30 weeks) and multiple bottlenecks across six different roles, indicating poor flow and excessive handoffs. While the 100% success rate is positive, the process lacks agile principles like iterative feedback and appears to have substantial waste in the form of waiting time and over-processing through multiple approval layers. The linear, sequential nature with numerous approval gates contradicts both lean flow principles and agile collaboration values."
+pattern_101,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.924493074417114,False,False,True,0.8,numerical_scores,25,20,22.5,528,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2260+ hours (over 3 months) and multiple bottlenecks across three different roles. The linear, sequential approval process lacks iterative feedback loops and parallel processing opportunities, while the excessive duration and bottlenecks indicate substantial waste in the value stream that contradicts Lean principles of flow optimization."
+pattern_50,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.768269062042236,False,False,True,0.8,numerical_scores,25,20,22.5,510,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1745 hours (over 72 days) and bottlenecks at every human touchpoint, indicating poor flow and excessive waste. While the 100% success rate is positive, the linear, non-iterative process with multiple approval gates contradicts both Agile principles of rapid iteration and Lean principles of waste elimination and continuous flow."
+pattern_34,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.673804759979248,False,False,True,0.8,numerical_scores,15,5,10.0,511,,"Agile Score: 15/100
+Lean Score: 5/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow is severely inefficient with a 0% success rate and extremely long duration (6446 hours average), indicating massive waste and complete process failure. The bottleneck at the EMPLOYEE level suggests poor resource allocation and lack of flow optimization, while the zero success rate demonstrates no value delivery to customers, violating core Lean principles of waste elimination and continuous improvement."
+case_14,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.909731149673462,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_57,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.007242918014526,False,False,True,0.8,numerical_scores,15,10,12.5,602,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely low success rate of 28.6% and excessive duration of over 1,915 hours average, indicating massive waste and poor value delivery. The process shows multiple rejection points creating bottlenecks at EMPLOYEE and PRE_APPROVER stages, with no evidence of iterative improvement or collaborative problem-solving. The workflow violates both Agile principles of delivering working solutions and Lean principles of eliminating waste and optimizing flow."
+pattern_61,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.566483974456787,False,False,True,0.8,numerical_scores,25,20,22.5,553,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 5,680 hours (approximately 8 months) for what appears to be a simple 5-step approval process. The presence of multiple bottlenecks including an ""UNDEFINED"" actor indicates poor process definition and lack of clear ownership, while the linear approval chain lacks iterative feedback loops and parallel processing opportunities that would improve both agility and lean flow."
+case_17,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.013538837432861,False,False,True,0.8,numerical_scores,0,0,0.0,496,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or performance metrics. Without any information about the actual workflow structure, duration, success rates, or identified bottlenecks, it's impossible to assess adherence to Agile or Lean principles. A complete lack of process definition and measurement represents the antithesis of both methodologies."
+pattern_162,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.570091009140015,True,False,False,0.8,numerical_scores,15,10,12.5,528,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (225+ hours), and a linear rejection pattern that provides no value to the organization. The process lacks iterative feedback loops, has significant waste in the form of bottlenecks at the supervisor level, and fails to deliver any successful outcomes, violating core Agile and Lean principles of continuous improvement and value delivery."
+pattern_53,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.194811820983887,False,False,True,0.8,numerical_scores,25,20,22.5,604,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows severe inefficiencies with an extremely long average duration of 2049 hours (approximately 85 days) for what appears to be a simple approval process, indicating significant waste and poor flow. The presence of bottlenecks at multiple roles (EMPLOYEE, SUPERVISOR, UNDEFINED) and a rigid sequential approval chain with no apparent feedback loops or iterative elements violates both Agile principles of collaboration and adaptability, and Lean principles of waste elimination and continuous flow."
+pattern_6,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.098390817642212,True,False,False,0.8,numerical_scores,25,15,20.0,569,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1384 hours (nearly 58 days) and multiple rejection-resubmission cycles that create waste and delays. While the process demonstrates some iterative elements through the rejection-correction loop, the presence of bottlenecks across all role types and the excessive processing time indicate poor flow optimization and substantial non-value-added activities that violate core Lean principles."
+pattern_154,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,16.97288179397583,True,False,False,0.8,numerical_scores,25,20,22.5,676,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 378 hours (over 15 days) for a simple prepaid travel cost approval process. The sequential approval chain through four different roles (Administration → Budget Owner → Supervisor → Director) creates excessive handoffs and delays without clear value justification. While the 100% success rate indicates process reliability, the lengthy cycle time and rigid hierarchical structure violate both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+case_22,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.738057136535645,False,False,True,0.8,numerical_scores,0,0,0.0,539,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or documented procedures, it fails to meet basic Agile principles of transparency and iterative improvement, as well as Lean principles of value stream mapping and waste identification. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_121,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.979602098464966,True,False,False,0.8,numerical_scores,25,20,22.5,691,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 1,200 hours (approximately 30 work weeks) for a travel permit process, indicating poor flow and excessive waste. The sequential approval chain with multiple bottlenecks across all roles (EMPLOYEE, PRE_APPROVER, SUPERVISOR, UNDEFINED) creates delays and lacks the parallel processing or iterative feedback loops that would characterize efficient Agile and Lean processes. While the 100% success rate is positive, it cannot compensate for the fundamental flow problems and lack of value stream optimization."
+pattern_125,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.6633260250091553,True,False,False,0.8,numerical_scores,25,20,22.5,577,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,250 hours (over 31 weeks) and multiple bottlenecks across all stakeholders, indicating poor flow and excessive waste. The linear, sequential approval process lacks iterative feedback loops and collaboration principles from Agile methodology. From a Lean perspective, the process contains substantial non-value-added waiting time and handoffs that create delays without improving the end result."
+case_25,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.428014755249023,False,False,True,0.8,numerical_scores,0,0,0.0,437,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of process definition, success metrics, and activity breakdown violates fundamental Agile principles of transparency and iterative improvement, as well as Lean principles of value stream mapping and waste identification."
+case_26,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.24541163444519,False,False,True,0.8,numerical_scores,0,0,0.0,468,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any information about the actual workflow steps, collaboration methods, or value delivery mechanisms, it fails to demonstrate any Agile or Lean principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_35,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.371635913848877,False,False,True,0.8,numerical_scores,25,20,22.5,635,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of nearly 2,400 hours (approximately 100 days) for what appears to be a straightforward approval process. The sequential approval chain with identified bottlenecks at EMPLOYEE and SUPERVISOR roles creates unnecessary delays and waste, violating Lean principles of flow optimization. The rigid, linear process structure offers little adaptability or iterative improvement opportunities, failing to meet Agile standards for responsive workflow design."
+case_28,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.013715982437134,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+case_29,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.993945121765137,False,False,True,0.8,numerical_scores,0,0,0.0,437,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of process definition, success metrics, and activity breakdown violates fundamental Agile principles of transparency and iterative improvement, as well as Lean principles of value stream mapping and waste identification."
+pattern_104,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.390139818191528,False,False,True,0.8,numerical_scores,15,10,12.5,515,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 40% success rate, extremely long duration (3367 hours), and a linear process that ends in rejection without iterative improvement opportunities. The process contains significant waste through rejected permits and employee bottlenecks, with no apparent feedback loops or collaborative elements to address the high failure rate and optimize the permit approval process."
+case_31,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.461174011230469,False,False,True,0.8,numerical_scores,0,0,0.0,421,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow characteristics, it fails to meet both Agile principles of iterative development and collaboration, as well as Lean principles of value delivery and waste elimination."
+pattern_56,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.036688089370728,True,False,False,0.8,numerical_scores,25,20,22.5,610,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 1,352 hours (approximately 8 weeks) for what appears to be a simple approval process. The sequential approval chain through three hierarchical levels (Employee → Supervisor → Director) creates multiple bottlenecks and handoff delays, violating Lean principles of flow and waste elimination. While the 100% success rate is positive, the rigid, non-collaborative structure lacks Agile adaptability and iterative feedback loops."
+pattern_18,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.866815090179443,False,False,True,0.8,numerical_scores,5,10,7.5,566,,"Agile Score: 5/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate and extremely long average duration of nearly 4 months, indicating complete failure in value delivery. The simple two-step process (submit → reject) shows no iterative improvement, collaboration, or adaptability principles from Agile methodology. From a Lean perspective, this represents pure waste with no value creation, as all declarations are rejected after consuming significant time and resources."
+pattern_92,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.7205970287323,False,False,True,0.8,numerical_scores,25,20,22.5,590,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,264 hours (approximately 94 days) and multiple sequential approval bottlenecks across four different roles. The linear, waterfall-like process with no apparent feedback loops or iterative elements violates Agile principles, while the excessive wait times and handoffs between EMPLOYEE → ADMINISTRATION → SUPERVISOR → DIRECTOR create substantial waste that contradicts Lean value stream optimization."
+case_35,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.241424798965454,False,False,True,0.8,numerical_scores,0,0,0.0,437,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of process definition, success metrics, and activity breakdown violates fundamental Agile principles of transparency and iterative improvement, as well as Lean principles of value stream mapping and waste identification."
+pattern_160,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.3300700187683105,True,False,False,0.8,numerical_scores,25,15,20.0,516,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 489 hours (over 20 days) and contains wasteful rework cycles where requests are rejected and resubmitted. The presence of bottlenecks across all actors including ""MISSING"" and ""UNDEFINED"" indicates poor process definition and lack of clear accountability, violating both Agile collaboration principles and Lean waste elimination goals."
+pattern_164,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.77564811706543,True,False,False,0.8,numerical_scores,25,20,22.5,489,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 353+ hours and a circular pattern where requests get final approval, then rejection, then resubmission by the same employee. This indicates poor collaboration, lack of clear requirements upfront, and substantial waste in the process with unnecessary rework cycles that violate both Agile and Lean principles."
+pattern_84,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.607506990432739,True,False,False,0.8,numerical_scores,25,20,22.5,516,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1150+ hours (nearly 48 days) and multiple bottlenecks across all stakeholder roles, indicating poor flow and excessive waste. While the 100% success rate is positive, the linear, non-iterative process with no apparent feedback loops or collaboration mechanisms violates core Agile principles of adaptability and continuous improvement."
+case_39,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.1586098670959473,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_108,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.602421998977661,False,False,True,0.8,numerical_scores,25,20,22.5,535,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,893 hours (nearly 79 days) and a clear bottleneck at the employee level, indicating poor flow and excessive waste in the process. The linear, sequential approval chain lacks iterative feedback loops and collaborative elements typical of Agile methodologies, while the extended duration suggests substantial non-value-added time in the lean perspective."
+case_41,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.179584980010986,False,False,True,0.8,numerical_scores,0,0,0.0,387,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structure, defined steps, and performance metrics makes it impossible to assess any Agile or Lean principles, resulting in a classification of inefficient by default."
+pattern_168,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.4585959911346436,True,False,False,0.8,numerical_scores,25,20,22.5,545,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a 94-hour average duration for a payment request process that ultimately results in rejection by both the budget owner and employee. The process lacks iterative feedback loops and early validation, causing waste through unnecessary approvals before proper budget verification, violating both Agile principles of early collaboration and Lean principles of eliminating non-value-added activities."
+pattern_165,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.173595905303955,True,True,True,0.8,numerical_scores,65,85,75.0,498,,"Agile Score: 65/100
+Lean Score: 85/100
+Overall Classification: EFFICIENT
+
+Brief Analysis:
+This workflow demonstrates excellent lean principles with minimal duration (0.52 minutes average), perfect success rate, no bottlenecks, and a streamlined two-step approval process that eliminates waste. The agile score is moderate as the simple linear process shows limited iterative elements, though the quick turnaround suggests good responsiveness and collaboration between employee and supervisor roles."
+pattern_102,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.526867151260376,False,False,True,0.8,numerical_scores,15,10,12.5,734,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 2,124 hours (nearly 3 months) and a linear approval chain that results in rejection after multiple approval steps, creating massive waste. The process lacks iterative feedback loops, has bottlenecks at every stage including an ""UNDEFINED"" bottleneck, and shows poor collaboration as permits get approved by three parties only to be rejected later. Despite the 100% success rate, the workflow violates core Lean principles by allowing extensive waste in the value stream and fails Agile principles through its rigid, non-adaptive sequential structure."
+pattern_74,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.536017179489136,False,False,True,0.8,numerical_scores,25,20,22.5,618,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of nearly 2000 hours (83+ days) for what appears to be a simple approval process. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs, violating Lean principles of waste elimination and flow optimization. While the 100% success rate is positive, the excessive cycle time and rigid sequential structure demonstrate poor adherence to both Agile adaptability and Lean efficiency principles."
+pattern_46,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.2001869678497314,False,False,True,0.8,numerical_scores,15,10,12.5,681,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an extremely long average duration of 3,549 hours (nearly 5 months) and multiple sequential approval bottlenecks across four hierarchical levels. The rigid, waterfall-like approval chain from Employee → Pre-Approver → Supervisor → Director creates significant waste and delays, violating both Agile principles of iterative collaboration and Lean principles of streamlined value flow. Despite the perfect success rate, the process lacks adaptability and contains excessive non-value-added approval steps that dramatically impede efficiency."
+pattern_127,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.966233015060425,False,False,True,0.8,numerical_scores,25,20,22.5,637,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of over 1,500 hours (approximately 9 weeks) for a travel permit process that should be completed in days. The sequential approval chain creates multiple handoffs and bottlenecks across all roles, violating Lean principles of waste elimination and flow optimization. While the 100% success rate is positive, the process lacks agile characteristics like iterative feedback loops and shows clear signs of bureaucratic waste with redundant approval steps."
+pattern_83,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.417233228683472,True,False,False,0.8,numerical_scores,15,10,12.5,673,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely low success rate (14.3%) and excessive duration (1265+ hours average), indicating massive waste and poor value delivery. The process shows multiple rejection cycles without iterative improvement mechanisms, poor collaboration between employees and administration, and significant bottlenecks that prevent smooth flow. The workflow violates core Lean principles by containing substantial non-value-added activities and fails Agile principles due to lack of adaptive feedback loops and collaborative problem-solving."
+case_49,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.501845121383667,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_106,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.090189933776855,False,False,True,0.8,numerical_scores,25,20,22.5,585,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2258 hours (94 days) and multiple bottlenecks across all key roles (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR). While the 100% success rate is positive, the linear approval chain lacks iterative feedback loops and parallel processing opportunities that would improve both agility and lean flow. The excessive duration suggests substantial waste in waiting times and handoffs between departments."
+pattern_51,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.666177034378052,False,False,True,0.8,numerical_scores,25,15,20.0,624,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2084 hours (nearly 3 months) and a cycle of rejections that creates waste and delays. The process shows poor collaboration between roles, with permits being rejected multiple times before resubmission, indicating lack of clear requirements and effective communication. Multiple bottlenecks across all roles suggest systemic flow problems and absence of continuous improvement practices fundamental to both Agile and Lean methodologies."
+pattern_15,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.75391697883606,True,False,False,0.8,numerical_scores,25,15,20.0,505,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a rejection-resubmission cycle that creates waste and delays, evidenced by the extremely long 543-hour average duration despite a 100% eventual success rate. The process shows poor flow with multiple bottlenecks across all stakeholders and lacks streamlined value delivery, violating core Lean principles of waste elimination and efficient value streams."
+pattern_153,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.402085065841675,True,False,False,0.8,numerical_scores,15,10,12.5,525,,"Agile Score: 15/100
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (81+ hours), and a linear rejection process that provides no value to the customer. The process lacks iterative feedback loops, has significant waste in the form of administrative bottlenecks, and fails to deliver any successful outcomes, violating core Agile and Lean principles of customer value delivery and continuous improvement."
+pattern_132,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,16.39779782295227,False,False,True,0.8,numerical_scores,25,20,22.5,714,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 2,094 hours (87 days) and multiple sequential approval layers creating bottlenecks across six different roles. The rigid, waterfall-like approval chain from Employee → Administration → Supervisor → Director lacks iterative feedback loops and collaborative elements essential to Agile principles. From a Lean perspective, the process contains substantial waste through excessive handoffs, waiting time, and over-processing with multiple approval stages that don't clearly add proportional value to justify the extended cycle time."
+case_55,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.055555820465088,False,False,True,0.8,numerical_scores,0,0,0.0,407,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow characteristics, it fails to demonstrate any Agile or Lean principles such as iterative development, collaboration, waste elimination, or value delivery."
+pattern_91,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.349181890487671,True,False,False,0.8,numerical_scores,25,20,22.5,679,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,279 hours (approximately 32 weeks) and multiple sequential bottlenecks across all stakeholders. The rigid, waterfall-like approval chain from Employee → Administration → Budget Owner → Supervisor creates substantial delays and waste, violating core Lean principles of flow optimization. While the 100% success rate is positive, the excessive cycle time and lack of parallel processing or iterative feedback loops make this process highly inefficient from both Agile and Lean perspectives."
+case_57,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.195418119430542,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_81,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.49980902671814,False,False,True,0.8,numerical_scores,25,20,22.5,614,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,340 hours (nearly 3.5 months) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. The rigid sequential approval chain (Employee → Administration → Supervisor) lacks agile collaboration and parallel processing opportunities, while the excessive duration suggests substantial waste in the value stream with minimal value-added time relative to total cycle time."
+pattern_48,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.150961875915527,False,False,True,0.8,numerical_scores,25,15,20.0,593,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,113 hours (nearly 3 months) and a wasteful cycle of rejection-resubmission that adds no value. The process shows poor collaboration between employees and supervisors, with bottlenecks across all roles indicating systemic flow problems. While the 100% success rate suggests eventual resolution, the excessive time and rework violate core Lean principles of waste elimination and efficient value streams."
+case_60,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.2988669872283936,False,False,True,0.8,numerical_scores,0,0,0.0,421,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow characteristics, it fails to meet both Agile principles of iterative development and collaboration, as well as Lean principles of value delivery and waste elimination."
+pattern_33,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.030956029891968,False,False,True,0.8,numerical_scores,25,20,22.5,619,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,891 hours (nearly 79 days) and multiple bottlenecks across seven different roles, indicating poor flow and excessive handoffs. The linear approval chain (Employee → Pre-approver → Supervisor) lacks agile principles of collaboration and iterative feedback, while the numerous bottlenecks suggest substantial waste in waiting time and over-processing that violates lean principles of continuous flow and value stream optimization."
+pattern_7,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.585763692855835,False,False,True,0.8,numerical_scores,25,20,22.5,520,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2,869 hours (approximately 4 months) and multiple bottlenecks across all roles including an undefined ""MISSING"" actor. The process lacks iterative feedback loops and contains wasteful steps like rejection followed by resubmission, violating both Agile principles of rapid iteration and Lean principles of waste elimination and smooth flow."
+case_63,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.028906106948853,False,False,True,0.8,numerical_scores,0,0,0.0,510,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structured activities, success metrics, and process definition violates fundamental Agile and Lean principles which require visible, measurable, and iterative processes. Without any identifiable workflow elements, this represents maximum inefficiency from both methodological perspectives."
+pattern_64,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.360277891159058,False,False,True,0.8,numerical_scores,15,10,12.5,491,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 1,612 hours (67 days), poor success rate of 80%, and multiple rejection loops that create significant waste. The process lacks iterative improvement mechanisms and has bottlenecks across all stakeholder roles, indicating poor collaboration and flow optimization that violates both Agile and Lean principles."
+pattern_24,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.414191246032715,True,False,False,0.8,numerical_scores,15,10,12.5,639,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 198 hours and a problematic flow where declarations are approved then rejected twice by different roles, indicating poor collaboration and communication. The process contains significant waste through rework, multiple handoffs creating bottlenecks at every stage, and lacks the iterative feedback loops essential for Agile practices. The sequential approve-then-reject pattern suggests fundamental issues in requirements clarity and stakeholder alignment."
+pattern_22,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.586092948913574,True,False,False,0.8,numerical_scores,25,20,22.5,513,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with an extremely long 82-hour average duration and a linear sequence ending in double rejection (Budget Owner → Employee), indicating poor collaboration and lack of early validation. The process lacks iterative feedback loops and contains substantial waste through late-stage rejections that could have been prevented with better upfront communication and validation steps."
+pattern_37,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.154889106750488,True,False,False,0.8,numerical_scores,25,20,22.5,544,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 780+ hours (over 32 days) and multiple bottlenecks across all key roles (EMPLOYEE, SUPERVISOR, UNDEFINED). While the 100% success rate is positive, the linear, non-iterative process structure and excessive wait times indicate poor flow and substantial waste in the value stream, violating core Lean principles of efficiency and Agile principles of rapid delivery."
+pattern_27,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.800139904022217,False,False,True,0.8,numerical_scores,25,20,22.5,686,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of over 8,000 hours (approximately 11 months) and multiple bottlenecks across all role types. The rigid, sequential approval process through multiple hierarchical levels (Employee → Supervisor → Director) creates substantial delays and waste, violating both Agile principles of rapid iteration and Lean principles of continuous flow. Despite the perfect success rate, the excessive processing time and widespread bottlenecks indicate a heavily bureaucratic process that fails to deliver timely value."
+pattern_70,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.8661608695983887,False,False,True,0.8,numerical_scores,25,20,22.5,531,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 3,439 hours (over 4 months) and bottlenecks at every single role in the process. The rigid, sequential approval chain from Employee → Administration → Budget Owner → Supervisor lacks agile adaptability and creates substantial waste through excessive handoffs and waiting time, violating core lean principles of flow and value stream optimization."
+pattern_1,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.039988994598389,True,False,False,0.8,numerical_scores,25,20,22.5,547,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 237 hours (nearly 10 days) for a simple 4-step domestic declaration process, indicating poor flow and excessive waste. The presence of bottlenecks at both SUPERVISOR and UNDEFINED roles suggests lack of proper resource allocation and process visibility, which violates core Lean principles of smooth value stream flow and Agile principles of efficient collaboration."
+pattern_103,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.527227878570557,False,False,True,0.8,numerical_scores,25,20,22.5,530,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2815 hours (over 3 months) and multiple bottlenecks across different roles including employees, administration, supervisors, and undefined actors. While the 100% success rate is positive, the excessive processing time and numerous bottlenecks indicate poor flow, waste in the value stream, and lack of streamlined collaboration between stakeholders."
+pattern_47,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.488840103149414,False,False,True,0.8,numerical_scores,25,20,22.5,565,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,692 hours (112 days) and multiple sequential approval stages that create bottlenecks at every role including an undefined one. The rigid, waterfall-like process with no apparent feedback loops or iterative elements violates Agile principles, while the excessive wait times and redundant approval layers represent substantial waste that contradicts Lean efficiency standards."
+case_73,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.386031150817871,False,False,True,0.8,numerical_scores,0,0,0.0,481,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative development and collaboration, and Lean principles of value delivery and waste elimination. A complete lack of process structure represents maximum inefficiency."
+pattern_97,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.237229108810425,False,False,True,0.8,numerical_scores,25,20,22.5,593,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,141 hours (nearly 3 months) and a clear pattern of rework where permits are submitted, approved, then rejected multiple times before resubmission. The presence of bottlenecks across all stakeholders (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) indicates poor flow and waste in the process, violating core Lean principles of eliminating non-value-added activities and optimizing flow."
+pattern_59,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.233963012695312,False,False,True,0.8,numerical_scores,25,20,22.5,568,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,573 hours (approximately 9 weeks) and clear bottlenecks at both EMPLOYEE and SUPERVISOR roles, indicating poor flow and excessive waste in the process. While the 100% success rate is positive, the linear, non-iterative sequence of activities with lengthy approval cycles contradicts both Agile principles of rapid iteration and Lean principles of continuous flow and waste elimination."
+case_76,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.419051885604858,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_119,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.559495210647583,False,False,True,0.8,numerical_scores,25,20,22.5,666,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,187 hours (over 3 months) and multiple sequential approval layers creating bottlenecks at every stage. The rigid, waterfall-like approval chain (Employee → Pre-approver → Supervisor → Director) lacks agile principles of collaboration and adaptability, while the extensive wait times and handoffs represent substantial waste in the lean context. Despite the perfect success rate, the process fails to deliver timely value and contains excessive non-value-added approval steps."
+pattern_98,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.329015016555786,False,False,True,0.8,numerical_scores,25,20,22.5,643,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,757 hours (over 2 months) and multiple sequential approval bottlenecks involving six different roles. The linear, waterfall-like process with no apparent parallelization or iterative feedback loops violates both Agile principles of rapid iteration and Lean principles of waste elimination. While the 100% success rate is positive, the excessive wait times and handoffs create substantial non-value-added activities that severely impact flow efficiency."
+pattern_78,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.937817096710205,False,False,True,0.8,numerical_scores,15,20,17.5,514,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits classic waterfall characteristics with a rigid sequential approval chain requiring five separate approvals, creating significant delays (2194 hours average) and multiple bottlenecks at every stage. The process lacks iterative feedback loops, parallel processing opportunities, and shows excessive waste through redundant approval layers that add little value while dramatically extending cycle time."
+pattern_149,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.021389245986938,True,False,False,0.8,numerical_scores,25,20,22.5,704,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 241 hours (over 10 days) for a prepaid travel cost process, indicating poor flow and excessive waste. The sequential approval chain through multiple hierarchical levels (Employee → Administration → Supervisor) creates bottlenecks and delays, violating Lean principles of streamlined value flow. While the 100% success rate is positive, the rigid, non-collaborative approval structure and identified bottlenecks at multiple stages demonstrate poor adherence to both Agile collaboration principles and Lean waste elimination."
+pattern_85,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.083020210266113,True,False,False,0.8,numerical_scores,25,20,22.5,528,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 1,261 hours (approximately 52 days) and multiple bottlenecks across all stakeholders. The linear, sequential approval process lacks agile principles of iterative feedback and collaboration, while the excessive duration and numerous bottlenecks indicate substantial waste in the value stream that violates lean principles of flow optimization."
+pattern_167,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.85519003868103,True,False,False,0.8,numerical_scores,25,20,22.5,582,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 336 hours (14 days) and multiple bottlenecks across all approval stages. The rigid, sequential approval chain through four different roles creates excessive handoffs and delays, violating Lean principles of waste elimination and smooth flow. The process lacks Agile characteristics like iterative feedback loops and shows poor collaboration efficiency with bottlenecks at every approval level."
+pattern_105,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.4996137619018555,False,False,True,0.8,numerical_scores,15,10,12.5,581,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 2,336 hours (nearly 3 months) and a linear, non-iterative process that includes rejection steps followed by more rejections before trip initiation. The presence of multiple bottlenecks across all stakeholders (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR) indicates poor flow and significant waste in the value stream, violating core Lean principles of continuous flow and waste elimination."
+pattern_17,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.908437013626099,True,False,False,0.8,numerical_scores,25,20,22.5,581,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a rejection-resubmission cycle that creates waste and delays, evidenced by the extremely long 515-hour average duration. The process shows poor flow with multiple bottlenecks across all roles and lacks the iterative improvement and collaboration principles of Agile methodology. The rejection loop between supervisor and employee represents classic waste in Lean terms, with no clear value-add during the extended processing time."
+pattern_138,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,16.16039204597473,True,False,False,0.8,numerical_scores,25,20,22.5,605,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,497 hours (over 62 days) and bottlenecks across all actors including an ""UNDEFINED"" bottleneck, indicating poor process visibility. While the 100% success rate is positive, the linear, sequential approval chain lacks iterative feedback loops and parallel processing opportunities that would align with Agile principles, and the excessive duration suggests substantial waste in the value stream contrary to Lean principles."
+case_86,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.308627843856812,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_40,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.279611110687256,False,False,True,0.8,numerical_scores,25,20,22.5,632,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 7,637 hours (approximately 318 days) and multiple bottlenecks across all human touchpoints. The rigid sequential approval chain through three hierarchical levels creates substantial waste and delays, violating Lean principles of flow optimization and Agile principles of rapid iteration and collaboration. Despite the perfect success rate, the process lacks adaptability and contains excessive non-value-added waiting time between approval stages."
+pattern_31,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.888503074645996,False,False,True,0.8,numerical_scores,25,20,22.5,511,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1670 hours (nearly 10 weeks) and bottlenecks across seven different roles, indicating poor flow and excessive waste. While the 100% success rate is positive, the linear process lacks iterative feedback loops and the numerous bottlenecks suggest poor collaboration and resource allocation, violating both Agile and Lean principles."
+pattern_166,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.863538980484009,True,False,False,0.8,numerical_scores,15,10,12.5,577,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 668 hours (nearly 28 days) and multiple rejection points that create waste and rework. The process lacks iterative feedback loops and has bottlenecks at every stage, indicating poor collaboration and flow. The sequential approval chain followed by rejections at the end represents significant waste in the value stream, violating core Lean principles of eliminating non-value-added activities."
+pattern_55,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.181390047073364,False,False,True,0.8,numerical_scores,25,20,22.5,502,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1779 hours (over 2 months) and multiple bottlenecks including an undefined role, indicating poor process definition and flow. While the 100% success rate is positive, the linear approval chain lacks iterative feedback loops and the excessive duration suggests substantial waste in waiting time and handoffs between roles."
+pattern_88,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.6712400913238525,True,False,False,0.8,numerical_scores,25,20,22.5,545,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 838 hours (nearly 35 days) and bottlenecks at every role including an ""UNDEFINED"" bottleneck, indicating poor process definition and flow. While the 100% success rate is positive, the linear, non-iterative approval chain lacks agile collaboration and contains substantial waste in the form of excessive wait times and unclear handoffs that violate lean principles."
+case_92,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.455196142196655,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+case_93,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.045320987701416,False,False,True,0.8,numerical_scores,0,0,0.0,452,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as there is no defined process, measurable duration, success metrics, or identified activities. The complete absence of workflow information indicates a lack of basic process definition, which violates fundamental Agile and Lean principles that require visibility, measurement, and continuous improvement of defined processes."
+pattern_63,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.663824081420898,False,False,True,0.8,numerical_scores,25,20,22.5,549,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 3,470 hours (approximately 4.8 months) for a simple 5-step approval process, indicating massive delays and waste in the value stream. Multiple bottlenecks across all stakeholders (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) suggest poor flow and lack of streamlined processes, violating core Lean principles of waste elimination and continuous flow."
+pattern_8,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.714069128036499,True,False,False,0.8,numerical_scores,25,20,22.5,552,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 242 hours (over 10 days) for a domestic declaration process, indicating poor flow and excessive waste. The presence of bottlenecks at both EMPLOYEE and SUPERVISOR stages, combined with a rejection step by ""MISSING"" (suggesting incomplete information), demonstrates lack of streamlined processes and effective collaboration that are core to both Agile and Lean principles."
+case_96,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.344543933868408,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_20,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.294985294342041,True,False,False,0.8,numerical_scores,25,20,22.5,619,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with a 566-hour average duration and a rejection-resubmission cycle that creates waste and delays. While the 100% success rate indicates eventual completion, the process involves multiple rejection points and bottlenecks across all stakeholders, violating Lean principles of smooth flow and waste elimination. The iterative rejection pattern suggests poor initial requirements clarity and collaboration, which contradicts Agile values of effective communication and early feedback."
+pattern_73,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.238572120666504,False,False,True,0.8,numerical_scores,15,10,12.5,548,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an extremely long average duration of 2,513 hours (approximately 15 weeks) and bottlenecks at every single stage including all four approval levels. The rigid, sequential approval chain from Employee → Administration → Supervisor → Director lacks agile adaptability and creates massive waste through excessive handoffs and waiting time, violating core lean principles of flow and value stream optimization."
+pattern_141,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.223491191864014,True,False,False,0.8,numerical_scores,25,20,22.5,515,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 796 hours (over 33 days) and contains wasteful activities like a payment request rejection that adds no value. The process lacks iterative feedback loops and has multiple bottlenecks across all stakeholders, indicating poor flow and excessive handoffs that violate both Agile collaboration principles and Lean waste elimination goals."
+pattern_111,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.770156860351562,True,False,False,0.8,numerical_scores,25,20,22.5,634,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of nearly 1,170 hours (about 7 weeks) for what appears to be a simple approval process. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs, violating Lean principles of waste elimination and smooth flow. While the 100% success rate is positive, the lack of parallel processing, excessive wait times, and rigid linear structure make this process highly inefficient from both Agile and Lean perspectives."
+pattern_161,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.568727016448975,True,False,False,0.8,numerical_scores,25,15,20.0,591,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a rejection-resubmission cycle that extends the average duration to over 270 hours, creating substantial waste in the value stream. The presence of undefined bottlenecks and a linear approval process with rejection loops indicates poor flow design and lack of collaborative problem-solving mechanisms. While the 100% success rate shows eventual completion, the process violates core Lean principles of waste elimination and continuous flow."
+pattern_87,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.959257125854492,False,False,True,0.8,numerical_scores,25,20,22.5,608,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1904 hours (nearly 80 days) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. While the 100% success rate is positive, the sequential approval chain lacks iterative feedback loops and parallel processing opportunities that would align with Agile principles, and the excessive duration suggests substantial waste in the value stream contrary to Lean methodology."
+pattern_90,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.409838914871216,True,False,False,0.8,numerical_scores,25,20,22.5,546,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1320+ hours (55+ days) and multiple sequential approval bottlenecks across four different roles (Employee, Administration, Supervisor, Director). The rigid, waterfall-like approval chain violates both Agile principles of iterative collaboration and Lean principles of waste elimination, creating excessive wait times and handoffs that add no customer value."
+pattern_113,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.7251827716827393,True,False,False,0.8,numerical_scores,25,20,22.5,533,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,452 hours (over 60 days) and bottlenecks across all resource types, indicating poor flow and excessive waste. The linear, approval-heavy process lacks iterative feedback loops and collaborative elements essential to Agile principles, while the multiple handoffs and lengthy cycle time violate Lean principles of continuous flow and waste elimination."
+pattern_19,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.572730302810669,True,False,False,0.8,numerical_scores,15,10,12.5,494,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (over 200 hours), and a purely linear rejection process that provides no value to customers. The process lacks any iterative improvement mechanisms, collaboration between stakeholders, and contains significant waste through repeated rejections without resolution, violating core Agile and Lean principles."
+pattern_124,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.066565036773682,False,False,True,0.8,numerical_scores,25,20,22.5,548,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1613 hours (over 67 days) and multiple sequential approval bottlenecks across four different roles. The linear, waterfall-style process with no apparent iteration or parallel processing violates both Agile principles of rapid delivery and Lean principles of waste elimination, creating excessive wait times and handoff delays despite the perfect success rate."
+pattern_99,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.28628396987915,True,False,False,0.8,numerical_scores,25,20,22.5,717,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,353 hours (over 8 weeks) for what appears to be a simple approval process, indicating substantial waste and poor flow. The linear, sequential approval chain through multiple hierarchical levels (Employee → Administration → Supervisor) creates bottlenecks at every step and lacks the collaborative, iterative approaches valued in Agile methodologies. While the 100% success rate is positive, the excessive time investment and rigid bureaucratic structure violate core Lean principles of waste elimination and value stream optimization."
+pattern_150,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.4451160430908203,True,False,False,0.8,numerical_scores,25,20,22.5,744,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 339 hours (over 14 days) for a prepaid travel cost approval process, indicating excessive waste and poor flow. The sequential approval chain through four different roles (Employee → Administration → Budget Owner → Supervisor) creates multiple handoffs and bottlenecks at every stage, violating Lean principles of streamlined value streams. While the 100% success rate is positive, the rigid linear process lacks Agile characteristics like iterative feedback loops, parallel processing opportunities, or adaptive mechanisms to handle varying complexity levels."
+case_109,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.5322628021240234,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_54,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.380329132080078,False,False,True,0.8,numerical_scores,25,20,22.5,495,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 3,000 hours (approximately 4 months) and clear bottlenecks at both EMPLOYEE and SUPERVISOR levels. The process lacks iterative feedback loops and has a confusing end state where permits are rejected by ""MISSING"" after trip completion, indicating poor workflow design and substantial waste in the value stream."
+pattern_147,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.886000871658325,True,False,False,0.8,numerical_scores,25,20,22.5,573,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 233+ hours for a prepaid travel cost process, multiple approval bottlenecks (PRE_APPROVER, SUPERVISOR, UNDEFINED), and a rigid sequential structure that lacks iterative feedback loops. While the 100% success rate is positive, the excessive processing time and identified bottlenecks indicate substantial waste in the value stream, violating core Lean principles of flow and waste elimination."
+pattern_110,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.7237110137939453,True,False,False,0.8,numerical_scores,25,20,22.5,530,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,135 hours (over 47 days) and multiple bottlenecks across all key stakeholders (Employee, Administration, Budget Owner). While the 100% success rate is positive, the linear sequential process with potential rejection at the final stage creates substantial waste and delays, violating core Lean principles of flow optimization and waste elimination."
+pattern_3,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.707041025161743,True,False,False,0.8,numerical_scores,25,15,20.0,535,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 944 hours (nearly 6 weeks) and contains wasteful rework patterns where declarations are submitted, approved, then rejected and resubmitted. The presence of ""MISSING"" and ""UNDEFINED"" actors as bottlenecks indicates poor process definition and lack of clear ownership, violating both Agile collaboration principles and Lean waste elimination goals."
+case_114,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.25935983657837,False,False,True,0.8,numerical_scores,0,0,0.0,511,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of process definition, success metrics, and activity breakdown violates fundamental Agile and Lean principles which require visibility, measurement, and continuous improvement. Without any structured workflow elements, this represents maximum inefficiency from both methodological perspectives."
+pattern_30,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.335181951522827,False,False,True,0.8,numerical_scores,25,20,22.5,589,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,554 hours (approximately 9 weeks) and clear bottlenecks at both EMPLOYEE and SUPERVISOR levels, indicating poor flow and excessive waste in the process. While the 100% success rate is positive, the linear, non-iterative sequence of activities and lengthy cycle time suggest minimal agile practices and substantial opportunities for lean improvements through bottleneck elimination and process streamlining."
+case_116,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.0318357944488525,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+case_117,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.920521974563599,False,False,True,0.8,numerical_scores,0,0,0.0,395,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow characteristics, it fails to meet both Agile principles of iterative development and Lean principles of value delivery and waste elimination."
+case_118,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.029508113861084,False,False,True,0.8,numerical_scores,0,0,0.0,511,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structure, defined steps, and performance metrics makes it impossible to assess against Agile principles of iterative delivery and collaboration, or Lean principles of value creation and waste elimination. A workflow with no identifiable process or activities represents maximum inefficiency."
+pattern_155,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.418203353881836,True,False,False,0.8,numerical_scores,15,10,12.5,477,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with multiple rejection cycles between employee and administration, resulting in an extremely long duration (850+ hours) and poor success rate (67%). The process shows significant waste through rework, delays, and bottlenecks across all stakeholders, with no clear value-adding flow or collaborative problem-solving mechanisms in place."
+pattern_94,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.684900999069214,True,False,False,0.8,numerical_scores,25,20,22.5,550,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1119 hours (nearly 47 days) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. While the 100% success rate is positive, the linear, sequential approval process lacks agile iterative elements and contains substantial waste in the form of excessive wait times and handoffs between multiple approval layers."
+case_121,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.415065050125122,False,False,True,0.8,numerical_scores,0,0,0.0,488,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or documented procedures, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_146,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.593428134918213,True,False,False,0.8,numerical_scores,15,10,12.5,514,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows critical dysfunction with 0% success rate and only one activity (saving a request), indicating the process is incomplete or broken. The lack of actual payment processing, approval steps, or measurable outcomes violates both Agile principles of delivering working solutions and Lean principles of creating value flow. This appears to be a non-functional process fragment rather than a complete workflow."
+pattern_151,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.792886972427368,True,False,False,0.8,numerical_scores,25,20,22.5,660,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a rejection-resubmission cycle that creates waste and delays, evidenced by the extremely long 621.95 hour average duration. The process shows poor flow with multiple bottlenecks across all stakeholders (EMPLOYEE, ADMINISTRATION, SUPERVISOR, BUDGET OWNER, UNDEFINED) and lacks streamlined value delivery. While the 100% success rate indicates eventual completion, the circuitous path through rejection and resubmission violates both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_115,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.109869956970215,False,False,True,0.8,numerical_scores,25,20,22.5,624,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2809.8 hours (approximately 117 days) for a travel permit process, indicating poor flow and excessive waste. The linear, sequential approval chain with multiple handoffs creates bottlenecks and lacks the iterative feedback loops essential to Agile principles. The process appears rigid with no apparent mechanisms for adaptation or collaboration between roles, violating both Lean waste elimination and Agile responsiveness principles."
+pattern_156,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.6433470249176025,True,False,False,0.8,numerical_scores,25,20,22.5,581,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 165+ hours and multiple rejection points that create waste and rework. The process lacks iterative feedback loops and has clear bottlenecks at ADMINISTRATION and SUPERVISOR stages, indicating poor flow and excessive handoffs. The sequential approval-rejection pattern suggests a rigid, non-collaborative approach that contradicts both Agile adaptability and Lean waste elimination principles."
+case_126,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.068295955657959,False,False,True,0.8,numerical_scores,0,0,0.0,397,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structure, defined steps, and performance metrics violates fundamental Agile and Lean principles which require visibility, measurement, and continuous improvement capabilities."
+pattern_43,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.059942245483398,True,False,False,0.8,numerical_scores,25,20,22.5,525,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1458 hours (over 60 days) and bottlenecks at every human touchpoint, indicating poor flow and excessive waste. The linear, approval-heavy process lacks agile principles like iterative feedback and has minimal collaboration, while the multiple bottlenecks and extended cycle time violate lean principles of continuous flow and waste elimination."
+pattern_117,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.719814777374268,False,False,True,0.8,numerical_scores,25,20,22.5,662,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1744.5 hours (~73 days) and multiple bottlenecks including undefined roles, indicating poor process design and lack of clear ownership. The linear, approval-heavy process with no apparent feedback loops or iterative elements violates both Agile principles of collaboration and adaptability, and Lean principles of waste elimination and smooth flow. The presence of ""MISSING"" and ""UNDEFINED"" bottlenecks suggests systemic process breakdowns that create substantial delays and waste."
+pattern_52,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.860766887664795,False,False,True,0.8,numerical_scores,25,20,22.5,536,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 2,301 hours (nearly 3 months) and multiple sequential approval bottlenecks through three hierarchical levels. The linear, waterfall-like process lacks iterative feedback loops and collaborative elements typical of Agile methodologies, while the excessive wait times and handoffs represent substantial waste in the value stream from a Lean perspective."
+pattern_144,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.406611919403076,True,False,False,0.8,numerical_scores,25,20,22.5,550,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 112+ hours for a simple 3-step approval process, indicating poor flow and excessive waste. The bottleneck at the SUPERVISOR level and the presence of a ""MISSING"" rejection step suggest lack of clear communication channels and process visibility, violating both Lean principles of smooth value flow and Agile principles of collaboration and rapid feedback loops."
+pattern_9,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.8125340938568115,True,False,False,0.8,numerical_scores,15,10,12.5,481,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (181+ hours), and a linear rejection pattern that provides no value to the customer. The process lacks iterative feedback loops, has significant waste in the form of bottlenecks at the supervisor level, and shows no continuous flow or value delivery, violating core Agile and Lean principles."
+pattern_152,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.003561019897461,True,False,False,0.8,numerical_scores,25,15,20.0,669,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 525 hours and a rejection-resubmission cycle that creates waste and delays. The process involves multiple bottlenecks across five different roles and shows poor flow with requests being rejected and requiring rework, violating core Lean principles of waste elimination and continuous flow. While there is some iterative element in the resubmission process, the lack of streamlined approval and excessive handoffs make this highly inefficient from both Agile and Lean perspectives."
+case_133,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.54883599281311,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+case_134,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.783437967300415,False,False,True,0.8,numerical_scores,0,0,0.0,481,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative development and collaboration, and Lean principles of value delivery and waste elimination. A complete lack of process structure represents maximum inefficiency."
+pattern_143,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.691872119903564,True,False,False,0.8,numerical_scores,25,20,22.5,503,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The 750+ hour average duration for travel permit approval represents excessive waste and poor flow, violating core Lean principles of efficiency and value delivery. The rigid four-step sequential approval process lacks Agile characteristics like iterative feedback loops and adaptive workflows, creating unnecessary bureaucratic overhead that delays value realization for employees seeking travel authorization."
+case_136,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.9496488571167,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_123,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.258890390396118,False,False,True,0.8,numerical_scores,25,20,22.5,558,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,772 hours (over 2 months) and identified bottlenecks at SUPERVISOR and UNDEFINED roles, indicating poor flow and waste in the process. While the 100% success rate is positive, the linear, sequential approval chain lacks agile principles like iterative feedback loops and parallel processing, and violates lean principles by creating excessive wait times and unclear handoffs."
+pattern_116,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,17.387928247451782,False,False,True,0.8,numerical_scores,25,20,22.5,582,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,664 hours (over 2 months) and ends in rejection after multiple approval stages, creating substantial waste. The linear, rigid approval chain lacks agile adaptability and collaboration, while the rejection at the final stage after extensive processing violates lean principles of early feedback and waste elimination. Multiple bottlenecks across all roles indicate poor flow and resource utilization."
+case_139,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.2864363193511963,False,False,True,0.8,numerical_scores,0,0,0.0,542,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, or identifiable activities. Without any information about duration, success rates, activities, or bottlenecks, it's impossible to assess adherence to Agile or Lean principles. A complete lack of process definition and metrics represents the antithesis of both methodologies, which emphasize measurement, continuous improvement, and clearly defined value streams."
+pattern_44,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.782022953033447,False,False,True,0.8,numerical_scores,25,20,22.5,509,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2,491 hours (over 3 months) and bottlenecks at every role in the process. The linear, sequential approval chain lacks agile principles of iterative feedback and collaboration, while the excessive duration and multiple bottlenecks indicate substantial waste in the value stream that violates lean principles of flow optimization."
+pattern_107,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.128839254379272,False,False,True,0.8,numerical_scores,25,20,22.5,585,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2336 hours (nearly 3 months) and multiple bottlenecks across all stakeholder roles, indicating poor flow and excessive waste. While the 100% success rate is positive, the linear sequential process lacks iterative feedback loops and collaborative elements essential to Agile principles, and the numerous bottlenecks suggest substantial non-value-added waiting time that violates Lean efficiency standards."
+pattern_71,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.91151213645935,False,False,True,0.8,numerical_scores,25,20,22.5,553,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 7,174 hours (nearly 300 days) and multiple sequential approval bottlenecks involving six different roles. The linear, waterfall-like process with no apparent iteration or parallel processing violates both Agile principles of rapid delivery and Lean principles of waste elimination, creating excessive wait times and handoff delays despite the perfect success rate."
+pattern_12,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.986134052276611,False,False,True,0.8,numerical_scores,15,10,12.5,469,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 25% success rate, excessive duration of 1726+ hours, and a repetitive rejection cycle that creates significant waste. The bottleneck at the SUPERVISOR level and lack of collaborative feedback mechanisms violate both Agile principles of iterative improvement and Lean principles of waste elimination and smooth value flow."
+case_144,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.347127199172974,False,False,True,0.8,numerical_scores,0,0,0.0,545,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or performance metrics. Without any information about the actual workflow structure, duration, success rate, or identified bottlenecks, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_16,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.96359395980835,True,False,False,0.8,numerical_scores,25,20,22.5,634,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 342+ hours (over 2 weeks) and bottlenecks at every single stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. The linear, sequential approval chain with multiple handoffs creates substantial waste and delays, violating Lean principles of flow optimization and waste elimination, while the rigid structure offers little adaptability or iterative improvement opportunities that Agile methodologies emphasize."
+case_146,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.673076868057251,False,False,True,0.8,numerical_scores,0,0,0.0,426,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structure, defined steps, and performance metrics makes it impossible to assess against Agile principles of iterative delivery and collaboration, or Lean principles of value creation and waste elimination."
+case_147,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.9351119995117188,False,False,True,0.8,numerical_scores,0,0,0.0,468,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any information about the actual workflow steps, collaboration methods, or value delivery mechanisms, it fails to demonstrate any Agile or Lean principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_134,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.3492002487182617,True,False,False,0.8,numerical_scores,25,15,20.0,588,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 974 hours (over 40 days) and a confusing process flow where permits are both approved and rejected before being rejected again by the employee. The process lacks clear iterative feedback loops, has obvious waste in the form of redundant rejection steps, and creates a bottleneck at the employee level, violating both Agile principles of rapid iteration and Lean principles of streamlined value flow."
+pattern_25,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.04099702835083,True,False,False,0.8,numerical_scores,15,10,12.5,547,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 40% failure rate, excessive duration of nearly 1200 hours, and a repetitive rejection cycle that creates significant waste. The process lacks proper collaboration between EMPLOYEE and ADMINISTRATION, resulting in multiple failed iterations without learning or improvement, which violates both Agile principles of adaptive collaboration and Lean principles of waste elimination and smooth value flow."
+case_150,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,1.8278300762176514,False,False,True,0.8,numerical_scores,0,0,0.0,415,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of information indicates a lack of structured approach, which violates both Agile principles of transparency and defined iterations, and Lean principles of visible value streams and measurable flow."
+pattern_114,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.881448984146118,False,False,True,0.8,numerical_scores,25,20,22.5,557,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2096 hours (87 days) and multiple bottlenecks across all role types including an ""UNDEFINED"" bottleneck. While the 100% success rate is positive, the linear sequential process lacks iterative feedback loops and parallel processing opportunities, creating excessive waste in waiting time and handoffs that violate both Agile collaboration principles and Lean flow optimization."
+pattern_68,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.9312989711761475,False,False,True,0.8,numerical_scores,25,20,22.5,554,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 2400 hours (approximately 101 days) for what appears to be a simple permit approval process. The presence of bottlenecks across all roles (EMPLOYEE, ADMINISTRATION, SUPERVISOR, UNDEFINED) indicates poor flow and waste in the system, while the linear sequence of activities suggests limited iterative feedback loops or collaborative elements typical of agile processes."
+pattern_77,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.643527030944824,False,False,True,0.8,numerical_scores,25,20,22.5,569,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1797 hours (approximately 75 days) and bottlenecks at every single stage including an ""UNDEFINED"" bottleneck. The rigid sequential approval chain through four different roles (Employee → Administration → Supervisor → Director) creates excessive handoffs and waiting time, violating both Agile principles of rapid iteration and Lean principles of waste elimination and smooth flow."
+case_154,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.1523449420928955,False,False,True,0.8,numerical_scores,0,0,0.0,446,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of structure, duration data, success metrics, and identified bottlenecks indicates a lack of basic process definition, which violates fundamental Agile and Lean principles of transparency, measurement, and continuous improvement."
+pattern_42,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.947089910507202,False,False,True,0.8,numerical_scores,25,20,22.5,521,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,126 hours (nearly 3 months) and bottlenecks at every stage including an undefined role. The sequential approval process lacks agile principles of iterative feedback and collaboration, while the lean perspective reveals excessive waste through prolonged cycle times and multiple handoffs that don't add clear value to the customer."
+pattern_118,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.6895339488983154,True,False,False,0.8,numerical_scores,15,5,10.0,594,,"Agile Score: 15/100
+Lean Score: 5/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow is severely inefficient with a 0% success rate and extremely long duration of over 1400 hours, indicating massive waste and complete process failure. The bottleneck at the EMPLOYEE level suggests poor resource allocation and lack of flow optimization, while the zero success rate demonstrates no value delivery to customers. The process lacks any evidence of iterative improvement, collaboration mechanisms, or waste elimination principles fundamental to both Agile and Lean methodologies."
+case_157,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.785414218902588,False,False,True,0.8,numerical_scores,0,0,0.0,485,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, duration data, or success indicators, it fails to meet basic requirements for both Agile iterative development and Lean value stream principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+case_158,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.096668004989624,False,False,True,0.8,numerical_scores,0,0,0.0,522,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structured elements violates both Agile principles (which require defined iterations and deliverables) and Lean principles (which require identifiable value streams and processes to optimize). Without any workflow definition, this represents maximum inefficiency from both methodological perspectives."
+pattern_36,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.305992126464844,False,False,True,0.8,numerical_scores,15,10,12.5,545,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 1,921 hours (80+ days) and a linear rejection-heavy process that lacks iterative feedback loops essential to Agile principles. The process shows significant waste with bottlenecks at multiple roles and a sequence ending in rejection by the employee, indicating poor value stream design and lack of continuous flow optimization that are core to Lean methodology."
+pattern_66,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.643803119659424,True,False,False,0.8,numerical_scores,25,20,22.5,585,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1486 hours (over 2 months) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. The rigid sequential approval chain (Employee → Administration → Supervisor) lacks iterative feedback loops and parallel processing opportunities, violating both Agile principles of collaboration and Lean principles of waste elimination and smooth flow."
+pattern_58,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.354621887207031,False,False,True,0.8,numerical_scores,25,15,20.0,539,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,701 hours (over 2 months) and contains wasteful rework where permits are submitted, approved, then rejected and resubmitted. The presence of ""MISSING"" and ""UNDEFINED"" bottlenecks indicates poor process definition and lack of clear ownership, violating both Agile principles of collaboration and Lean principles of waste elimination and smooth flow."
+pattern_100,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.236450910568237,False,False,True,0.8,numerical_scores,25,15,20.0,632,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1916 hours (nearly 80 days) and a cycle of approvals and rejections that creates waste and delays. The process shows poor flow with multiple bottlenecks across all stakeholder roles and a rejection-resubmission loop that violates Lean principles of eliminating waste and optimizing value streams. While the 100% success rate is positive, the excessive time and rework make this process highly inefficient from both Agile and Lean perspectives."
+pattern_122,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.781808137893677,False,False,True,0.8,numerical_scores,25,20,22.5,667,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,672 hours (nearly 10 weeks) and multiple sequential approval bottlenecks across all roles including an undefined bottleneck. The rigid, linear approval chain from Employee → Supervisor → Director → Employee → Supervisor lacks parallel processing, self-organization, and continuous flow principles essential to both Agile and Lean methodologies. Despite the perfect success rate, the excessive cycle time and waste in the approval process make this workflow highly inefficient."
+pattern_23,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.507237672805786,True,False,False,0.8,numerical_scores,25,20,22.5,671,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 803 hours (over 33 days) and multiple rejection points that create waste and rework loops. Despite a 100% success rate, the process involves all roles as bottlenecks and follows a rigid sequential approval chain that contradicts Agile principles of collaboration and Lean principles of streamlined flow. The multiple rejection stages (by both SUPERVISOR and EMPLOYEE after approvals) indicate poor communication and lack of early validation, creating substantial non-value-added activities."
+pattern_67,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.080533981323242,False,False,True,0.8,numerical_scores,25,20,22.5,529,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 5,863 hours (approximately 8 months) and bottlenecks at every major role including an undefined bottleneck. The linear, sequential approval process lacks agile principles of iteration and collaboration, while the excessive duration and multiple bottlenecks indicate substantial waste and poor flow optimization that violate lean principles."
+case_166,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,1.8936779499053955,False,False,True,0.8,numerical_scores,0,0,0.0,415,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. The complete absence of information indicates a lack of structured approach, which violates both Agile principles of transparency and defined iterations, and Lean principles of visible value streams and measurable flow."
+case_167,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.322709321975708,False,False,True,0.8,numerical_scores,0,0,0.0,405,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow, it fails to meet both Agile principles of iterative development and collaboration, as well as Lean principles of value delivery and waste elimination."
+pattern_5,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.659495830535889,True,False,False,0.8,numerical_scores,25,15,20.0,560,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,141 hours (nearly 48 days) and multiple rejection cycles that create waste through rework. While there is some iterative feedback between employee and supervisor, the process lacks streamlined flow and contains substantial non-value-added activities, with bottlenecks at every stage including an ""UNDEFINED"" bottleneck that suggests poor process visibility and control."
+pattern_112,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.307257652282715,True,False,False,0.8,numerical_scores,25,20,22.5,578,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of over 60 days and multiple sequential approval bottlenecks across all roles including an ""UNDEFINED"" bottleneck. The rigid, waterfall-like approval chain (Employee → Supervisor → Director → Employee → Supervisor) lacks parallelization, creates excessive handoffs, and provides no iterative feedback loops, violating core Agile and Lean principles of flow optimization and waste elimination."
+pattern_130,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.488215923309326,True,False,False,0.8,numerical_scores,25,20,22.5,567,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,267 hours (over 7 weeks) and bottlenecks across all actors including an ""UNDEFINED"" bottleneck, indicating poor process visibility. While the 100% success rate is positive, the linear, non-iterative approval chain with multiple handoffs creates substantial waste and delays, violating core Lean principles of flow optimization and Agile principles of rapid delivery and collaboration."
+pattern_137,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.210611820220947,False,False,True,0.8,numerical_scores,25,20,22.5,603,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1555.5 hours (approximately 9 weeks) and multiple bottlenecks across all stakeholders, indicating poor flow and excessive waste. The linear, sequential approval process lacks iterative feedback loops and collaboration principles from Agile methodology. From a Lean perspective, the process contains substantial non-value-added waiting time and handoffs that create delays without improving the end result for the customer."
+pattern_145,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.956732034683228,True,False,False,0.8,numerical_scores,25,20,22.5,530,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 208 hours (over 5 weeks) for a simple 4-step prepaid travel cost process, indicating poor flow and excessive waste. The identified bottlenecks at SUPERVISOR and UNDEFINED roles suggest approval delays and unclear process ownership, which violates both Agile principles of rapid iteration and Lean principles of continuous flow and waste elimination."
+pattern_120,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,17.497164249420166,False,False,True,0.8,numerical_scores,25,20,22.5,674,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2094 hours (87 days) for a travel permit process, indicating poor flow and excessive waste. The process contains a contradictory step where permits are ""FINAL_APPROVED"" then ""REJECTED by MISSING,"" suggesting lack of proper validation and rework, which violates both Agile adaptability principles and Lean waste elimination. Despite the 100% success rate, the process duration and illogical sequence indicate substantial room for improvement in both collaboration and value stream optimization."
+case_174,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.1512370109558105,False,False,True,0.8,numerical_scores,0,0,0.0,465,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process documentation and metrics indicates fundamental inefficiency."
+case_175,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.973353862762451,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_76,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.150496006011963,True,False,False,0.8,numerical_scores,25,20,22.5,590,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,258 hours (over 7 weeks) for a relatively simple 5-step approval process. The presence of multiple bottlenecks across all stakeholder roles indicates poor flow and excessive handoffs, violating Lean principles of waste elimination. While the 100% success rate is positive, the sequential approval chain lacks Agile characteristics like iterative feedback loops and parallel processing opportunities."
+pattern_32,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.781425952911377,False,False,True,0.8,numerical_scores,25,20,22.5,533,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,638 hours (110 days) and multiple bottlenecks across all roles including undefined ones. The rigid sequential approval chain (Employee → Supervisor → Director) lacks agile collaboration and creates unnecessary delays, while the presence of ""MISSING"" and ""UNDEFINED"" bottlenecks indicates poor process definition and waste in the value stream."
+pattern_142,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.7584969997406,True,False,False,0.8,numerical_scores,25,20,22.5,575,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,201 hours (50+ days) and bottlenecks at the EMPLOYEE level, indicating poor flow and excessive waste in the process. The linear, sequential approval chain lacks iterative feedback loops and collaborative elements typical of Agile practices, while the extended duration suggests substantial non-value-added time and delays that violate Lean principles of continuous flow and waste elimination."
+case_179,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.019043684005737,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_45,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.937349796295166,False,False,True,0.8,numerical_scores,25,15,20.0,511,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,519 hours (over 3 months) and a rejection-resubmission cycle that creates waste. While it shows some iterative elements through the resubmission process, the extensive bottlenecks across all roles and the lengthy cycle time indicate poor flow and substantial non-value-added activities that violate core Lean principles."
+pattern_140,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.94310975074768,True,False,False,0.8,numerical_scores,25,20,22.5,482,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of nearly 1,200 hours (50 days) and contains wasteful activities like a rejection step that forces rework. Multiple bottlenecks across all actors indicate poor flow and lack of streamlined processes, while the linear, non-iterative sequence contradicts Agile principles of collaboration and adaptability."
+case_182,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,15.48466157913208,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+case_183,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.174506187438965,False,False,True,0.8,numerical_scores,0,0,0.0,485,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, duration data, or success indicators, it fails to meet basic requirements for both Agile iterative development and Lean value stream principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_82,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.844965219497681,True,False,False,0.8,numerical_scores,25,20,22.5,607,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1267 hours (over 7 weeks) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. The linear, sequential approval process lacks iterative feedback loops and collaboration principles from Agile, while the excessive duration and multiple bottlenecks represent substantial waste in the value stream, violating core Lean principles of flow and waste elimination."
+case_185,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,16.061660766601562,False,False,True,0.8,numerical_scores,0,0,0.0,581,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of workflow structure, success metrics, and process definition represents maximum waste from a Lean perspective and provides no foundation for Agile principles like iteration or collaboration. Without any identifiable process elements, this represents a non-functional workflow that requires complete definition before any efficiency assessment can be meaningful."
+pattern_60,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.389378070831299,False,False,True,0.8,numerical_scores,15,10,12.5,528,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration of 2,785 hours (116 days) and a circular process where permits are resubmitted after final approval and rejection. The presence of ""MISSING"" and ""UNDEFINED"" roles as bottlenecks indicates poor process definition and lack of clear ownership, violating both Agile principles of collaboration and Lean principles of waste elimination and smooth flow."
+case_187,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.896973848342896,False,False,True,0.8,numerical_scores,0,0,0.0,487,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, duration data, or success indicators, it fails to meet basic requirements for both Agile iterative development and Lean value delivery principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_21,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.513772964477539,True,False,False,0.8,numerical_scores,25,15,20.0,509,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a low 86.5% success rate, excessive duration of 748+ hours, and a problematic cycle of rejections between employee and administration without resolution or supervisor intervention. The process shows poor collaboration, multiple bottlenecks across all roles, and substantial waste through repeated rejection loops that add no value to the declaration process."
+case_189,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.164677858352661,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+research_20250909_141106_pattern_0,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.0536320209503174,False,False,True,0.8,numerical_scores,0,0,0.0,488,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or documented procedures, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_41,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.317036151885986,False,False,True,0.8,numerical_scores,25,20,22.5,501,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of nearly 3,000 hours (approximately 4 months) and a critical bottleneck at the EMPLOYEE stage. The linear approval process lacks iterative feedback loops and adaptability, while the presence of a ""REJECTED by MISSING"" step indicates waste and poor flow design that contradicts Lean principles of continuous value delivery."
+pattern_95,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.451289176940918,False,False,True,0.8,numerical_scores,15,20,17.5,563,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of over 3000 hours (approximately 4 months) and multiple sequential approval bottlenecks across five different roles. The linear, waterfall-style process with no apparent iteration or parallel processing violates both Agile principles of rapid delivery and Lean principles of waste elimination, creating excessive wait times and handoff delays despite the perfect success rate."
+pattern_69,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.8628647327423096,False,False,True,0.8,numerical_scores,25,20,22.5,652,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 6,579 hours (approximately 9 months) for a permit approval process, indicating massive waste and poor flow. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs without apparent value-add, violating Lean principles of waste elimination. While the 100% success rate is positive, the lack of iterative feedback loops and the rigid hierarchical structure contradicts Agile principles of collaboration and adaptability."
+pattern_89,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.9743199348449707,False,False,True,0.8,numerical_scores,25,15,20.0,545,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of nearly 2,000 hours and a rejection-resubmission cycle that creates waste and delays. The presence of multiple bottlenecks across six different roles indicates poor flow and resource allocation, while the linear reject-resubmit pattern shows lack of iterative collaboration and continuous improvement principles central to both Agile and Lean methodologies."
+pattern_93,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.075993061065674,False,False,True,0.8,numerical_scores,25,20,22.5,577,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2,444 hours (~102 days) and ultimately results in declaration rejection after multiple approval steps, creating substantial waste. The process lacks iterative feedback loops and adaptability, as the declaration rejection occurs only at the end after extensive processing time, violating both Agile principles of early feedback and Lean principles of waste elimination and continuous flow."
+pattern_139,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.028181076049805,False,False,True,0.8,numerical_scores,25,20,22.5,531,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2,110 hours (nearly 3 months) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck. While the 100% success rate is positive, the linear, sequential process lacks iterative feedback loops and collaboration opportunities typical of Agile practices, and demonstrates substantial waste in time and flow characteristic of non-Lean processes."
+pattern_79,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.191927909851074,True,False,False,0.8,numerical_scores,25,20,22.5,662,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 941 hours (nearly 6 weeks) for what appears to be a straightforward approval process. The sequential approval chain through multiple roles (Employee → Administration → Budget Owner → Supervisor) creates unnecessary handoffs and delays, violating Lean principles of waste elimination and flow optimization. While the 100% success rate is positive, the process lacks agility with no apparent iterative feedback loops or parallel processing opportunities to reduce cycle time."
+pattern_163,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.68517804145813,True,False,False,0.8,numerical_scores,25,20,22.5,533,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 123+ hours and clear bottlenecks at two approval stages (PRE_APPROVER and SUPERVISOR). The linear approval chain with multiple handoffs creates waste and delays, while the final rejection by ""MISSING"" indicates poor process design and lack of early validation, violating both Agile principles of rapid feedback and Lean principles of waste elimination."
+case_199,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.396783828735352,False,False,True,0.8,numerical_scores,0,0,0.0,468,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any information about the actual workflow steps, collaboration methods, or value delivery mechanisms, it fails to demonstrate any Agile or Lean principles. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_136,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.2108848094940186,False,False,True,0.8,numerical_scores,25,20,22.5,582,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1717 hours (over 71 days) and multiple bottlenecks across different roles. The process contains redundant steps (Request For Payment submitted twice by the same employee) and lacks streamlined handoffs, indicating poor value stream design. While the 100% success rate is positive, the excessive cycle time and waste in the process flow violate core Lean principles of efficiency and flow optimization."
+case_201,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.733826160430908,False,False,True,0.8,numerical_scores,0,0,0.0,419,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative delivery and collaboration, and Lean principles of value stream optimization and waste elimination."
+pattern_4,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.305549144744873,True,False,False,0.8,numerical_scores,15,10,12.5,546,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows critical dysfunction with 0% success rate and minimal activity (only saving declarations), indicating no actual value delivery or iterative improvement cycles. The lack of measurable progress, collaboration touchpoints, and successful outcomes violates both Agile principles of working software delivery and Lean principles of continuous value flow. The process appears to be a non-functional stub rather than an operational workflow."
+pattern_159,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.855167150497437,True,False,False,0.8,numerical_scores,25,20,22.5,643,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 274 hours (over 11 days) for a payment approval process, indicating poor flow and excessive waiting time. The presence of multiple bottlenecks at SUPERVISOR, DIRECTOR, and UNDEFINED roles demonstrates a rigid hierarchical approval structure that contradicts Agile principles of collaboration and Lean principles of waste elimination. While the 100% success rate is positive, the sequential approval chain creates unnecessary delays and waste in the value stream."
+pattern_26,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.723391056060791,True,False,False,0.8,numerical_scores,25,20,22.5,557,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,386 hours (nearly 58 days) and multiple bottlenecks across all actor types including undefined roles. While the 100% success rate is positive, the linear sequential process lacks iterative feedback loops and parallel processing opportunities, and the excessive duration indicates substantial waste in the value stream that contradicts Lean principles of flow and efficiency."
+pattern_86,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.692483901977539,False,False,True,0.8,numerical_scores,25,20,22.5,638,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2,242 hours (approximately 93 days) and bottlenecks at every role including an ""UNDEFINED"" bottleneck, indicating poor process definition and flow. The sequential, waterfall-like approval structure lacks iterative feedback loops and collaboration principles core to Agile methodology. From a Lean perspective, the excessive duration and multiple bottlenecks suggest substantial waste in waiting time and handoffs, with no apparent value stream optimization."
+pattern_131,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.778228998184204,False,False,True,0.8,numerical_scores,25,20,22.5,555,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1907 hours (nearly 80 days) and multiple bottlenecks including an ""UNDEFINED"" actor, indicating poor process visibility and control. While the 100% success rate is positive, the linear, non-iterative approval chain lacks agile collaboration principles and contains substantial waste in the form of excessive wait times and unclear handoffs that violate lean flow principles."
+pattern_13,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.4279699325561523,True,False,False,0.8,numerical_scores,15,10,12.5,427,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate and nearly 20-hour average duration for a simple declaration process that ends in rejection by the employee. The process shows no iterative improvement, lacks effective collaboration between roles, and represents pure waste with no value delivery to the end user."
+case_208,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.019593954086304,False,False,True,0.8,numerical_scores,0,0,0.0,433,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable metrics. Without any identifiable structure, deliverables, or flow, it fails to meet basic requirements of both Agile (no iterative processes or collaboration framework) and Lean (no value stream or waste elimination opportunities) methodologies."
+pattern_28,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.219948768615723,True,False,False,0.8,numerical_scores,25,20,22.5,572,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1,152 hours (48 days) for a simple 5-step approval process, indicating poor flow and excessive waste. Multiple bottlenecks across all roles (EMPLOYEE, PRE_APPROVER, SUPERVISOR, UNDEFINED) suggest lack of collaboration and parallel processing capabilities. While the 100% success rate is positive, the linear approval chain lacks agile principles of iterative feedback and adaptive processes."
+pattern_65,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.4230029582977295,True,False,False,0.8,numerical_scores,25,20,22.5,722,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 1323+ hours (over 7 weeks) for a simple 5-step approval process, indicating poor flow and excessive waste. Multiple bottlenecks across all roles (EMPLOYEE, ADMINISTRATION, SUPERVISOR, DIRECTOR, UNDEFINED) suggest a rigid, non-collaborative structure that lacks the iterative feedback loops and cross-functional teamwork essential to Agile principles. While the 100% success rate is positive, the process appears to be a traditional waterfall approval chain with substantial delays and handoffs that violate Lean waste elimination principles."
+pattern_129,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.836599111557007,True,False,False,0.8,numerical_scores,15,5,10.0,550,,"Agile Score: 15/100
+Lean Score: 5/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (979+ hours), and a broken process where permits are rejected by both administration and employees yet trips still proceed. The process violates core Lean principles by containing massive waste and no value delivery, while failing Agile principles due to complete lack of adaptability and collaboration, as evidenced by the systematic rejections and bottlenecks."
+pattern_75,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,6.385448932647705,False,False,True,0.8,numerical_scores,25,20,22.5,596,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 2107 hours (approximately 3 months) and multiple sequential approval bottlenecks across all roles including an undefined bottleneck. The rigid, waterfall-like approval chain (Employee → Administration → Budget Owner → Supervisor) lacks iterative feedback loops and creates excessive wait times, violating both Agile principles of rapid iteration and Lean principles of waste elimination and continuous flow."
+pattern_2,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.72193694114685,True,False,False,0.8,numerical_scores,25,20,22.5,603,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 672+ hours (nearly 28 days) for a domestic declaration process, which should typically be completed much faster. Multiple bottlenecks across all roles (EMPLOYEE, PRE_APPROVER, SUPERVISOR, UNDEFINED) indicate poor flow and excessive handoffs that create waste and delays. While the 100% success rate is positive, the process lacks the speed, efficiency, and streamlined value delivery that Agile and Lean principles demand."
+pattern_133,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.639189004898071,True,False,False,0.8,numerical_scores,25,20,22.5,526,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 855+ hours (over 35 days) and bottlenecks across all actors including an ""UNDEFINED"" bottleneck, indicating poor process visibility. The rigid sequential approval chain lacks iterative feedback loops and parallel processing opportunities, while the excessive duration suggests substantial waste in waiting times and handoffs between departments."
+pattern_38,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,3.5043959617614746,False,False,True,0.8,numerical_scores,25,20,22.5,638,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1863 hours (approximately 77 days) and multiple bottlenecks across all roles including an ""UNDEFINED"" bottleneck. The rigid sequential approval process lacks iterative feedback loops and collaboration principles from Agile, while the excessive wait times and multiple handoffs represent substantial waste in the Lean value stream. Despite the 100% success rate, the process requires major optimization to eliminate bottlenecks and reduce cycle time."
+pattern_80,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.677868843078613,True,False,False,0.8,numerical_scores,25,20,22.5,544,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of over 1500 hours (approximately 9 months) and multiple bottlenecks across four different roles, indicating poor flow and excessive waste. While the 100% success rate is positive, the sequential approval process lacks agile principles of iterative development and shows clear lean waste through excessive waiting times and handoffs between multiple approval layers."
+pattern_39,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.683084011077881,False,False,True,0.8,numerical_scores,25,15,20.0,519,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1537 hours (over 9 weeks) and multiple rejection cycles that create waste through rework. While there is some iterative feedback between employee and supervisor, the process lacks streamlined flow and contains substantial non-value-added activities, with bottlenecks across all identified roles indicating systemic process issues."
+pattern_157,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,7.769356966018677,True,False,False,0.8,numerical_scores,25,20,22.5,632,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a rejection-resubmission cycle that creates waste and delays, evidenced by the extremely long 645-hour average duration. The process lacks streamlined flow with multiple bottlenecks across all stakeholders (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED), indicating poor value stream design. While the 100% success rate suggests eventual completion, the rework loop and excessive processing time violate core Lean principles of waste elimination and efficient flow."
+case_219,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,13.950128078460693,False,False,True,0.8,numerical_scores,0,0,0.0,481,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative development and collaboration, and Lean principles of value delivery and waste elimination. A complete lack of process structure represents maximum inefficiency."
+case_220,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.510701179504395,False,False,True,0.8,numerical_scores,0,0,0.0,481,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, duration metrics, or success rate data. Without any measurable elements or process definition, it fails to meet both Agile principles of iterative development and collaboration, and Lean principles of value delivery and waste elimination. A complete lack of process structure represents maximum inefficiency."
+pattern_72,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.612553119659424,False,False,True,0.8,numerical_scores,25,20,22.5,647,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1808 hours (over 75 days) and multiple bottlenecks across six different roles, indicating poor flow and excessive handoffs. The linear, sequential approval process lacks agile principles of iterative development and shows classic lean waste through waiting times and over-processing with three separate approval stages. Despite the perfect success rate, the process is heavily bureaucratic and would benefit from streamlining approvals and reducing handoffs."
+case_222,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,2.6913938522338867,False,False,True,0.8,numerical_scores,0,0,0.0,414,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of structure, defined steps, and performance metrics violates fundamental Agile and Lean principles which require visible processes, continuous measurement, and iterative improvement capabilities."
+pattern_29,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,12.400615215301514,False,False,True,0.8,numerical_scores,25,20,22.5,524,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows severe inefficiencies with an extremely long average duration of 9,297 hours (over 1 year) for a simple 5-step declaration process, indicating massive waste and poor flow. The presence of bottlenecks at multiple points (EMPLOYEE, SUPERVISOR, UNDEFINED) and the linear, non-iterative nature of the process violates both Lean principles of waste elimination and Agile principles of rapid delivery and collaboration."
+pattern_135,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,4.587975740432739,False,False,True,0.8,numerical_scores,25,20,22.5,520,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,662 hours (nearly 70 days) and multiple bottlenecks across all roles including an ""UNDEFINED"" bottleneck. The process ends with a rejection after extensive approvals, indicating poor value stream design and lack of early validation, which violates both Agile principles of rapid feedback and Lean principles of waste elimination."
+pattern_49,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,11.13872480392456,False,False,True,0.8,numerical_scores,25,20,22.5,518,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 2,565 hours (over 3 months) and bottlenecks at every stage including an ""UNDEFINED"" bottleneck, indicating poor process visibility and control. The rigid sequential approval chain (Employee → Pre-approver → Supervisor) lacks agile flexibility and creates excessive waste through prolonged waiting times, despite the perfect success rate."
+case_226,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,14.573375940322876,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+case_227,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,10.968027830123901,False,False,True,0.8,numerical_scores,0,0,0.0,544,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no measurable data, defined processes, activities, or identifiable bottlenecks. Without any information about the actual workflow structure, duration, success metrics, or process steps, it fails to meet basic requirements for both Agile iterative development and Lean value stream optimization. A complete lack of process definition represents maximum inefficiency from both methodological perspectives."
+pattern_148,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,5.472364664077759,True,False,False,0.8,numerical_scores,15,10,12.5,506,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, extremely long duration (155+ hours), and a linear rejection pattern that provides no value to the customer. The process lacks iterative feedback loops, has significant waste in the form of failed requests, and shows poor collaboration between stakeholders, violating core Agile and Lean principles of delivering value and eliminating waste."
+pattern_14,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,8.930482864379883,True,False,False,0.8,numerical_scores,25,20,22.5,548,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an extremely long average duration of 248 hours (over 10 days) for a domestic declaration process, and bottlenecks identified at every single role including an ""UNDEFINED"" bottleneck. While the success rate is perfect, the linear, sequential approval chain lacks agile collaboration and contains substantial waste in the form of excessive wait times and unclear process steps that violate lean principles."
+research_20250909_141106_pattern_1,claude_sonnet_4,us.anthropic.claude-sonnet-4-20250514-v1:0,False,True,9.157609224319458,False,False,True,0.8,numerical_scores,0,0,0.0,496,,"Agile Score: 0/100
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow cannot be evaluated as it contains no defined process, activities, or measurable outcomes. The complete absence of workflow structure, success metrics, and process definition represents maximum waste from a Lean perspective and provides no foundation for Agile principles like iteration or collaboration. A workflow with no identifiable components or measurements is inherently inefficient."

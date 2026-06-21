@@ -1,0 +1,674 @@
+{
+  "metadata": {
+    "creation_timestamp": "2025-09-24T22:07:32.310409",
+    "total_cases": 20,
+    "training_cases": 16,
+    "validation_cases": 4,
+    "labeling_version": "1.0",
+    "description": "Generated labeled BPI patterns with efficiency, agile compliance, and lean waste scores"
+  },
+  "training_data": [
+    {
+      "case_id": "pattern_0",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1731.5h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1731.5h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 4,
+        "reasoning": "Process shows moderate lean waste. Frequency of 251 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1731.5h",
+          "Frequency: 251"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_1",
+      "efficiency_score": {
+        "score": 7,
+        "reasoning": "Process shows 24.0h duration with 85.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 24.0h",
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 85.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 100 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 24.0h",
+          "Frequency: 100"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_2",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 625.0h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 625.0h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 5 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 625.0h",
+          "Frequency: 5"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_3",
+      "efficiency_score": {
+        "score": 7,
+        "reasoning": "Process shows 24.0h duration with 85.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 24.0h",
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 85.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 100 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 24.0h",
+          "Frequency: 100"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_4",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1256.3h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1256.3h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 16 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1256.3h",
+          "Frequency: 16"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_5",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 911.9h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 911.9h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 18 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 911.9h",
+          "Frequency: 18"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_6",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 2857.1h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 2857.1h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 11 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 2857.1h",
+          "Frequency: 11"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_7",
+      "efficiency_score": {
+        "score": 7,
+        "reasoning": "Process shows 24.0h duration with 85.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 24.0h",
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 85.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 100 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 24.0h",
+          "Frequency: 100"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_8",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 4025.4h duration with 81.8% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 4025.4h",
+          "Success rate: 81.8%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 81.8% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 81.8%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 11 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 4025.4h",
+          "Frequency: 11"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_9",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1361.9h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1361.9h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 48 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1361.9h",
+          "Frequency: 48"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_10",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1230.7h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1230.7h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 81 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1230.7h",
+          "Frequency: 81"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_11",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 2260.8h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 2260.8h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 8 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 2260.8h",
+          "Frequency: 8"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_12",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1745.9h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1745.9h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 20 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1745.9h",
+          "Frequency: 20"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_13",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 6446.9h duration with 0.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 6446.9h",
+          "Success rate: 0.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 2,
+        "reasoning": "Workflow shows good agile compliance with 0.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 0.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 8 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 6446.9h",
+          "Frequency: 8"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_14",
+      "efficiency_score": {
+        "score": 7,
+        "reasoning": "Process shows 24.0h duration with 85.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 24.0h",
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 85.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 100 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 24.0h",
+          "Frequency: 100"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    },
+    {
+      "case_id": "pattern_15",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 1915.3h duration with 28.6% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 1915.3h",
+          "Success rate: 28.6%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 4,
+        "reasoning": "Workflow shows good agile compliance with 28.6% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 28.6%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 7 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 1915.3h",
+          "Frequency: 7"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": false
+    }
+  ],
+  "validation_data": [
+    {
+      "case_id": "pattern_16",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 5680.7h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 5680.7h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 81 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 5680.7h",
+          "Frequency: 81"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": true
+    },
+    {
+      "case_id": "pattern_17",
+      "efficiency_score": {
+        "score": 7,
+        "reasoning": "Process shows 24.0h duration with 85.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 24.0h",
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 8,
+        "reasoning": "Workflow shows good agile compliance with 85.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 85.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 100 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 24.0h",
+          "Frequency: 100"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": true
+    },
+    {
+      "case_id": "pattern_18",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 226.0h duration with 0.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 226.0h",
+          "Success rate: 0.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 2,
+        "reasoning": "Workflow shows good agile compliance with 0.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 0.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 18 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 226.0h",
+          "Frequency: 18"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": true
+    },
+    {
+      "case_id": "pattern_19",
+      "efficiency_score": {
+        "score": 1,
+        "reasoning": "Process shows 2049.1h duration with 100.0% success rate. Duration is efficient compared to BPI benchmarks.",
+        "evidence": [
+          "Duration: 2049.1h",
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "BPI Challenge 2020 efficiency benchmarks",
+        "confidence": 0.85
+      },
+      "agile_compliance_score": {
+        "score": 10,
+        "reasoning": "Workflow shows good agile compliance with 100.0% success rate indicating effective collaboration.",
+        "evidence": [
+          "Success rate: 100.0%"
+        ],
+        "framework_reference": "Agile Manifesto principles",
+        "confidence": 0.75
+      },
+      "lean_waste_score": {
+        "score": 3,
+        "reasoning": "Process shows moderate lean waste. Frequency of 12 cases indicates good process flow efficiency.",
+        "evidence": [
+          "Processing time: 2049.1h",
+          "Frequency: 12"
+        ],
+        "framework_reference": "Lean 7 wastes framework",
+        "confidence": 0.7
+      },
+      "validation_set": true
+    }
+  ]
+}

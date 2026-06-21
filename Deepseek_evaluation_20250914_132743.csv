@@ -1,0 +1,1849 @@
+case_id,model,model_id,rag_enabled,success,processing_time,ground_truth_efficient,predicted_efficient,classification_correct,prediction_confidence,extraction_method,agile_score,lean_score,overall_score,response_length,error,full_response
+pattern_62,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3275279998779297,False,False,True,0.8,numerical_scores,30,20,25.0,452,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~72 days) and multiple bottlenecks, indicating poor flow and excessive waiting (waste), lowering the Lean score. The rigid, sequential approval process lacks iterative cycles or adaptability, reducing the Agile score. Despite a 100% success rate, inefficiencies in collaboration and flow make it inefficient overall."
+case_1,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.6531877517700195,False,False,True,0.8,numerical_scores,30,30,30.0,451,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical data (e.g., iterative cycles, collaboration metrics, waste analysis, or value stream details), making it impossible to confirm alignment with Agile adaptability or Lean waste reduction principles. Absence of documented activities and bottlenecks suggests poor visibility into process efficiency, defaulting to low scores."
+pattern_10,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2147762775421143,True,False,False,0.8,numerical_scores,20,10,15.0,512,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with repetitive rejections and resubmissions, indicating poor collaboration and adaptability (low Agile score). Excessive delays and rework highlight waste and poor flow (low Lean score), aligning with Lean’s focus on eliminating non-value-added steps. The cycle of rejections without resolution underscores systemic bottlenecks, making the process inefficient."
+case_3,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.783907890319824,False,False,True,0.8,numerical_scores,30,30,30.0,453,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks documented iterative processes, collaboration metrics, or adaptability measures (key Agile criteria). Similarly, no evidence of waste reduction, value stream analysis, or flow optimization (core Lean principles) is provided. Insufficient data on critical Agile/Lean practices results in low scores and an inefficient classification."
+pattern_128,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.21523904800415,True,False,False,0.8,numerical_scores,30,20,25.0,438,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and adaptability (low Agile score) due to rigid, sequential approvals with bottlenecks. Lean principles are poorly applied, as the long duration (~52 days) and multiple handoffs indicate significant waste (e.g., waiting, over-processing) and inefficient flow, exacerbated by undefined bottlenecks."
+pattern_158,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.553468227386475,True,False,False,0.8,numerical_scores,30,20,25.0,463,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and rework (non-value-added steps), violating Lean principles by creating waste and poor flow. The lack of streamlined collaboration and adaptability (key Agile tenets) further reduces efficiency, as the process relies on lengthy cycles of corrections rather than iterative improvements."
+pattern_11,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.521420955657959,False,False,True,0.8,numerical_scores,30,20,25.0,380,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with repetitive rejections and resubmissions, indicating poor collaboration (low Agile score) and excessive rework/waste (low Lean score). The undefined bottleneck and prolonged cycle time further undermine flow and adaptability."
+case_7,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.012960195541382,False,False,True,0.8,numerical_scores,30,30,30.0,393,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes (Agile) and value stream metrics (Lean), with no activities or bottlenecks identified. Both scores are low due to insufficient evidence of collaboration, adaptability, or waste reduction, leading to an INEFFICIENT classification."
+pattern_109,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5467162132263184,False,False,True,0.8,numerical_scores,40,30,35.0,385,,"
+
+Agile Score: 40/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (~167 days) and bottlenecks causing rejections, indicating poor collaboration (low Agile) and excessive delays/rework (low Lean). While the success rate is moderate, the inefficiencies in flow and adaptability fail to meet Agile/Lean thresholds."
+pattern_96,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.716336727142334,True,False,False,0.8,numerical_scores,30,20,25.0,378,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with sequential approvals, lacking iterative feedback (low Agile score). The extremely long duration (56+ days) and multiple bottlenecks indicate significant delays and waste in handoffs (low Lean score), despite a 100% success rate."
+pattern_126,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5821778774261475,True,False,False,0.8,numerical_scores,30,20,25.0,486,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with multiple sequential approvals, leading to poor adaptability and collaboration (low Agile score). The extremely long duration and numerous bottlenecks (e.g., redundant approvals, undefined roles) indicate significant waste and flow disruption (low Lean score). Both principles highlight inefficiency due to excessive handoffs and delays."
+pattern_101,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.469061851501465,False,False,True,0.8,numerical_scores,35,25,30.0,481,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential structure with significant bottlenecks (e.g., multiple approval layers) and an extremely long cycle time (~94 days), indicating poor flow and excessive waiting waste under Lean principles. The lack of iterative processes or adaptability to streamline approvals further reduces its Agile score. Both scores fall below the efficiency threshold."
+pattern_50,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.138620853424072,False,False,True,0.8,numerical_scores,30,20,25.0,499,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative cycles or collaboration enhancements (low Agile score). The extreme duration (~72 days), post-trip approvals, and multiple bottlenecks (including undefined delays) indicate significant waste and poor flow optimization (low Lean score). Final approval after the trip concludes suggests redundant steps, violating Lean principles."
+pattern_34,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9947519302368164,False,False,True,0.8,numerical_scores,20,10,15.0,447,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 0% success rate and an extremely long duration (~9 months), indicating severe inefficiencies. Agile principles are poorly reflected due to lack of adaptability and collaboration (bottleneck at EMPLOYEE). Lean principles are violated due to excessive delays (waste) and no value delivery, making the process highly inefficient."
+case_14,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.797024965286255,False,False,True,0.8,numerical_scores,30,40,35.0,505,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), resulting in a low Agile score. Lean principles are marginally better due to no explicit bottlenecks, but insufficient data on value stream efficiency and waste elimination limits the score. Insufficient evidence of structured practices in both frameworks justifies the ""inefficient"" classification."
+pattern_57,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.8538527488708496,False,False,True,0.8,numerical_scores,30,20,25.0,425,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits poor collaboration (multiple rejections) and rigidity, lowering the Agile score. Excessive delays, rework, and bottlenecks (EMPLOYEE, PRE_APPROVER) create waste and disrupt flow, resulting in a low Lean score. The extremely low success rate (28.6%) and long duration highlight systemic inefficiencies."
+pattern_61,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.123677968978882,False,False,True,0.8,numerical_scores,30,20,25.0,462,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (over 5,600 hours) and clear bottlenecks, indicating poor flow and excessive waiting waste under Lean principles. While the success rate is perfect, the rigid sequence of activities and undefined bottlenecks show minimal iterative collaboration or adaptability (Agile) and systemic inefficiencies in value delivery (Lean)."
+case_17,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.4372639656066895,False,False,True,0.8,numerical_scores,30,40,35.0,403,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks evidence of iterative processes, collaboration, or adaptability (low Agile score). While no bottlenecks are noted, insufficient data on value stream efficiency or waste reduction limits the Lean score. Absence of critical Agile/Lean markers results in an inefficient classification."
+pattern_162,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6930809020996094,True,False,False,0.8,numerical_scores,20,10,15.0,400,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits poor collaboration (Agile) due to repeated rejections and a supervisor bottleneck, with no adaptability to resolve failures. Lean principles highlight extreme waste (225+ hours, 0% success) and non-value-adding steps (rejection loop), rendering the process highly inefficient."
+pattern_53,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.280767917633057,False,False,True,0.8,numerical_scores,30,20,25.0,468,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes, collaboration, and adaptability (low Agile score) due to rigid, sequential handoffs. The extreme duration (~85 days) and bottlenecks like ""UNDEFINED"" indicate severe waste and poor flow (low Lean score), despite the 100% success rate. The process is overly delayed and lacks transparency, violating Lean efficiency principles."
+pattern_6,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9864282608032227,True,False,False,0.8,numerical_scores,30,20,25.0,421,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, with a long duration (1384+ hours) and multiple rejections/re-submissions, indicating poor collaboration (low Agile score) and excessive delays/waste (low Lean score). Bottlenecks across roles and repetitive cycles highlight a lack of streamlined flow and adaptability."
+pattern_154,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.342203140258789,True,False,False,0.8,numerical_scores,20,30,25.0,474,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and collaboration beyond sequential approvals, scoring low in Agile principles. Lean principles highlight inefficiencies due to excessive approval steps (non-value-added handoffs) and a prolonged duration (~15 days), indicating poor flow and waste. Despite a 100% success rate, the rigid structure and delays align it as INEFFICIENT."
+case_22,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.7812509536743164,False,False,True,0.8,numerical_scores,30,40,35.0,409,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes (Agile) and waste reduction strategies (Lean), resulting in low scores. With no identified activities, collaboration mechanisms, or value stream metrics, it fails to demonstrate alignment with core Agile/Lean principles, suggesting inefficiency."
+pattern_121,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.023616075515747,True,False,False,0.8,numerical_scores,30,40,35.0,495,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterations or feedback loops, lowering its Agile score. The extremely long duration (1,221 hours) and multiple bottlenecks (including undefined delays) indicate significant waste and poor flow, reducing the Lean score. While the success rate is perfect, the process lacks efficiency in both adaptability and value stream optimization."
+pattern_125,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.478961229324341,True,False,False,0.8,numerical_scores,30,20,25.0,456,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (≈52 days) and sequential approvals with multiple bottlenecks, indicating poor adaptability (low Agile score) and excessive delays/waste (low Lean score). Rigid handoffs and redundant steps (e.g., dual submissions/approvals) violate Lean principles, while the lack of iterative feedback loops undermines Agile efficiency."
+case_25,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.0456597805023193,False,False,True,0.8,numerical_scores,30,30,30.0,465,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, adaptability measures) to score well on Agile principles. Similarly, no data on waste reduction, value stream mapping, or flow optimization limits the Lean score. Insufficient evidence of structured Agile/Lean practices results in low scores and an inefficient classification."
+case_26,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.0152270793914795,False,False,True,0.8,numerical_scores,20,30,25.0,432,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (low Agile score). No activities or bottlenecks are identified, suggesting poor visibility into waste elimination and value stream efficiency (low Lean score). Insufficient data and undefined processes inherently fail to meet Agile/Lean benchmarks."
+pattern_35,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.348098993301392,False,False,True,0.8,numerical_scores,30,20,25.0,478,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative cycles or adaptability (low Agile score). The extreme duration (~100 days) and bottlenecks highlight significant waste (e.g., waiting for approvals) and poor flow, as critical approvals occur *after* the trip concludes (low Lean score). Lean principles are violated due to non-value-adding steps and delays."
+case_28,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9144303798675537,False,False,True,0.8,numerical_scores,30,40,35.0,437,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+Insufficient data on iterative processes, collaboration, or adaptability results in a low Agile score. While no explicit bottlenecks are noted (moderate Lean score), the lack of activity details or value stream metrics limits confidence in workflow efficiency. Absence of critical information defaults to a conservative classification."
+case_29,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3232157230377197,False,False,True,0.8,numerical_scores,30,25,27.5,421,,"
+
+Agile Score: 30/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (low Agile score). No activities or bottlenecks are defined, suggesting poor waste elimination and value stream optimization (low Lean score). Without evidence of Agile or Lean practices, the workflow defaults to inefficient."
+pattern_104,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6596519947052,False,False,True,0.8,numerical_scores,20,30,25.0,410,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and collaboration (low Agile score), with repeated rejections indicating poor adaptability. The extremely long duration, low success rate, and employee bottlenecks highlight excessive waste and poor flow (low Lean score), aligning with inefficiency per Lean principles."
+case_31,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2974557876586914,False,False,True,0.8,numerical_scores,0,0,0.0,409,,"
+
+Agile Score: 0/100  
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, waste reduction efforts, or value stream mapping), making it impossible to confirm alignment with Agile or Lean principles. Absence of defined activities and metrics suggests inefficiency by default under these frameworks."
+pattern_56,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7804789543151855,True,False,False,0.8,numerical_scores,30,20,25.0,435,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~56 days) with sequential, approval-dependent steps and clear bottlenecks, indicating poor adaptability (low Agile score) and significant delays/waste (low Lean score). The rigid, linear structure lacks iterative feedback or streamlined handoffs, failing to meet Agile or Lean efficiency benchmarks."
+pattern_18,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.0132460594177246,False,False,True,0.8,numerical_scores,20,10,15.0,396,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 0% success rate and excessively long duration, indicating no iterative improvement (low Agile score) and extreme waste of effort/time (low Lean score). The absence of successful outcomes and feedback loops violates both Agile adaptability and Lean waste-reduction principles."
+pattern_92,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.097204923629761,False,False,True,0.8,numerical_scores,20,30,25.0,539,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with excessive handoffs (bottlenecks across 4+ roles) and a 94-day average duration, indicating poor adaptability (low Agile score). The prolonged approvals and ""UNDEFINED"" bottlenecks create significant waiting waste and flow disruption, violating Lean principles. While the 100% success rate ensures reliability, the extreme inefficiency in value delivery makes it unsustainable."
+case_35,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3960161209106445,False,False,True,0.8,numerical_scores,30,30,30.0,426,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative processes, collaboration mechanisms, waste reduction efforts, or value stream mapping), making it impossible to confirm alignment with Agile or Lean principles. Absence of defined activities and bottlenecks suggests poor visibility into efficiency, warranting low scores."
+pattern_160,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2989308834075928,True,False,False,0.8,numerical_scores,30,20,25.0,413,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, including rework loops (rejection and resubmission) and undefined bottlenecks, violating Lean principles by creating waste and poor flow. The lack of clear collaboration channels and adaptability to prevent repeated rejections also results in a low Agile score."
+pattern_164,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.594430923461914,True,False,False,0.8,numerical_scores,40,30,35.0,377,,"
+
+Agile Score: 40/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow includes rework (rejection and resubmission), indicating poor collaboration/adaptability (Agile) and waste from defects (Lean). The long duration and post-approval rejection disrupt flow, reducing efficiency. Both scores fall below the threshold for ""efficient."""
+pattern_84,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.889360189437866,True,False,False,0.8,numerical_scores,30,20,25.0,494,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (1150+ hours) and sequential approvals, indicating poor adaptability (low Agile score). Bottlenecks like redundant approvals (e.g., Budget Owner approval *after* the trip ends) and undefined delays highlight waste and poor flow (low Lean score). While the success rate is perfect, the rigid structure and inefficiencies violate Agile and Lean principles."
+case_39,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.584005117416382,False,False,True,0.8,numerical_scores,30,40,35.0,451,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (low Agile score). While no explicit bottlenecks are noted, insufficient data on value stream efficiency and waste elimination limits the Lean score. Absence of measurable success metrics or activity transparency defaults to an INEFFICIENT classification."
+pattern_108,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1776201725006104,False,False,True,0.8,numerical_scores,30,20,25.0,484,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (~79 days) and a bottleneck at the EMPLOYEE stage, indicating poor flow and collaboration (low Lean score). The rigid, linear approval process lacks iterative cycles or adaptability, conflicting with Agile principles. While the 100% success rate ensures reliability, the excessive delays and lack of waste reduction make it inefficient overall."
+case_41,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.8261868953704834,False,False,True,0.8,numerical_scores,20,30,25.0,424,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (low Agile score). No activities or bottlenecks are defined, suggesting poor waste elimination and value stream visibility (low Lean score). Insufficient evidence of Agile/Lean practices results in an inefficient classification."
+pattern_168,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.36726713180542,True,False,False,0.8,numerical_scores,30,20,25.0,383,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has significant bottlenecks and rework (rejections after approval), indicating poor collaboration and adaptability (low Agile score). The lengthy duration and repeated rejections highlight waste and inefficient flow (low Lean score), failing to deliver value smoothly."
+pattern_165,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3767950534820557,True,True,True,0.8,numerical_scores,40,90,65.0,514,,"
+
+Agile Score: 40/100  
+Lean Score: 90/100  
+Overall Classification: EFFICIENT  
+
+Brief Analysis:  
+The workflow excels in Lean principles due to minimal waste, rapid execution (~31 seconds), and no bottlenecks, justifying a high Lean score. However, Agile principles like iterative processes and adaptability are less evident, as the linear, two-step approval lacks collaboration or feedback loops, resulting in a lower Agile score. The overall classification remains efficient due to the strong Lean performance."
+pattern_102,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.657978057861328,False,False,True,0.8,numerical_scores,30,20,25.0,451,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no iterative feedback loops, poor adaptability, and multiple bottlenecks, lowering the Agile score. Excessive approvals followed by rejections create waste (time, effort) and inefficient flow, severely impacting the Lean score. The extreme duration and lack of value-adding steps confirm inefficiency."
+pattern_74,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6691977977752686,False,False,True,0.8,numerical_scores,25,30,27.5,448,,"
+
+Agile Score: 25/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with rigid handoffs between roles, leading to long delays (1991+ hours) and bottlenecks, contradicting Agile's emphasis on collaboration and adaptability. Lean principles are also poorly met due to excessive wait times (non-value-adding steps) and inefficient flow, as approvals create waste in the value stream."
+pattern_46,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.195021152496338,False,False,True,0.8,numerical_scores,20,30,25.0,456,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple bottlenecks (e.g., 4+ approval layers and undefined delays), violating Lean principles of flow and waste reduction. The absence of iterative cycles or adaptability mechanisms results in a low Agile score, while the extreme duration (~148 days) highlights poor value stream efficiency."
+pattern_127,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.438175916671753,False,False,True,0.8,numerical_scores,30,40,35.0,495,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential structure with multiple bottlenecks (e.g., redundant approvals by ADMINISTRATION) and an extremely long cycle time (~64 days), violating Lean principles of flow optimization and waste reduction. While the 100% success rate indicates reliability, the lack of iterative feedback loops and adaptability to streamline approvals aligns poorly with Agile values."
+pattern_83,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.947995901107788,True,False,False,0.8,numerical_scores,20,10,15.0,436,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a low success rate (14%) and excessive duration (~52 days), with multiple rejections indicating poor collaboration (low Agile score) and rework waste (low Lean score). Bottlenecks at ""EMPLOYEE"" and backward loops in approvals violate Lean flow principles and Agile adaptability, making the process highly inefficient."
+case_49,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.4727001190185547,False,False,True,0.8,numerical_scores,30,40,35.0,463,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit evidence of Agile practices (e.g., iterations, collaboration mechanisms, or adaptability measures) and Lean principles (e.g., waste reduction or value stream details). While no bottlenecks are noted, the absence of defined activities and metrics prevents confidence in efficiency. Scores reflect uncertainty due to insufficient data."
+pattern_106,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.612069845199585,False,False,True,0.8,numerical_scores,30,20,25.0,404,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and collaboration (low Agile score) due to rigid, sequential approvals and post-trip permit authorization. Excessive delays (2258+ hours) and multiple bottlenecks indicate poor flow and waste (low Lean score), violating Lean principles of value stream efficiency."
+pattern_51,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6888210773468018,False,False,True,0.8,numerical_scores,30,20,25.0,418,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow shows significant inefficiencies with repetitive rejections and resubmissions (waste in Lean terms) and lacks iterative refinement or adaptability (low Agile score). The extreme duration (2,084+ hours) and undefined bottlenecks highlight poor flow and collaboration, violating Lean and Agile principles."
+pattern_15,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1773200035095215,True,False,False,0.8,numerical_scores,30,20,25.0,441,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, with excessive delays (543 hours) and rework (multiple rejections/resubmissions) violating Lean principles by creating waste and poor flow. Agile adaptability and collaboration are also low due to repetitive bottlenecks and delayed feedback loops, leading to low scores in both frameworks."
+pattern_153,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5861611366271973,True,False,False,0.8,numerical_scores,20,10,15.0,432,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process exhibits poor collaboration (repeated rejections) and no adaptability (0% success rate), lowering the Agile score. Excessive waste (rework, delays) and severe administrative bottlenecks drastically reduce the Lean score. The workflow fails to deliver value efficiently, aligning with neither Agile nor Lean principles."
+pattern_132,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.3591718673706055,False,False,True,0.8,numerical_scores,30,20,25.0,447,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple bottlenecks (including an ""UNDEFINED"" step), indicating poor adaptability (low Agile score). The extreme duration (~87 days) and undefined process steps highlight significant waste and flow disruption (low Lean score), violating Lean principles of streamlined value delivery."
+case_55,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.919715166091919,False,False,True,0.8,numerical_scores,30,30,30.0,405,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, activity definitions) to score highly on Agile principles. Lean metrics are also indeterminable due to missing value stream and waste analysis. Insufficient data defaults to lower scores, reflecting high uncertainty."
+pattern_91,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7414379119873047,True,False,False,0.8,numerical_scores,30,20,25.0,417,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple bottlenecks, limiting iterative collaboration (low Agile score). The excessive duration and undefined bottlenecks indicate significant waste and poor flow (low Lean score), aligning with neither Agile adaptability nor Lean efficiency principles."
+case_57,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.091166973114014,False,False,True,0.8,numerical_scores,0,0,0.0,459,,"
+
+Agile Score: 0/100  
+Lean Score: 0/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical data (e.g., iterative processes, collaboration metrics, value stream details, or waste reduction efforts), making it impossible to validate alignment with Agile or Lean principles. Without evidence of adaptability, feedback loops, or efficiency optimizations, both scores default to 0, resulting in an ""inefficient"" classification."
+pattern_81,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7860591411590576,False,False,True,0.8,numerical_scores,35,25,30.0,509,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (~97 days) with sequential approvals causing bottlenecks, indicating poor flow and excessive waiting (waste in Lean terms). While the success rate is perfect, the rigid, linear structure lacks iterative feedback (low Agile adaptability) and fails to optimize value stream efficiency. Multiple approval stages and undefined bottlenecks further undermine Lean principles."
+pattern_48,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3369300365448,False,False,True,0.8,numerical_scores,30,20,25.0,401,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant delays (2113+ hours) and repetitive rejections, indicating poor iterative collaboration and adaptability (low Agile score). Excessive rework, bottlenecks, and prolonged cycle time highlight waste and inefficient flow (low Lean score), despite the 100% success rate."
+case_60,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1986989974975586,False,False,True,0.8,numerical_scores,20,30,25.0,445,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit iterative processes, collaboration details, or adaptability measures (low Agile Score). Minimal evidence of waste elimination or value stream optimization (low Lean Score), and the absence of documented activities/bottlenecks suggests poor transparency and flow. Both scores fall below the threshold for efficiency."
+pattern_33,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.1272501945495605,False,False,True,0.8,numerical_scores,30,20,25.0,559,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with sequential approvals and no evident iterative feedback or adaptability (low Agile score). The extremely long duration (78+ days) and multiple bottlenecks (e.g., undefined steps, redundant approvals) indicate significant waste and poor flow in the value stream (low Lean score). While the 100% success rate confirms completion, the process lacks efficiency in both Agile collaboration and Lean waste reduction."
+pattern_7,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.455627679824829,False,False,True,0.8,numerical_scores,30,20,25.0,452,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long cycle time (~119 days) and repetitive rejection loops, indicating poor adaptability (low Agile score) and significant waste from rework and bottlenecks (low Lean score). Undefined bottlenecks and lack of streamlined flow further reduce efficiency, aligning with Lean’s focus on waste elimination and value stream optimization."
+case_63,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1769871711730957,False,False,True,0.8,numerical_scores,20,30,25.0,546,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative processes, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are marginally scored due to the absence of explicit bottlenecks, but insufficient data about value stream efficiency or waste elimination prevents a higher rating. Insufficient evidence of structured practices in both domains leads to an overall inefficient classification."
+pattern_64,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.157421112060547,False,False,True,0.8,numerical_scores,35,25,30.0,411,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (67 days) and multiple bottlenecks, indicating poor collaboration (low Agile score) and significant delays/waste (low Lean score). Frequent permit rejections and role-based bottlenecks disrupt flow, reflecting inefficiencies in both adaptability and value stream optimization."
+pattern_24,deepseek_r1,us.deepseek.r1-v1:0,False,True,6.880652904510498,True,False,False,0.8,numerical_scores,30,20,25.0,401,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (198+ hours) and multiple rejections, indicating poor iterative collaboration (low Agile score) and excessive waste from rework and bottlenecks (low Lean score). The rigid, approval-heavy process lacks adaptability and smooth flow, failing Agile and Lean principles."
+pattern_22,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.239722967147827,True,False,False,0.8,numerical_scores,30,20,25.0,462,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with multiple rejections (indicating rework and delays), conflicting with Agile’s emphasis on adaptability and collaboration. The extended duration and repetitive rejections highlight inefficiencies and waste (e.g., excess processing, waiting), violating Lean principles focused on flow and value stream optimization."
+pattern_37,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.048012971878052,True,False,False,0.8,numerical_scores,30,20,25.0,433,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes (rigid sequence) and shows minimal collaboration beyond handoffs, lowering the Agile score. The extreme duration (780+ hours) and bottlenecks (EMPLOYEE, SUPERVISOR, UNDEFINED) indicate severe inefficiencies in flow and unresolved waste (delays, unclear steps), resulting in a poor Lean score."
+pattern_27,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.57538104057312,False,False,True,0.8,numerical_scores,30,20,25.0,484,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with rigid handoffs (e.g., multiple approval layers), scoring poorly in Agile due to lack of iteration and adaptability. The extreme duration (~1 year) and bottlenecks indicate severe waste (waiting, over-processing) and poor flow, resulting in a low Lean score. While the success rate is perfect, the process is neither responsive nor streamlined."
+pattern_70,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.9933571815490723,False,False,True,0.8,numerical_scores,30,20,25.0,457,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with prolonged approval handoffs (3439 hours), indicating poor adaptability and collaboration (low Agile score). Excessive waiting times, undefined bottlenecks, and lack of streamlined flow highlight significant waste and inefficiency in the value stream (low Lean score). Both principles flag this as rigid and wasteful."
+pattern_1,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.694247007369995,True,False,False,0.8,numerical_scores,30,40,35.0,427,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (237 hours) and bottlenecks at the supervisor stage, indicating delays and waste (Lean). While the success rate is high, the linear process lacks iterative improvements or adaptability (Agile). These inefficiencies outweigh the reliability, resulting in an overall inefficient classification."
+pattern_103,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.535013914108276,False,False,True,0.8,numerical_scores,30,20,25.0,494,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (2815+ hours) and multiple bottlenecks, indicating poor flow and collaboration inefficiencies. While the success rate is 100%, the undefined roles and sequential approval dependencies conflict with Lean's waste reduction and Agile's adaptability principles. The lack of iterative feedback loops and extreme delays in approvals further reduce both scores."
+pattern_47,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.460719108581543,False,False,True,0.8,numerical_scores,30,20,25.0,447,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative cycles and adaptability (low Agile score) due to rigid, sequential approvals. Excessive delays (2691+ hours) and bottlenecks like redundant approvals and an ""UNDEFINED"" step indicate significant waste and poor flow (low Lean score). Both principles highlight inefficiencies in collaboration and process streamlining."
+case_73,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.812998056411743,False,False,True,0.8,numerical_scores,30,35,32.5,444,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks evidence of iterative processes, collaboration metrics, or adaptability mechanisms (low Agile score). No identified bottlenecks or waste reduction strategies are noted, and insufficient data exists to assess value stream efficiency (low Lean score). Without clear Agile/Lean practices, the workflow defaults to inefficient."
+pattern_97,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.770385265350342,False,False,True,0.8,numerical_scores,20,10,15.0,455,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, including repetitive rejections and resubmissions (waste) and a 90-day average duration, violating Lean principles. Poor collaboration and lack of adaptability (e.g., unresolved bottlenecks) result in a low Agile score. The process succeeds eventually but is highly inefficient due to rework and delays."
+pattern_59,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.630910873413086,False,False,True,0.8,numerical_scores,30,40,35.0,430,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and adaptability (low Agile score) due to its rigid, linear structure. While the success rate is perfect, the excessive duration and bottlenecks in approvals create significant waste (waiting time) and disrupt flow, lowering the Lean score. Both scores fall below the efficiency threshold."
+case_76,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.564992904663086,False,False,True,0.8,numerical_scores,30,40,35.0,436,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit evidence of iterative processes, collaboration, or adaptability (low Agile score). While no bottlenecks are noted, insufficient data on waste reduction or value stream optimization limits the Lean score. Without measurable practices aligned with Agile/Lean principles, the workflow defaults to inefficient."
+pattern_119,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.846876859664917,False,False,True,0.8,numerical_scores,30,30,30.0,371,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 91-day average duration due to sequential approvals and undefined bottlenecks, violating Lean principles by creating delays (waste) and poor flow. The rigid, non-iterative structure lacks Agile adaptability and collaboration, resulting in low scores."
+pattern_98,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.757589101791382,False,False,True,0.8,numerical_scores,30,20,25.0,453,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has sequential approvals with multiple bottlenecks (6 roles), indicating poor collaboration and adaptability (low Agile score). The extreme duration (~73 days) and approval-heavy process highlight waste and inefficient flow (low Lean score). While the success rate is perfect, the rigid structure and delays violate Agile/Lean principles."
+pattern_78,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.473394870758057,False,False,True,0.8,numerical_scores,20,30,25.0,459,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigidly sequential with no iterative elements or adaptability (low Agile score). The extreme duration and multiple bottlenecks indicate significant waste in handoffs and waiting, compounded by an undefined bottleneck (low Lean score). Despite full success, the process lacks efficiency in both Agile collaboration and Lean flow optimization."
+pattern_149,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.884091854095459,True,False,False,0.8,numerical_scores,35,45,40.0,490,,"
+
+Agile Score: 35/100  
+Lean Score: 45/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is linear and rigid with sequential approvals (ADMINISTRATION, SUPERVISOR), showing limited iterative collaboration or adaptability (low Agile score). Bottlenecks and a 10-day average duration indicate waste from delays and handoffs, though the high success rate reflects reliability (moderate Lean score). Both scores fall below 50, justifying an INEFFICIENT classification."
+pattern_85,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.610867977142334,True,False,False,0.8,numerical_scores,30,20,25.0,431,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (52 days) with sequential approvals and multiple bottlenecks, indicating poor adaptability (low Agile score) and significant delays/waste (low Lean score). The rigid, approval-heavy process lacks iterative collaboration and fails to streamline value delivery, violating Agile and Lean principles."
+pattern_167,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5018041133880615,True,False,False,0.8,numerical_scores,30,20,25.0,400,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has sequential approvals causing significant delays (336 hours) and bottlenecks, violating Lean principles by introducing waste (waiting) and poor flow. Agile adaptability and collaboration are minimal due to rigid, siloed approvals without iterative feedback, resulting in low scores."
+pattern_105,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.8988254070281982,False,False,True,0.8,numerical_scores,30,20,25.0,423,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant delays (2335+ hours) and multiple rejections, indicating poor collaboration (low Agile score) and excessive waste from rework (low Lean score). Bottlenecks across roles and a fragmented approval process further undermine efficiency, violating Agile adaptability and Lean flow principles."
+pattern_17,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.346330165863037,True,False,False,0.8,numerical_scores,30,20,25.0,461,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with excessive rework (rejections and resubmissions) and bottlenecks across multiple roles, violating Lean principles by creating waste and poor flow. The rigid, non-iterative cycle also fails Agile criteria for adaptability and collaboration, leading to prolonged resolution times despite a high success rate."
+pattern_138,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.866267919540405,True,False,False,0.8,numerical_scores,35,25,30.0,474,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~62 days) with sequential, rigid approvals and undefined bottlenecks, indicating poor adaptability (low Agile score). Excessive delays, redundant approvals, and unclear handoffs highlight significant waste and inefficiency in the value stream (low Lean score). Both principles flag the process as overly bureaucratic and poorly optimized."
+case_86,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9070169925689697,False,False,True,0.8,numerical_scores,20,30,25.0,445,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), and no information is provided to assess waste reduction or value stream efficiency (Lean principles). Without evidence of structured processes or measurable improvements, both scores remain low, resulting in an inefficient classification."
+pattern_40,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9150969982147217,False,False,True,0.8,numerical_scores,35,25,30.0,422,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, rigid structure with no evident iterations or feedback loops (low Agile score). The extreme duration (~318 days) and multiple bottlenecks indicate significant delays and waste in the value stream, violating Lean principles. Success rate alone doesn’t compensate for poor flow and adaptability."
+pattern_31,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.366518974304199,False,False,True,0.8,numerical_scores,30,20,25.0,439,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow’s long duration (1670 hours) and multiple bottlenecks indicate significant delays and inefficiencies, violating Lean principles by introducing waste (e.g., waiting for approvals). Agile scoring is low due to rigid, non-iterative steps and poor collaboration across roles. Both scores fall below the threshold for efficiency."
+pattern_166,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.337774038314819,True,False,False,0.8,numerical_scores,30,20,25.0,371,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has excessive sequential approvals and late-stage rejections, indicating poor collaboration (low Agile score) and significant delays/waste (low Lean score). The 668-hour cycle time and multiple bottlenecks highlight inefficiencies in flow and adaptability."
+pattern_55,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.875572919845581,False,False,True,0.8,numerical_scores,30,20,25.0,386,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and adaptability (low Agile score) due to rigid, sequential approvals. Excessive duration (1,780+ hours) and bottlenecks like PRE_APPROVER/SUPERVISOR indicate significant waiting waste and poor flow, despite a 100% success rate (low Lean score)."
+pattern_88,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.292534112930298,True,False,False,0.8,numerical_scores,30,20,25.0,495,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative cycles or adaptability (low Agile score). The extremely long duration, undefined bottlenecks, and sequential handoffs between roles create significant delays and waste, violating Lean principles of flow and value stream efficiency (low Lean score). While the success rate is high, the process lacks agility and optimization."
+case_92,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.6022071838378906,False,False,True,0.8,numerical_scores,30,40,35.0,377,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks evidence of iterative processes, collaboration, or adaptability (low Agile score). While no bottlenecks are noted, insufficient data on waste reduction or value stream optimization limits the Lean score. Both scores fall below the threshold for efficiency."
+case_93,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.922389030456543,False,False,True,0.8,numerical_scores,30,30,30.0,450,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, waste reduction efforts), making it impossible to confirm alignment with Agile or Lean principles. The absence of defined activities and bottlenecks suggests poor visibility into value delivery and process optimization, leading to low scores in both frameworks."
+pattern_63,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.520824909210205,False,False,True,0.8,numerical_scores,25,30,27.5,383,,"
+
+Agile Score: 25/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and adaptability (low Agile score) due to rigid, sequential approvals. The extreme duration and multiple bottlenecks indicate significant waste and poor flow (low Lean score), as approvals create delays without evident value-added efficiency."
+pattern_8,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5096378326416016,True,False,False,0.8,numerical_scores,40,30,35.0,489,,"
+
+Agile Score: 40/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a high success rate but a very long duration (~242 hours) and clear bottlenecks at EMPLOYEE and SUPERVISOR stages, indicating poor flow and collaboration (low Lean score). The final ""REJECTED by MISSING"" activity suggests unresolved inefficiencies and lack of adaptability, conflicting with Agile principles. Both scores fall below 50 due to delays, waste, and rigidity."
+case_96,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.4323980808258057,False,False,True,0.8,numerical_scores,30,35,32.5,491,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative processes, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are also poorly reflected due to insufficient evidence of waste reduction or value stream optimization, despite no explicit bottlenecks. Limited data availability inherently suggests inefficiency under these frameworks."
+pattern_20,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.8305487632751465,True,False,False,0.8,numerical_scores,30,20,25.0,465,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with repetitive rejections and resubmissions (waste), poor flow (566+ hours duration), and limited adaptability. The rigid, approval-heavy process lacks iterative refinement or collaboration, violating Agile and Lean principles. High bottlenecks and rework highlight systemic waste and poor value-stream alignment."
+pattern_73,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7318971157073975,False,False,True,0.8,numerical_scores,20,20,20.0,468,,"
+
+Agile Score: 20/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with rigid handoffs between roles, lacking iterative feedback or adaptability (low Agile score). The extreme duration (~104 days) and multiple bottlenecks indicate significant delays and waste in the value stream, violating Lean principles of flow and efficiency. The UNDEFINED bottleneck further highlights systemic inefficiencies."
+pattern_141,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.144345045089722,True,False,False,0.8,numerical_scores,30,20,25.0,368,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (33+ days) and bottlenecks causing delays, violating Lean principles of flow and waste reduction. The linear, approval-heavy process with rework (payment rejection) lacks Agile adaptability and collaboration, leading to inefficiency."
+pattern_111,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5695371627807617,True,False,False,0.8,numerical_scores,20,30,25.0,443,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is sequential, approval-heavy, and lacks iterative feedback (low Agile score). The extended duration and multiple approval bottlenecks indicate significant waiting waste and poor flow (low Lean score). While reliable (100% success rate), the rigid, siloed structure contradicts Agile adaptability and Lean efficiency principles."
+pattern_161,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.439605236053467,True,False,False,0.8,numerical_scores,30,40,35.0,368,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits inefficiencies from Agile (low adaptability due to repeated rejections/resubmissions) and Lean (high waste from rework and delays). The bottlenecks and long cycle time indicate poor flow and collaboration, failing to meet efficiency thresholds."
+pattern_87,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.362712860107422,False,False,True,0.8,numerical_scores,35,25,30.0,403,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~79 days) and multiple bottlenecks, indicating poor flow and waste (Lean). The linear, approval-heavy process lacks iterative cycles or evident adaptability (Agile). While the success rate is perfect, the inefficiencies in time and bottlenecks outweigh this strength."
+pattern_90,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.427478075027466,True,False,False,0.8,numerical_scores,30,20,25.0,415,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple bottlenecks (4 roles + undefined), leading to excessive delays (55 days average). This violates Lean principles due to waste from handoffs and waiting, and Agile principles due to lack of iterative collaboration or adaptability in the process."
+pattern_113,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.016706943511963,True,False,False,0.8,numerical_scores,35,25,30.0,511,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~60 days) and repetitive handoffs (e.g., dual EMPLOYEE/SUPERVISOR submissions), indicating poor flow and waste from delays and redundant approvals. While collaboration exists between roles, the rigid linear structure lacks iterative improvements or adaptability, violating Agile and Lean principles. Undefined bottlenecks further highlight inefficiencies in the value stream."
+pattern_19,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9498322010040283,True,False,False,0.8,numerical_scores,20,10,15.0,424,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 0% success rate and excessive cycle time (202 hours), indicating severe inefficiencies. Rejections without resolution highlight poor collaboration (low Agile score) and excessive waste from rework and delays (low Lean score). Bottlenecks and lack of iterative improvements violate Agile/Lean principles."
+pattern_124,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6163887977600098,False,False,True,0.8,numerical_scores,30,20,25.0,465,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple bottlenecks, leading to a long average duration (~67 days). This violates Lean principles due to excessive delays (waste) and poor flow, and Agile principles due to lack of iterative collaboration or adaptability. The undefined bottleneck further highlights inefficiencies in the value stream."
+pattern_99,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7253549098968506,True,False,False,0.8,numerical_scores,35,25,30.0,497,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with bottlenecks across three roles, indicating poor collaboration and adaptability (low Agile score). The extreme duration (~56 days) highlights significant waiting waste and inefficient flow, violating Lean principles (low Lean score). Despite a 100% success rate, the process lacks iterative improvements and streamlined value delivery."
+pattern_150,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.283665895462036,True,False,False,0.8,numerical_scores,30,20,25.0,446,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with rigid, role-dependent approvals (low adaptability and collaboration—Agile) and excessive delays (339+ hours) due to multiple handoffs and undefined bottlenecks, indicating significant waste and poor flow (Lean). Both principles highlight inefficiency from overprocessing and lack of streamlined iteration."
+case_109,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9519708156585693,False,False,True,0.8,numerical_scores,30,30,30.0,437,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, waste reduction efforts), making it impossible to confirm alignment with Agile or Lean principles. No activities or success metrics are provided, suggesting poor visibility into value delivery and process adaptability, which defaults to low scores."
+pattern_54,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.087916135787964,False,False,True,0.8,numerical_scores,30,20,25.0,427,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (over 3,000 hours) due to approval bottlenecks and includes a redundant rejection step (unused given 100% success rate), violating Lean waste reduction principles. The rigid, sequential structure with approval delays also shows poor adaptability and collaboration under Agile principles."
+pattern_147,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.9848110675811768,True,False,False,0.8,numerical_scores,30,40,35.0,501,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear approval structure with bottlenecks (e.g., undefined delays) and no visible iterative improvements or collaboration mechanisms, lowering its Agile score. While the process achieves 100% success, the extended duration (~9.7 days) and approval dependencies create waste in waiting time, reducing Lean efficiency. Both scores fall below the 50 threshold for efficiency."
+pattern_110,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.810828924179077,True,False,False,0.8,numerical_scores,30,20,25.0,450,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~47 days) and bottlenecks at every approval stage, indicating poor flow and excessive waiting (waste), lowering the Lean score. While collaboration exists between roles, the rigid, linear structure and lack of iterative feedback loops reduce Agile adaptability. Both scores fall below the threshold for efficiency."
+pattern_3,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6008028984069824,True,False,False,0.8,numerical_scores,30,20,25.0,433,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has significant bottlenecks (e.g., rejections due to ""MISSING"" and ""UNDEFINED"") and rework loops, violating Lean principles by creating waste and poor flow. The rigid, repetitive structure and unclear role dependencies also conflict with Agile’s emphasis on adaptability and collaboration, resulting in low efficiency."
+case_114,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.014197826385498,False,False,True,0.8,numerical_scores,20,25,22.5,465,,"
+
+Agile Score: 20/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), resulting in a low Agile score. Lean principles are also poorly met due to insufficient information on value stream efficiency, waste elimination, or measurable flow, despite no explicit bottlenecks. Limited data availability inherently suggests inefficiency."
+pattern_30,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1180670261383057,False,False,True,0.8,numerical_scores,30,20,25.0,420,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~64 days) with bottlenecks at handoffs (EMPLOYEE/SUPERVISOR), indicating poor flow and excessive waiting waste (Lean). The rigid, linear sequence lacks iterative feedback or adaptability (Agile), despite full success. High delays and low collaboration/streamlining justify low scores."
+case_116,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.7957050800323486,False,False,True,0.8,numerical_scores,30,40,35.0,412,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+Insufficient data about iterative cycles, collaboration, or adaptability results in a low Agile score. Lean principles are marginally higher due to no explicit bottlenecks, but lack of activity/value stream details limits waste reduction confidence. Minimal evidence supports efficiency under either framework."
+case_117,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.460448980331421,False,False,True,0.8,numerical_scores,30,30,30.0,369,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+Insufficient data about iterative cycles, collaboration, or adaptability reduces the Agile Score. Lack of activity details or identified waste/improvements limits the Lean Score. Without explicit evidence of Agile/Lean alignment, the workflow defaults to inefficient."
+case_118,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.343626022338867,False,False,True,0.8,numerical_scores,30,35,32.5,504,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative processes, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are poorly reflected due to insufficient data on waste reduction, value stream mapping, or flow optimization, leading to a marginal Lean score. Insufficient evidence of foundational Agile/Lean practices justifies the classification."
+pattern_155,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.623940944671631,True,False,False,0.8,numerical_scores,35,25,30.0,419,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with repetitive rejections and re-submissions, indicating poor collaboration (low Agile score) and excessive waste from rework and delays (low Lean score). The high cycle time and low success rate further highlight bottlenecks and a lack of streamlined value delivery."
+pattern_94,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.726661205291748,True,False,False,0.8,numerical_scores,30,20,25.0,456,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (1119+ hours) and sequential handoffs between roles, indicating poor adaptability (low Agile score). Bottlenecks like approvals and undefined delays create waste and disrupt flow, violating Lean principles (low Lean score). The rigid, linear structure lacks iterative feedback or waste reduction, leading to inefficiency."
+case_121,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.5286929607391357,False,False,True,0.8,numerical_scores,30,35,32.5,476,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details about iterative processes, collaboration, or adaptability (key Agile criteria), resulting in a low Agile score. Lean principles are also poorly reflected due to insufficient evidence of waste reduction or value stream optimization, despite no explicit bottlenecks. Limited data availability inherently suggests inefficiency under these frameworks."
+pattern_146,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2997660636901855,True,False,False,0.8,numerical_scores,20,30,25.0,412,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes, collaboration, or adaptability (low Agile score). The 0.0 success rate and absence of clear value-delivering steps indicate inefficiency and waste (low Lean score). A single activity with no evident flow or completion suggests minimal adherence to Lean/Agile principles."
+pattern_151,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.249467134475708,True,False,False,0.8,numerical_scores,30,20,25.0,449,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and loops (e.g., approvals followed by rejections), indicating poor collaboration and adaptability (low Agile score). Excessive rework, delays (621+ hours), and bottlenecks across roles highlight severe waste and flow disruption (low Lean score), violating Lean principles."
+pattern_115,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5490081310272217,False,False,True,0.8,numerical_scores,30,20,25.0,418,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly linear with no evident iterative feedback or collaboration, lowering the Agile score. The extreme duration (~117 days) and bottlenecks indicate significant waste (e.g., waiting) and poor flow, resulting in a low Lean score. Both principles highlight inefficiency despite the 100% success rate."
+pattern_156,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7885000705718994,True,False,False,0.8,numerical_scores,30,20,25.0,407,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and bottlenecks, indicating poor collaboration and adaptability (low Agile score). The prolonged duration and rework from repeated rejections highlight excessive waste and disrupted flow, violating Lean principles (low Lean score)."
+case_126,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2232582569122314,False,False,True,0.8,numerical_scores,30,60,45.0,456,,"
+
+Agile Score: 30/100  
+Lean Score: 60/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (low Agile score). While no explicit bottlenecks suggest reasonable flow (moderate Lean score), insufficient evidence of waste elimination or value stream optimization limits its efficiency. The average score (45) falls below the threshold for classification as efficient."
+pattern_43,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.829624891281128,True,False,False,0.8,numerical_scores,30,20,25.0,467,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential approval structure with multiple role-dependent bottlenecks, limiting adaptability (low Agile score). The extreme duration (~61 days) and undefined bottlenecks indicate significant waste and poor flow optimization (low Lean score). While reliable (100% success rate), the process lacks iterative refinement and efficiency gains."
+pattern_117,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.8694562911987305,False,False,True,0.8,numerical_scores,30,20,25.0,476,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with sequential handoffs (e.g., multiple approvals) and undefined bottlenecks, contradicting Agile's emphasis on adaptability and collaboration. The extreme duration (~73 days) and ""MISSING/UNDEFINED"" bottlenecks indicate severe waste (waiting, inefficiencies) and poor flow, violating Lean principles of value stream optimization."
+pattern_52,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.097490072250366,False,False,True,0.8,numerical_scores,30,20,25.0,464,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, approval-heavy structure with bottlenecks at each role, leading to a very long duration (≈95 days). Agile principles like adaptability and collaboration are minimal due to rigid handoffs, while Lean principles are poorly met due to excessive wait times (waste) and inefficient flow. Both scores fall below the threshold for efficiency."
+pattern_144,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.200176000595093,True,False,False,0.8,numerical_scores,30,20,25.0,418,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process has low Agile adaptability due to a rigid, non-iterative structure and late-stage rejections indicating poor collaboration. Lean principles are poorly applied, with significant waste (rework from rejections) and a bottleneck at supervisor approval, leading to delays and inefficiency in the value stream."
+pattern_9,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.420135974884033,True,False,False,0.8,numerical_scores,20,10,15.0,378,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 0% success rate and repetitive rejections, indicating poor collaboration (low Agile score) and excessive rework (low Lean score). The supervisor bottleneck and 181-hour cycle time highlight severe inefficiencies in flow and waste, violating Lean principles."
+pattern_152,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.507389783859253,True,False,False,0.8,numerical_scores,30,20,25.0,458,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and resubmissions, indicating poor collaboration and adaptability (low Agile score). Excessive delays, undefined bottlenecks, and rework highlight waste and poor flow (low Lean score), violating Lean principles. The process lacks iterative refinement and streamlined value delivery."
+case_133,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.6699960231781006,False,False,True,0.8,numerical_scores,30,20,25.0,410,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks evidence of iterative processes, collaboration, or adaptability (low Agile score) and provides no data on waste reduction or value stream optimization (low Lean score). Without defined activities, measurable outcomes, or identified bottlenecks, it fails to meet core Agile/Lean benchmarks."
+case_134,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5884668827056885,False,False,True,0.8,numerical_scores,30,30,30.0,432,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (low Agile score). No activities or bottlenecks are defined, suggesting poor value stream mapping and potential waste (low Lean score). Insufficient data and absence of clear Lean/Agile practices result in an inefficient classification."
+pattern_143,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.773599863052368,True,False,False,0.8,numerical_scores,30,40,35.0,457,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is linear and sequential with no iterative elements or adaptability (low Agile score). The 750-hour duration suggests significant delays between approvals, indicating waste in waiting and inefficiency in flow (low Lean score). Despite full success, the lack of collaboration and prolonged timeline align poorly with Agile and Lean principles."
+case_136,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5674920082092285,False,False,True,0.8,numerical_scores,30,35,32.5,430,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit evidence of iterative processes, collaboration, or adaptability (low Agile score). No data on waste reduction, value stream optimization, or flow efficiency (low Lean score) further supports an inefficient classification. Insufficient information on key metrics and practices prevents higher scoring."
+pattern_123,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.818422079086304,False,False,True,0.8,numerical_scores,30,20,25.0,409,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow’s rigid, sequential approval structure lacks iterative feedback or adaptability (low Agile score). Excessive delays (1772+ hours) and bottlenecks indicate significant waste and poor flow, violating Lean principles. The undefined bottleneck further highlights inefficiencies in the value stream."
+pattern_116,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.9670639038085938,False,False,True,0.8,numerical_scores,30,20,25.0,426,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (1,664+ hours) and includes rework (payment rejection), violating Lean principles by creating waste and poor flow. The rigid, sequential structure and undefined bottlenecks show limited adaptability and collaboration, scoring poorly in Agile metrics. Both scores fall below the 50 threshold."
+case_139,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.4111759662628174,False,False,True,0.8,numerical_scores,30,30,30.0,413,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks evidence of iterative processes, collaboration, or adaptability (low Agile score) and provides no data on waste reduction or value stream optimization (low Lean score). Without defined activities, measurable outcomes, or identified bottlenecks, it fails to meet core Agile or Lean principles."
+pattern_44,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7151570320129395,False,False,True,0.8,numerical_scores,30,20,25.0,538,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative feedback or collaboration beyond sequential approvals, scoring poorly in Agile principles. The extremely long duration (2491 hours) and multiple bottlenecks, including an undefined one, indicate significant waste and inefficiency in flow, resulting in a low Lean score. The process lacks adaptability and suffers from delays, failing to meet Agile or Lean benchmarks."
+pattern_107,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.869654893875122,False,False,True,0.8,numerical_scores,30,20,25.0,518,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative cycles or adaptability (low Agile score). The extreme duration (2336+ hours) and multiple bottlenecks, including an ""UNDEFINED"" step, indicate severe waste and poor flow in the value stream (low Lean score). While the success rate is perfect, the process is highly inefficient by Agile/Lean standards due to delays and lack of feedback mechanisms."
+pattern_71,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.4711480140686035,False,False,True,0.8,numerical_scores,20,30,25.0,487,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with excessive handoffs and bottlenecks, leading to prolonged delays (7174+ hours), violating Lean principles of flow and waste reduction. The rigid, approval-heavy structure lacks iterative Agile practices like collaboration or adaptability, resulting in low scores. Success rate alone does not offset inefficiencies in time and resource utilization."
+pattern_12,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.993391990661621,False,False,True,0.8,numerical_scores,20,30,25.0,423,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow shows poor Agile adherence due to repetitive rejections without iterative improvements or collaboration. Lean principles are violated with excessive rework (waste) and a clear bottleneck at the supervisor stage, causing prolonged delays and low success rates. Both scores fall below the efficiency threshold."
+case_144,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.850522994995117,False,False,True,0.8,numerical_scores,30,35,32.5,383,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), and there is no evidence of waste reduction or value stream optimization (Lean principles). Insufficient data on activities and outcomes further limits confidence in efficiency."
+pattern_16,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.405853033065796,True,False,False,0.8,numerical_scores,30,30,30.0,448,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is linear and lacks iterative cycles or adaptability (low Agile score). The extended duration (14+ days) and multiple bottlenecks, including an undefined step, indicate significant delays and waste in the value stream (low Lean score). While reliable (100% success rate), the process is rigid and inefficient by Agile/Lean standards."
+case_146,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2154669761657715,False,False,True,0.8,numerical_scores,30,30,30.0,442,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative processes, collaboration mechanisms, measurable outcomes) to support Agile principles. Similarly, no activities or value stream data are provided to assess Lean efficiency, suggesting unaddressed waste and undefined flow. Insufficient evidence for either framework results in low scores."
+case_147,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.8654420375823975,False,False,True,0.8,numerical_scores,20,20,20.0,418,,"
+
+Agile Score: 20/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical data on iterative processes, collaboration, or adaptability (Agile), and provides no evidence of waste reduction or value stream optimization (Lean). With no activities or bottlenecks documented, both scores default to low values due to insufficient transparency and measurable practices."
+pattern_134,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5668230056762695,True,False,False,0.8,numerical_scores,30,20,25.0,393,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process has excessive back-and-forth rejections (collaboration failure, poor adaptability) and a 40-day average duration due to rework and bottlenecks, violating Lean waste reduction and flow principles. High success rate does not offset inefficiencies in cycle time and workflow design."
+pattern_25,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9008140563964844,True,False,False,0.8,numerical_scores,30,20,25.0,346,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with repetitive rejections (waste) and poor collaboration, violating Lean principles. Low adaptability and iterative failure resolution further reduce Agile viability, resulting in sub-50 scores."
+case_150,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.652535915374756,False,False,True,0.8,numerical_scores,30,40,35.0,404,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit iterative processes, collaboration details, or adaptability indicators, lowering its Agile score. While no bottlenecks are noted, insufficient data about waste elimination or value stream efficiency limits the Lean score. Both scores fall below the threshold for efficiency."
+pattern_114,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.952101230621338,False,False,True,0.8,numerical_scores,30,20,25.0,496,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, rigid structure with no evident iterations or collaboration mechanisms, lowering the Agile score. The extremely long duration (≈87 days) and bottlenecks (including undefined delays) indicate significant waste and poor flow, resulting in a low Lean score. While the success rate is perfect, the inefficiencies in time and undefined bottlenecks violate Lean principles."
+pattern_68,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.380664110183716,False,False,True,0.8,numerical_scores,30,20,25.0,511,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (2432+ hours) and bottlenecks at multiple stages, indicating poor flow and significant delays (low Lean score). While the success rate is 100%, the rigid sequence of activities and lack of iterative feedback loops (e.g., no adaptation after rejections) conflict with Agile principles. The undefined bottleneck and administrative handoffs further highlight inefficiencies."
+pattern_77,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5245230197906494,False,False,True,0.8,numerical_scores,30,40,35.0,484,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigidly sequential with no evident iterations, feedback loops, or cross-functional collaboration (low Agile score). The extreme duration (~75 days) and multiple approval bottlenecks indicate significant waiting waste and poor flow, though the 100% success rate suggests reliability. Lean principles are partially met but hampered by delays and undefined bottlenecks."
+case_154,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.394564151763916,False,False,True,0.8,numerical_scores,30,35,32.5,457,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms. Lean metrics are also undetermined due to missing value stream and waste elimination data, though the absence of documented bottlenecks slightly mitigates inefficiency. Insufficient evidence for either methodology results in low scores."
+pattern_42,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.048969030380249,False,False,True,0.8,numerical_scores,30,20,25.0,443,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative feedback or adaptability (low Agile score). The extremely long duration and multiple bottlenecks (e.g., approvals, undefined delays) indicate significant waste and poor flow, violating Lean principles (low Lean score). Despite a 100% success rate, inefficiencies dominate."
+pattern_118,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.0836269855499268,True,False,False,0.8,numerical_scores,20,10,15.0,360,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a 0% success rate and extreme delays (1400+ hours), indicating poor adaptability (low Agile score) and severe bottlenecks/waste (low Lean score). The linear process lacks iteration, collaboration, and flow, failing Agile and Lean principles."
+case_157,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.876635789871216,False,False,True,0.8,numerical_scores,30,30,30.0,441,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative processes, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are similarly unaddressed, with no evidence of waste reduction or value stream optimization. Insufficient data defaults to conservative scoring, reflecting inefficiency."
+case_158,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.586745023727417,False,False,True,0.8,numerical_scores,30,30,30.0,432,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative processes, collaboration mechanisms, waste reduction efforts), making it impossible to confirm alignment with Agile or Lean principles. Absence of defined activities, success metrics, and bottlenecks suggests inefficiency in adaptability, value delivery, and flow optimization."
+pattern_36,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2528867721557617,False,False,True,0.8,numerical_scores,35,25,30.0,422,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a high duration (~80 days) and multiple rejections, indicating poor iterative collaboration and adaptability (low Agile score). Frequent bottlenecks and rework (rejections) create waste and disrupt flow, violating Lean principles. The undefined bottlenecks and lengthy process further reduce efficiency."
+pattern_66,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.205838203430176,True,False,False,0.8,numerical_scores,30,40,35.0,488,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative feedback loops (low Agile score). The extreme duration (~62 days) and multiple bottlenecks indicate significant delays and waste in approvals, violating Lean principles. While the 100% success rate confirms reliability, the lack of adaptability and inefficiency in handoffs between roles justifies the classification."
+pattern_58,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.931644916534424,False,False,True,0.8,numerical_scores,30,20,25.0,483,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, including rework (repeated rejections and resubmissions) and bottlenecks like ""MISSING"" and ""UNDEFINED,"" indicating poor collaboration and unclear processes. The extremely long duration and waste from repeated cycles violate Lean principles, while the lack of adaptability and iterative improvement aligns poorly with Agile values."
+pattern_100,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.769860029220581,False,False,True,0.8,numerical_scores,30,20,25.0,441,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and resubmissions (waste), poor cross-role collaboration, and a prolonged duration. The recurring bottlenecks and lack of streamlined approvals violate Lean principles, while rigid handoffs and reactive iterations (rather than adaptive ones) undermine Agile values."
+pattern_122,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.336977958679199,False,False,True,0.8,numerical_scores,30,20,25.0,385,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and cross-functional collaboration (low Agile score) and exhibits significant delays, bottlenecks, and handoff waste (low Lean score). The 70-day average duration and undefined bottlenecks highlight inefficiencies despite the 100% success rate."
+pattern_23,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.074980735778809,True,False,False,0.8,numerical_scores,35,25,30.0,522,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (803+ hours) and multiple bottlenecks, including undefined steps, indicating poor adaptability (low Agile score). Rejections and sequential handoffs create delays and rework, violating Lean principles by introducing waste and inefficiency in the value stream (low Lean score). The process lacks iterative refinement and smooth flow, leading to an overall inefficient classification."
+pattern_67,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.845129013061523,False,False,True,0.8,numerical_scores,30,20,25.0,470,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~244 days) with sequential approvals and multiple bottlenecks, indicating poor adaptability (low Agile score) and significant delays/waste (low Lean score). Rigid handoffs between roles and lack of iterative feedback violate Agile principles, while excessive wait times and non-value-adding approvals contradict Lean efficiency goals."
+case_166,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.355696201324463,False,False,True,0.8,numerical_scores,30,40,35.0,378,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+Insufficient data on iterative cycles, collaboration, or adaptability reduces the Agile score. Lean principles are marginally higher due to no explicit bottlenecks, but lack of value stream or waste reduction details limits confidence. Both scores fall below the 50 threshold."
+case_167,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.8435111045837402,False,False,True,0.8,numerical_scores,30,30,30.0,414,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (key Agile criteria), and there is no evidence of waste reduction or value stream optimization (core Lean principles). Without measurable data or indicators of continuous improvement, both scores default to low values."
+pattern_5,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.92389178276062,True,False,False,0.8,numerical_scores,35,25,30.0,417,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and rework cycles, indicating poor collaboration (low Agile score) and excessive waste from non-value-added steps (low Lean score). The prolonged duration and bottlenecks further highlight flow disruptions and a lack of iterative refinement."
+pattern_112,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.734040975570679,True,False,False,0.8,numerical_scores,35,30,32.5,433,,"
+
+Agile Score: 35/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is linear with sequential hand-offs and bottlenecks (e.g., undefined delays), showing low adaptability and collaboration (Agile). The 60+ day duration and approval-heavy process indicate waste from waiting and over-processing (Lean). Both scores fall below 50 due to rigidity, inefficiency, and unresolved bottlenecks."
+pattern_130,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7922959327697754,True,False,False,0.8,numerical_scores,30,20,25.0,495,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, approval-heavy structure with significant bottlenecks (e.g., repeated EMPLOYEE submissions and sequential approvals), indicating poor adaptability (low Agile score). The extreme duration (~53 days) and undefined bottlenecks highlight excessive delays and waste in the value stream (low Lean score), violating Lean principles of flow optimization and waste reduction."
+pattern_137,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.928407192230225,False,False,True,0.8,numerical_scores,30,20,25.0,473,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterations or feedback loops (low Agile score). The extremely long duration (1555+ hours) and multiple bottlenecks, including undefined delays, indicate significant waste and poor flow (low Lean score). Despite a 100% success rate, the inefficiencies in process flow and adaptability make it inefficient overall."
+pattern_145,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.653922080993652,True,False,False,0.8,numerical_scores,30,40,35.0,489,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~8.6 days) and bottlenecks (e.g., supervisor dependency) that create delays, conflicting with Lean’s emphasis on flow and waste reduction. While the success rate is perfect, the rigid, linear structure lacks Agile adaptability or iterative improvements. Both scores fall below 50 due to inefficiencies in collaboration, flow, and unresolved bottlenecks."
+pattern_120,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.273923873901367,False,False,True,0.8,numerical_scores,30,20,25.0,458,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process has a very long duration (~87 days) and includes a contradictory ""REJECTED by MISSING"" step despite a 100% success rate, suggesting inefficiencies and potential waste. The rigid, linear structure lacks iterative Agile practices (e.g., feedback loops) and fails Lean principles due to excessive delays and unclear steps, resulting in low scores."
+case_174,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.6062750816345215,False,False,True,0.8,numerical_scores,30,35,32.5,490,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are also poorly reflected due to insufficient data on waste reduction or value stream optimization, despite no explicit bottlenecks. The absence of measurable metrics and process transparency justifies the classification."
+case_175,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.014277219772339,False,False,True,0.8,numerical_scores,30,40,35.0,459,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are marginally better due to no reported bottlenecks, but insufficient data on waste reduction or value stream optimization limits the score. Both scores fall below the efficiency threshold."
+pattern_76,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.506437063217163,True,False,False,0.8,numerical_scores,30,40,35.0,576,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, approval-heavy structure with multiple bottlenecks (e.g., ADMINISTRATION, BUDGET OWNER) and a 52-day average duration, indicating poor adaptability (low Agile score) and excessive delays (low Lean score). While the 100% success rate confirms reliability, the rigid sequence and lack of iterative improvements conflict with Agile principles, while the extended timeline and approval dependencies create waste via waiting, violating Lean efficiency."
+pattern_32,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3933610916137695,False,False,True,0.8,numerical_scores,30,20,25.0,451,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (~110 days) and sequential approval bottlenecks, indicating poor adaptability (low Agile score) and excessive waiting waste (low Lean score). Undefined/MISSING steps and rigid hierarchical handoffs further reduce efficiency, contradicting Agile’s iterative collaboration and Lean’s flow optimization principles."
+pattern_142,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.179244041442871,True,False,False,0.8,numerical_scores,30,20,25.0,372,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (≈50 days) and a clear bottleneck at the EMPLOYEE stage, indicating poor flow and waste (Lean). The rigid, sequential approval process lacks iterative cycles or adaptability (Agile), leading to inefficiency despite the 100% success rate."
+case_179,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.655421018600464,False,False,True,0.8,numerical_scores,30,40,35.0,419,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (activities, success metrics, iteration cycles) to confirm Agile practices like adaptability or collaboration. While no bottlenecks are noted, Lean principles cannot validate value stream efficiency without activity data. Insufficient evidence for efficiency results in low scores."
+pattern_45,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7155628204345703,False,False,True,0.8,numerical_scores,30,20,25.0,430,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow shows excessive rework (rejections and resubmissions), indicating poor collaboration and adaptability (low Agile score). The prolonged duration, bottlenecks, and repetitive steps highlight significant waste and inefficiency in the value stream (low Lean score). Both principles flag this as a non-optimized process."
+pattern_140,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.724185943603516,True,False,False,0.8,numerical_scores,30,20,25.0,446,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long cycle time (~50 days) and includes rework (payment request rejection), indicating poor flow and waste (Lean). Bottlenecks across roles and an ""UNDEFINED"" step suggest siloed collaboration and lack of iterative refinement (Agile), despite the 100% success rate. Both principles highlight inefficiencies in process design."
+case_182,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.0103681087493896,False,False,True,0.8,numerical_scores,30,30,30.0,494,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, waste reduction efforts), making it impossible to confirm alignment with Agile or Lean principles. Minimal evidence of adaptability, measurable value delivery, or process optimization results in low scores. Absence of documented bottlenecks does not inherently indicate efficiency without supporting data."
+case_183,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.351799964904785,False,False,True,0.8,numerical_scores,30,30,30.0,419,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative cycles, collaboration mechanisms, or adaptability measures) to score higher on Agile principles. Similarly, no value stream or waste reduction indicators are provided for Lean scoring. Insufficient evidence of structured Agile/Lean practices results in low scores."
+pattern_82,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.9362077713012695,True,False,False,0.8,numerical_scores,25,35,30.0,461,,"
+
+Agile Score: 25/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~53 days) with sequential bottlenecks (EMPLOYEE, ADMINISTRATION, SUPERVISOR), indicating poor collaboration and adaptability (low Agile score). The extended approval handoffs and undefined bottlenecks create significant delays and waste in the value stream, violating Lean principles of flow optimization and waste reduction."
+case_185,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9744091033935547,False,False,True,0.8,numerical_scores,20,30,25.0,425,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), and no activities or bottlenecks are defined to assess waste elimination or flow (Lean principles). Without measurable metrics or process transparency, both scores remain low, resulting in an inefficient classification."
+pattern_60,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5655322074890137,False,False,True,0.8,numerical_scores,30,40,35.0,491,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant delays (2785+ hours) and rework due to late-stage rejections (""MISSING"" issues), violating Lean principles by creating waste. Poor collaboration and undefined bottlenecks reduce Agile adaptability. While the success rate is 1.0, the cycle of approvals and rejections indicates inefficiency in both iterative refinement (Agile) and streamlined flow (Lean)."
+case_187,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.666821241378784,False,False,True,0.8,numerical_scores,20,30,25.0,407,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit evidence of iterative processes, collaboration, or adaptability (low Agile score). While no bottlenecks are noted, insufficient data on waste reduction or value stream optimization results in a low Lean score. Absence of critical metrics and practices aligns with inefficiency."
+pattern_21,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5570170879364014,True,False,False,0.8,numerical_scores,35,25,30.0,439,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies: repeated rejections and resubmissions indicate poor collaboration (low Agile score) and excessive rework/waste (low Lean score). The prolonged duration and multiple bottlenecks further disrupt flow, violating Lean principles. Both scores fall below 50, reflecting an inefficient process."
+case_189,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.892880916595459,False,False,True,0.8,numerical_scores,30,30,30.0,415,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details (e.g., iterative processes, collaboration mechanisms, or adaptability measures), resulting in low Agile and Lean scores. Without defined activities, waste reduction efforts, or evidence of value stream optimization, it fails to meet efficiency benchmarks under both frameworks."
+research_20250909_141106_pattern_0,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.943082094192505,False,False,True,0.8,numerical_scores,30,30,30.0,429,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical data (e.g., iterative cycles, collaboration mechanisms, waste reduction efforts, or value stream details), making it impossible to confirm alignment with Agile adaptability or Lean waste elimination principles. Absent explicit evidence of efficiency practices, both scores default to low thresholds."
+pattern_41,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.777811050415039,False,False,True,0.8,numerical_scores,30,20,25.0,431,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, non-iterative structure with a critical bottleneck at the EMPLOYEE submission stage, conflicting rejection/approval steps, and an extremely long duration (~123 days). While the success rate is perfect, the lack of adaptability (Agile) and excessive delays/waste (Lean) indicate systemic inefficiencies."
+pattern_95,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.861943006515503,False,False,True,0.8,numerical_scores,20,10,15.0,435,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The rigid, sequential approval process lacks iterative elements or adaptability (low Agile score). The extreme duration (~125 days) and bottlenecks indicate significant waste and poor flow, with approvals causing delays and handoffs (low Lean score). Both principles highlight inefficiency due to excessive waiting and inflexibility."
+pattern_69,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5587172508239746,False,False,True,0.8,numerical_scores,30,20,25.0,417,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigidly sequential with no iterative feedback loops (low Agile score) and exhibits excessive delays due to multiple approval bottlenecks (high waste, low Lean score). While reliable (success rate 1.0), the extreme duration (~274 days) violates Lean flow efficiency and Agile adaptability principles."
+pattern_89,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.272519111633301,False,False,True,0.8,numerical_scores,30,20,25.0,423,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies with multiple rejections and resubmissions, indicating poor collaboration (low Agile score) and excessive rework/waste (low Lean score). The prolonged duration and numerous bottlenecks further highlight a lack of flow and adaptability, violating Lean and Agile principles."
+pattern_93,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7459089756011963,False,False,True,0.8,numerical_scores,30,20,25.0,459,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a high duration (2444+ hours) and ends with a rejection, indicating poor iterative feedback (low Agile score). The linear process with bottlenecks and wasted effort from rejected declarations after approvals highlights inefficiencies and non-value-added steps (low Lean score). Both principles flag systemic delays and lack of adaptability."
+pattern_139,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1974661350250244,False,False,True,0.8,numerical_scores,30,40,35.0,463,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, sequential structure with bottlenecks at every approval step, indicating poor collaboration and adaptability (low Agile score). The excessive duration (≈88 days) and undefined bottlenecks highlight waste and flow inefficiencies (low Lean score), despite a 100% success rate. Both principles flag delays and handoffs as critical issues."
+pattern_79,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.853225231170654,True,False,False,0.8,numerical_scores,30,20,25.0,465,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with multiple approval bottlenecks, leading to excessive duration (941 hours) and no evident iteration or collaboration beyond handoffs. Lean principles highlight significant waste (waiting, undefined bottlenecks) and poor flow efficiency due to rigid, non-parallelized steps. Both scores fall below the threshold for efficiency."
+pattern_163,deepseek_r1,us.deepseek.r1-v1:0,False,True,7.932987928390503,True,False,False,0.8,numerical_scores,30,40,35.0,378,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative cycles and adaptability (low Agile score) and suffers from bottlenecks causing delays, indicating waste in waiting (low Lean score). Despite a 100% success rate, the linear structure and inefficiencies in approval stages reduce overall efficiency."
+case_199,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.957787036895752,False,False,True,0.8,numerical_scores,30,40,35.0,453,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit iterative processes, collaboration details, or adaptability indicators, lowering the Agile score. Lean principles are marginally higher due to no stated bottlenecks, but insufficient data on waste elimination or value stream efficiency limits confidence. Insufficient evidence for efficiency outweighs speculative benefits."
+pattern_136,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9762988090515137,False,False,True,0.8,numerical_scores,30,20,25.0,451,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (over 1,700 hours) and multiple bottlenecks, indicating poor flow and waste (low Lean score). While the success rate is 100%, the rigid, approval-heavy structure lacks iterative feedback or adaptability to change (low Agile score). The undefined roles and redundant submissions further highlight inefficiencies."
+case_201,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.9294519424438477,False,False,True,0.8,numerical_scores,30,40,35.0,461,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are marginally better due to no stated bottlenecks, but insufficient data on waste reduction or value stream optimization limits the score. Both scores fall below the threshold for efficiency."
+pattern_4,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.549283981323242,True,False,False,0.8,numerical_scores,10,20,15.0,393,,"
+
+Agile Score: 10/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes, collaboration, or adaptability (low Agile score). Despite a 0.0-hour duration, the 0.0 success rate indicates systemic failure and waste, with no clear value delivery (low Lean score). Both principles highlight critical inefficiencies in this process."
+pattern_159,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6531121730804443,True,False,False,0.8,numerical_scores,35,30,32.5,463,,"
+
+Agile Score: 35/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with no evident iterative processes or adaptability (low Agile score). The long duration (~11 days) and bottlenecks (SUPERVISOR, DIRECTOR) indicate significant delays and waste in the value stream, violating Lean principles of flow and efficiency. The ""UNDEFINED"" bottleneck further highlights systemic inefficiencies."
+pattern_26,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.225886821746826,True,False,False,0.8,numerical_scores,30,40,35.0,453,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks iterative processes and adaptability (low Agile score) due to rigid, sequential steps. The extremely long duration and bottlenecks indicate significant waste and flow inefficiencies (moderate Lean score), despite the perfect success rate. Both principles highlight delays and inflexibility, leading to an inefficient classification."
+pattern_86,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.1619091033935547,False,False,True,0.8,numerical_scores,30,20,25.0,385,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigidly sequential with no evident iterations or feedback loops (low Agile score). Long duration, undefined bottlenecks, and approval dependencies create significant delays and waste (low Lean score). Both principles highlight inefficiencies in adaptability and flow."
+pattern_131,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6128978729248047,False,False,True,0.8,numerical_scores,35,25,30.0,438,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigid and linear with no evident iterative feedback or collaboration, lowering the Agile score. The extreme duration (≈80 days) and bottlenecks (e.g., ""UNDEFINED"" delays) indicate significant waste and poor flow, resulting in a low Lean score. Both principles highlight inefficiencies in adaptability and value delivery."
+pattern_13,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3376734256744385,True,False,False,0.8,numerical_scores,20,10,15.0,460,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process has a 0% success rate and involves repeated rejections without iterative improvements or collaboration, leading to low Agile scores. The high duration and complete lack of value delivery (all rejections) indicate severe inefficiencies and waste, resulting in a very low Lean score. The workflow fails to meet Agile or Lean principles effectively."
+case_208,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.916968822479248,False,False,True,0.8,numerical_scores,30,30,30.0,453,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (key Agile criteria), and no information is provided to assess waste reduction or value stream efficiency (Lean principles). Without evidence of structured practices or measurable outcomes, both scores remain low, resulting in an inefficient classification."
+pattern_28,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.9339141845703125,True,False,False,0.8,numerical_scores,30,20,25.0,393,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow’s sequential approvals create bottlenecks and excessive delays (48 days), indicating poor flow and high wait-time waste under Lean principles. Agile scoring is low due to rigid, non-iterative structure and limited collaboration beyond handoffs, despite full success reliability."
+pattern_65,deepseek_r1,us.deepseek.r1-v1:0,False,True,5.558864116668701,True,False,False,0.8,numerical_scores,30,20,25.0,427,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a linear, approval-heavy structure with significant bottlenecks and a very long duration (1,323+ hours), indicating poor flow and excessive waiting (waste). While the success rate is high, the lack of iterative processes, adaptability (Agile), and streamlined value delivery (Lean) results in low efficiency."
+pattern_129,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.727989912033081,True,False,False,0.8,numerical_scores,20,10,15.0,384,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The process has a 0% success rate, excessive rework (rejections), and bottlenecks, indicating poor collaboration (low Agile score) and high waste (low Lean score). The prolonged duration and lack of successful outcomes violate Lean flow efficiency and Agile adaptability principles."
+pattern_75,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.612861394882202,False,False,True,0.8,numerical_scores,30,20,25.0,463,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is highly sequential with prolonged handoffs between roles (2100+ hours), indicating poor iterative collaboration (low Agile score). Excessive approvals and undefined bottlenecks create significant waste and disrupt flow, violating Lean principles (low Lean score). The rigid, multi-layered structure fails to prioritize efficiency or adaptability."
+pattern_2,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5798232555389404,True,False,False,0.8,numerical_scores,35,45,40.0,451,,"
+
+Agile Score: 35/100  
+Lean Score: 45/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long lead time (~28 days) and sequential bottlenecks, indicating poor flow and delays (low Lean score). While the success rate is high, rigid handoffs and lack of iterative feedback loops reduce adaptability (low Agile score). The undefined bottleneck further highlights inefficiencies in waste reduction and process transparency."
+pattern_133,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7066540718078613,True,False,False,0.8,numerical_scores,30,20,25.0,411,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is sequential with rigid handoffs (low adaptability/collaboration) and lacks iterative feedback, reducing Agile effectiveness. Long duration (855+ hours), multiple approval bottlenecks, and an undefined delay indicate poor flow and waste (waiting, over-processing), resulting in a low Lean score."
+pattern_38,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3236677646636963,False,False,True,0.8,numerical_scores,30,20,25.0,426,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a long duration (~78 days) due to sequential approvals and bottlenecks at multiple roles, indicating poor flow and adaptability. Lean principles are violated by excessive waiting (non-value-added time), while the rigid, linear structure lacks iterative feedback or collaboration typical of Agile approaches."
+pattern_80,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.7317190170288086,True,False,False,0.8,numerical_scores,30,20,25.0,411,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is rigidly sequential with no iterative feedback or parallel approvals, scoring poorly in Agile adaptability. The extreme duration (1,524 hours) and bottlenecks indicate significant waste (waiting, handoffs) and poor flow, failing Lean principles. Both scores fall below the efficiency threshold."
+pattern_39,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.5323550701141357,False,False,True,0.8,numerical_scores,30,20,25.0,432,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, including repetitive rejections and rework (waste), poor collaboration between roles, and undefined bottlenecks. The extended duration and lack of streamlined flow violate Lean principles, while the rigid, non-iterative process fails Agile’s emphasis on adaptability and feedback."
+pattern_157,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.6192240715026855,True,False,False,0.8,numerical_scores,30,20,25.0,434,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits significant inefficiencies, with repetitive rejections and resubmissions indicating poor collaboration (low Agile score) and excessive rework/waste (low Lean score). The prolonged duration and multiple bottlenecks highlight a lack of streamlined processes and adaptability, violating Lean and Agile principles."
+case_219,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.586031913757324,False,False,True,0.8,numerical_scores,30,30,30.0,406,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks explicit indicators of Agile practices (e.g., iterations, collaboration) or Lean principles (e.g., waste reduction, value stream mapping). With no details on adaptability, feedback loops, or process flow optimization, both scores remain low, resulting in an inefficient classification."
+case_220,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.339329957962036,False,False,True,0.8,numerical_scores,20,20,20.0,458,,"
+
+Agile Score: 20/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms, resulting in a low Agile score. Lean principles are unaddressed due to missing value stream analysis, waste reduction efforts, or flow optimization evidence, yielding a low Lean score. Insufficient data implies unresolved inefficiencies."
+pattern_72,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.8548290729522705,False,False,True,0.8,numerical_scores,30,20,25.0,432,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a rigid, linear structure with sequential approvals (low adaptability/iterative processes) and multiple bottlenecks, leading to high delays (1800+ hours). Lean principles are poorly met due to excessive wait times and non-value-adding handoffs, indicating significant inefficiencies in flow and waste elimination."
+case_222,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.2564308643341064,False,False,True,0.8,numerical_scores,30,35,32.5,457,,"
+
+Agile Score: 30/100  
+Lean Score: 35/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators (e.g., iterative cycles, collaboration details) and Lean evidence (e.g., waste reduction strategies, value stream mapping). Minimal data on adaptability, feedback loops, or flow optimization results in low scores. Absence of explicit bottlenecks does not inherently imply efficiency without supporting metrics."
+pattern_29,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.7692558765411377,False,False,True,0.8,numerical_scores,30,20,25.0,430,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (~9,300 hours) and bottlenecks at multiple stages, indicating poor flow and waste (Lean). The rigid, linear sequence lacks iterative feedback or adaptability (Agile). While the success rate is perfect, the extreme inefficiency in time and unresolved bottlenecks make it inefficient overall."
+pattern_135,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.810647964477539,False,False,True,0.8,numerical_scores,30,20,25.0,488,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow has a very long duration (≈69 days) and includes rework (payment request rejected after approvals), indicating poor flow and waste—key Lean concerns. The rigid, sequential process with undefined bottlenecks and no evident iterative feedback loops conflicts with Agile principles of adaptability and collaboration. Both scores fall below 50 due to inefficiencies and delays."
+pattern_49,deepseek_r1,us.deepseek.r1-v1:0,False,True,4.113361835479736,False,False,True,0.8,numerical_scores,30,20,25.0,462,,"
+
+Agile Score: 30/100  
+Lean Score: 20/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow exhibits rigid sequential dependencies and bottlenecks across roles, limiting adaptability (low Agile score). The extreme duration (~107 days) and undefined bottlenecks highlight excessive waiting and poor flow, indicating significant waste (low Lean score). Both principles flag inefficiencies due to delays and lack of streamlined collaboration."
+case_226,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.351341962814331,False,False,True,0.8,numerical_scores,20,30,25.0,515,,"
+
+Agile Score: 20/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks details on iterative processes, collaboration, or adaptability (key Agile criteria), resulting in a low Agile score. Lean principles are poorly reflected due to insufficient data on waste reduction, value stream mapping, or flow optimization, though the absence of explicit bottlenecks slightly mitigates inefficiency. Insufficient evidence of Agile/Lean practices justifies the classification."
+case_227,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.3247458934783936,False,False,True,0.8,numerical_scores,30,40,35.0,530,,"
+
+Agile Score: 30/100  
+Lean Score: 40/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical Agile indicators like iterative cycles, collaboration details, or adaptability mechanisms, resulting in a low Agile score. While no explicit bottlenecks are noted (moderate Lean score), insufficient data on waste reduction or value stream optimization limits confidence in Lean efficiency. The absence of foundational metrics (duration, success rate) further supports an ""inefficient"" classification."
+pattern_148,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.7533788681030273,True,False,False,0.8,numerical_scores,20,10,15.0,412,,"
+
+Agile Score: 20/100  
+Lean Score: 10/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow shows no adaptability (0% success rate) and poor collaboration due to repeated rejections between roles, lowering the Agile score. Excessive delays (155+ hours) and rework from rejections indicate severe waste and broken flow, resulting in a low Lean score. Both principles highlight inefficiency."
+pattern_14,deepseek_r1,us.deepseek.r1-v1:0,False,True,3.166292905807495,True,False,False,0.8,numerical_scores,35,25,30.0,472,,"
+
+Agile Score: 35/100  
+Lean Score: 25/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow is linear and approval-heavy, creating delays (248+ hours) due to sequential handoffs between roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR). This violates Lean principles by introducing waiting waste and poor flow, while rigid stages limit Agile adaptability and iterative collaboration. High success rate does not offset inefficiencies in throughput time."
+research_20250909_141106_pattern_1,deepseek_r1,us.deepseek.r1-v1:0,False,True,2.5054128170013428,False,False,True,0.8,numerical_scores,30,30,30.0,426,,"
+
+Agile Score: 30/100  
+Lean Score: 30/100  
+Overall Classification: INEFFICIENT  
+
+Brief Analysis:  
+The workflow lacks critical details about iterative processes, collaboration, or adaptability (low Agile score) and provides no evidence of waste reduction or value stream optimization (low Lean score). Without measurable activities, bottlenecks, or success metrics, it fails to meet baseline Agile/Lean efficiency criteria."

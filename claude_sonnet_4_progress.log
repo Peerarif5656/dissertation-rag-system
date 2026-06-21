@@ -1,0 +1,791 @@
+✅ Loaded 231 total cases
+✅ Efficiency threshold: 0.0155
+✅ Ground truth: 84 efficient, 147 inefficient
+\n🚀 STARTING NON-RAG EVALUATION
+   Models: ['claude_sonnet_4']
+   Cases: 231
+   Total evaluations: 231
+============================================================
+\n📊 Queuing claude_sonnet_4 (us.anthropic.claude-sonnet-4-20250514-v1:0) - NON-RAG ONLY
+\n🔄 Processing 231 evaluations sequentially...
+\n\n🤖 Starting claude_sonnet_4:
+\n[claude_sonnet_4] Case 1/231 (Overall: 1/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_62: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 2/231 (Overall: 2/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_1: ❌ API Error
+\n[claude_sonnet_4] Case 3/231 (Overall: 3/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_10: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 4/231 (Overall: 4/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_3: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 5/231 (Overall: 5/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_128: ❌ API Error
+\n[claude_sonnet_4] Case 6/231 (Overall: 6/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_158: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 7/231 (Overall: 7/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_11: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 8/231 (Overall: 8/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_7: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 9/231 (Overall: 9/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_109: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 10/231 (Overall: 10/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_96: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 11/231 (Overall: 11/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_126: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 12/231 (Overall: 12/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_101: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 13/231 (Overall: 13/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_50: ❌ API Error
+\n[claude_sonnet_4] Case 14/231 (Overall: 14/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_34: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 15/231 (Overall: 15/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_14: ❌ API Error
+\n[claude_sonnet_4] Case 16/231 (Overall: 16/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_57: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 17/231 (Overall: 17/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_61: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 18/231 (Overall: 18/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_17: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 19/231 (Overall: 19/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_162: ❌ API Error
+\n[claude_sonnet_4] Case 20/231 (Overall: 20/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_53: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 21/231 (Overall: 21/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_6: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 22/231 (Overall: 22/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_154: ❌ API Error
+\n[claude_sonnet_4] Case 23/231 (Overall: 23/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_22: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 24/231 (Overall: 24/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_121: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 25/231 (Overall: 25/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_125: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 26/231 (Overall: 26/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_25: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 27/231 (Overall: 27/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_26: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 28/231 (Overall: 28/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_35: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 29/231 (Overall: 29/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_28: ❌ API Error
+\n[claude_sonnet_4] Case 30/231 (Overall: 30/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_29: ❌ API Error
+\n[claude_sonnet_4] Case 31/231 (Overall: 31/231) →    pattern_104: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 32/231 (Overall: 32/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_31: ❌ API Error
+\n[claude_sonnet_4] Case 33/231 (Overall: 33/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_56: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 34/231 (Overall: 34/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_18: ❌ API Error
+\n[claude_sonnet_4] Case 35/231 (Overall: 35/231) →    pattern_92: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 36/231 (Overall: 36/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_35: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 37/231 (Overall: 37/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_160: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 38/231 (Overall: 38/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_164: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 39/231 (Overall: 39/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_84: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 40/231 (Overall: 40/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_39: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 41/231 (Overall: 41/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_108: ❌ API Error
+\n[claude_sonnet_4] Case 42/231 (Overall: 42/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_41: ❌ API Error
+\n[claude_sonnet_4] Case 43/231 (Overall: 43/231) →    pattern_168: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 44/231 (Overall: 44/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_165: ✅ GT:EFF PRED:EFF (numerical_scores)
+\n[claude_sonnet_4] Case 45/231 (Overall: 45/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_102: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 46/231 (Overall: 46/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_74: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 47/231 (Overall: 47/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_46: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 48/231 (Overall: 48/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_127: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 49/231 (Overall: 49/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_83: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 50/231 (Overall: 50/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_49: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 51/231 (Overall: 51/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_106: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 52/231 (Overall: 52/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_51: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 53/231 (Overall: 53/231) →    pattern_15: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 54/231 (Overall: 54/231) →    pattern_153: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 55/231 (Overall: 55/231) →    pattern_132: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 56/231 (Overall: 56/231) →    case_55: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 57/231 (Overall: 57/231) →    pattern_91: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 58/231 (Overall: 58/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_57: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 59/231 (Overall: 59/231) →    pattern_81: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 60/231 (Overall: 60/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_48: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 61/231 (Overall: 61/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_60: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 62/231 (Overall: 62/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_33: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 63/231 (Overall: 63/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_7: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 64/231 (Overall: 64/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_63: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 65/231 (Overall: 65/231) →    pattern_64: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 66/231 (Overall: 66/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_24: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 67/231 (Overall: 67/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_22: ❌ API Error
+\n[claude_sonnet_4] Case 68/231 (Overall: 68/231) →    pattern_37: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 69/231 (Overall: 69/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_27: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 70/231 (Overall: 70/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_70: ❌ API Error
+\n[claude_sonnet_4🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_37: ❌ API Error
+\
+\n[claude_sonnet_4] Case 72/231 (Overall: 72/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_103: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 73/231 (Overall: 73/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_47: ❌ API Error
+\n[claude_sonnet_4] Case 74/231 (Overall: 74/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_73: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 75/231 (Overall: 75/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_97: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 76/231 (Overall: 76/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_59: ❌ API Error
+\n[claude_sonnet_4] Case 77/231 (Overall: 77/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_76: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 78/231 (Overall: 78/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_119: ❌ API Error
+\n[claude_sonnet_4] Case 79/231 (Overall: 79/231) →    pattern_98: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 80/231 (Overall: 80/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_78: ❌ API Error
+\n[claude_sonnet_4] Case 81/231 (Overall: 81/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_149: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 82/231 (Overall: 82/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_85: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 83/231 (Overall: 83/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_167: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 84/231 (Overall: 84/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_105: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 85/231 (Overall: 85/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_17: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 86/231 (Overall: 86/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_138: ❌ API Error
+\n[claude_sonnet_4] Case 87/231 (Overall: 87/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_86: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 88/231 (Overall: 88/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_40: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 89/231 (Overall: 89/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_31: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 90/231 (Overall: 90/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_166: ❌ API Error
+\n[claude_sonnet_4] Case 91/231 (Overall: 91/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_55: ❌ API Error
+\n[claude_sonnet_4] Case 92/231 (Overall: 92/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_88: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 93/231 (Overall: 93/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_92: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 94/231 (Overall: 94/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_93: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 95/231 (Overall: 95/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_63: ❌ API Error
+\n[claude_sonnet_4] Case 96/231 (Overall: 96/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_8: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 97/231 (Overall: 97/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_96: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 98/231 (Overall: 98/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_20: ❌ API Error
+\n[claude_sonnet_4] Case 99/231 (Overall: 99/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_73: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 100/231 (Overall: 100/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_141: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 101/231 (Overall: 101/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_111: ❌ API Error
+\n[claude_sonnet_4] Case 102/231 (Overall: 102/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_161: ❌ API Error
+\n[claude_sonnet_4] Case 103/231 (Overall: 103/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_87: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 104/231 (Overall: 104/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_90: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 105/231 (Overall: 105/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_113: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 106/231 (Overall: 106/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_19: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 107/231 (Overall: 107/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_124: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 108/231 (Overall: 108/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_99: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 109/231 (Overall: 109/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_150: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 110/231 (Overall: 110/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_109: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 111/231 (Overall: 111/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_54: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 112/231 (Overall: 112/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_147: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 113/231 (Overall: 113/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_110: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 114/231 (Overall: 114/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_3: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 115/231 (Overall: 115/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_114: ❌ API Error
+\n[claude_sonnet_4] Case 116/231 (Overall: 116/231) →    pattern_30: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 117/231 (Overall: 117/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_116: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 118/231 (Overall: 118/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_117: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 119/231 (Overall: 119/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_118: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 120/231 (Overall: 120/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_155: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 121/231 (Overall: 121/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_94: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 122/231 (Overall: 122/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_121: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 123/231 (Overall: 123/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_146: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 124/231 (Overall: 124/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_151: ❌ API Error
+\n[claude_sonnet_4] Case 125/231 (Overall: 125/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_115: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 126/231 (Overall: 126/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_156: ❌ API Error
+\n[claude_sonnet_4] Case 127/231 (Overall: 127/231) →    case_126: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 128/231 (Overall: 128/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_43: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 129/231 (Overall: 129/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_117: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 130/231 (Overall: 130/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_52: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 131/231 (Overall: 131/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_144: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 132/231 (Overall: 132/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_9: ❌ API Error
+\n[claude_sonnet_4] Case 133/231 (Overall: 133/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_152: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 134/231 (Overall: 134/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_144: ❌ API Error
+\n[claude_sonnet_4] Case 132/231 (Overall: 132/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_9: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 133/231 (Overall: 133/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_152: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 134/231 (Overall: 134/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_133: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 135/231 (Overall: 135/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, wait
+   pattern_123: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 139/231 (Overall: 139/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_116: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 140/231 (Overall: 140/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_139: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 141/231 (Overall: 141/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_44: ❌ API Error
+\n[claude_sonnet_4] Case 142/231 (Overall: 142/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_107: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 143/231 (Overall: 143/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_71: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 144/231 (Overall: 144/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_12: ❌ API Error
+\n[claude_sonnet_4] Case 145/231 (Overall: 145/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_144: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 146/231 (Overall: 146/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_16: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 147/231 (Overall: 147/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_146: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 148/231 (Overall: 148/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_147: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 149/231 (Overall: 149/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_134: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 150/231 (Overall: 150/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_25: ❌ API Error
+\n[claude_sonnet_4] Case 151/231 (Overall: 151/231) →    case_150: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 152/231 (Overall: 152/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_114: ❌ API Error
+\n[claude_sonnet_4] Case 153/231 (Overall: 153/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_68: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 154/231 (Overall: 154/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_77: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 155/231 (Overall: 155/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_154: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 156/231 (Overall: 156/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_42: ❌ API Error
+\n[claude_sonnet_4] Case 157/231 (Overall: 157/231) →    pattern_118: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 158/231 (Overall: 158/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_157: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 159/231 (Overall: 159/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_158: ❌ API Error
+\n[claude_sonnet_4] Case 160/231 (Overall: 160/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_36: ❌ API Error
+\n[claude_sonnet_4] Case 161/231 (Overall: 161/231) →    pattern_66: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 162/231 (Overall: 162/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_58: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 163/231 (Overall: 163/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_100: ❌ API Error
+\n[claude_sonnet_4] Case 164/231 (Overall: 164/231) →    pattern_122: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 165/231 (Overall: 165/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_23: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 166/231 (Overall: 166/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry   pattern_100: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 164/231 (Overall: 164/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_122: ❌ API Error
+\n[claude_sonnet_4] Case 165/231 (Overall: 165/231) →    pattern_23: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 166/231 (Overall: 166/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_67: ❌ API Error
+\n[claude_sonnet_4] Case 167/231 (Overall: 167/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_166: ❌ API Error
+\n[claude_sonnet_4] Case 168/231 (Overall: 168/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds be
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_137: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 173/231 (Overall: 173/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_145: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 174/231 (Overall: 174/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_120: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 175/231 (Overall: 175/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_174: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 176/231 (Overall: 176/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_175: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 177/231 (Overall: 177/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_76: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 178/231 (Overall: 178/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_32: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 179/231 (Overall: 179/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_142: ❌ API Error
+\n[claude_sonnet_4] Case 180/231 (Overall: 180/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_179: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 181/231 (Overall: 181/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_45: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 182/231 (Overall: 182/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_140: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 183/231 (Overall: 183/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_182: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 184/231 (Overall: 184/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_183: ❌ API Error
+\n[claude_sonnet_4] Case 185/231 (Overall: 185/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_82: ❌ API Error
+\n[claude_sonnet_4] Case 186/231 (Overall: 186/231) →    case_185: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 187/231 (Overall: 187/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_60: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 188/231 (Overall: 188/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_187: ❌ API Error
+\n[claude_sonnet_4] Case 189/231 (Overall: 189/231) →    pattern_21: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 190/231 (Overall: 190/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_189: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 191/231 (Overall: 191/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   research_20250909_141106_pattern_0: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 192/231 (Overall: 192/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_41: ❌ API Error
+\n[claude_sonnet_4] Case 193/231 (Overall: 193/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_95: ❌ API Error
+\n[claude_sonnet_4] Case 194/231 (Overall: 194/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_69: ❌ API Error
+\n[claude_sonnet_4] Case 195/231 (Overall: 195/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_89: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 196/231 (Overall: 196/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_93: ❌ API Error
+\n[claude_sonnet_4] Case 197/231 (Overall: 197/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_139: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 198/231 (Overall: 198/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_79: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 199/231 (Overall: 199/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   pattern_163: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 200/231 (Overall: 200/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_199: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 201/231 (Overall: 201/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected,🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_163: ❌ API Error
+\n[claude_sonnet_4] Case 200/231 (Overall: 200/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_199: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 201/231 (Overall: 201/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_136: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 202/231 (Overall: 202/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_201: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 203/ → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_159: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 205/231 (Overall: 205/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_26: ❌ API Error
+\n[claude_sonnet_4] Case 206/231 (Overall: 206/231) →    pattern_86: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 207/231 (Overall: 207/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_131: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 208/231 (Overall: 208/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_13: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 209/231 (Overall: 209/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   case_208: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 210/231 (Overall: 210/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_28: ❌ API Error
+\n[claude_sonnet_4] Case 211/231 (Overall: 211/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_65: ❌ API Error
+\n[claude_sonnet_4] Case 212/231 (Overall: 212/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+   pattern_129: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 213/231 (Overall: 213/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_75: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 214/231 (Overall: 214/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_2: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 215/231 (Overall: 215/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_133: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 216/231 (Overall: 216/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_38: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 217/231 (Overall: 217/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_80: ❌ API Error
+\n[claude_sonnet_4] Case 218/231 (Overall: 218/231) →    pattern_39: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 219/231 (Overall: 219/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_157: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 220/231 (Overall: 220/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_219: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 221/231 (Overall: 221/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_220: ❌ API Error
+\n[claude_sonnet_4] Case 222/231 (Overall: 222/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_72: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 223/231 (Overall: 223/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_222: ❌ API Error
+\n[claude_sonnet_4] Case 224/231 (Overall: 224/231) →    pattern_29: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 225/231 (Overall: 225/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_135: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 226/231 (Overall: 226/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   pattern_49: ❌ API Error
+\n[claude_sonnet_4] Case 227/231 (Overall: 227/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+🔄 Throttling detected, waiting 9 seconds before retry 3
+🔄 Throttling detected, waiting 12 seconds before retry 4
+   case_226: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 228/231 (Overall: 228/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling det🔄 Throttling detected, waiting 9 seconds before retry 3
+   case_226: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 228/231 (Overall: 228/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   case_227: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 229/231 (Overall: 229/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_148: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 230/231 (Overall: 230/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+🔄 Throttling detected, waiting 6 seconds before retry 2
+   pattern_14: ❌ GT:EFF PRED:INEFF (numerical_scores)
+\n[claude_sonnet_4] Case 231/231 (Overall: 231/231) → 🔄 Throttling detected, waiting 3 seconds before retry 1
+   research_20250909_141106_pattern_1: ✅ GT:INEFF PRED:INEFF (numerical_scores)
+\n💾 Results saved to: Comparison_Outputs/non_rag_evaluation_20250914_145728.csv
+\n📈 NON-RAG EVALUATION SUMMARY
+============================================================
+Total evaluations: 231
+Successful API calls: 171 (74.0%)
+Classification accuracy: 64.9%
+\n🎯 MODEL PERFORMANCE RANKING:
+   1. claude_sonnet_4: 64.9% accuracy, 34.7s avg, API success: 74.0%
+\n📊 DATASET DISTRIBUTION:
+   Efficient workflows: 84
+   Inefficient workflows: 147
+   Balance ratio: 36.4% efficient
+\n✅ Fixed evaluation complete: Comparison_Outputs/non_rag_evaluation_20250914_145728.csv

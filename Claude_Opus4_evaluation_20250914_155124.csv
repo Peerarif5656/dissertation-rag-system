@@ -1,0 +1,1387 @@
+case_id,model,model_id,rag_enabled,success,processing_time,ground_truth_efficient,predicted_efficient,classification_correct,prediction_confidence,extraction_method,agile_score,lean_score,overall_score,response_length,error,full_response
+pattern_62,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.049053192138672,False,False,True,0.8,numerical_scores,20,15,17.5,552,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1731 hours (72 days) for what appears to be a simple permit approval process. The presence of multiple bottlenecks across all roles (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) indicates severe flow problems and waste, while the linear, sequential approval chain lacks any iterative feedback loops or collaborative elements that would align with Agile principles."
+case_1,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.636799097061157,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_10,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.180777072906494,True,False,False,0.8,numerical_scores,20,15,17.5,520,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 625-hour average duration and a repetitive rejection cycle between employee and pre-approver, indicating poor communication and unclear requirements. The process exhibits significant waste through rework (multiple submissions and rejections), lacks effective collaboration between stakeholders, and shows no evidence of continuous improvement or value stream optimization."
+case_3,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.869771003723145,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_128,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.76604700088501,True,False,False,0.8,numerical_scores,20,15,17.5,628,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 52 days (1256 hours) for a simple travel permit process, multiple approval layers creating waste, and bottlenecks across all participant roles. The sequential, waterfall-like structure with redundant approvals (ADMINISTRATION approving twice, plus SUPERVISOR approval) violates both Agile principles of rapid iteration and Lean principles of waste elimination, despite the 100% success rate which likely indicates over-processing rather than efficiency."
+pattern_158,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.962636947631836,True,False,False,0.8,numerical_scores,25,15,20.0,529,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating a cycle of rework and waste. The 911+ hour average duration indicates severe bottlenecks and poor flow, while the rejection-resubmission pattern shows lack of clear requirements and collaboration between employees and supervisors, violating both Agile principles of effective communication and Lean principles of eliminating waste."
+pattern_11,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.72399115562439,False,False,True,0.8,numerical_scores,25,15,20.0,609,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration (2857 hours/~119 days) and a rejection-resubmission loop that indicates poor initial requirements communication and excessive handoffs. The multiple bottlenecks across three different roles (PRE_APPROVER, SUPERVISOR, UNDEFINED) suggest severe flow impediments and waste in the form of waiting time, rework, and unnecessary process steps that violate both Agile collaboration principles and Lean waste elimination practices."
+case_7,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.196344137191772,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_109,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.441048860549927,False,False,True,0.8,numerical_scores,25,20,22.5,543,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration (4025 hours/~168 days) and multiple rejection loops between employees and administration, indicating poor collaboration and excessive waste. The 81.8% success rate combined with identified bottlenecks at both employee and administration levels suggests a lack of iterative improvement and value stream optimization, violating core Agile and Lean principles."
+pattern_96,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.72015905380249,True,False,False,0.8,numerical_scores,20,15,17.5,625,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1361.9 hours (approximately 57 days) for international declarations, despite a 100% success rate. The process shows poor agile characteristics with rigid sequential approvals and no iterative feedback loops, while from a lean perspective, the extensive bottlenecks across multiple roles (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) indicate severe waste in waiting times and redundant approval steps that don't add value to the process."
+pattern_126,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.691566944122314,True,False,False,0.8,numerical_scores,20,15,17.5,592,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 1,230 hours (over 51 days) for a simple travel permit process. The sequential approval chain creates multiple handoffs and waiting periods between six different roles, violating lean principles of waste elimination and flow optimization. The rigid, waterfall-style process lacks iterative feedback loops and shows no evidence of collaborative problem-solving, making it poorly aligned with agile principles."
+pattern_101,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.988034009933472,False,False,True,0.8,numerical_scores,20,15,17.5,483,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits excessive bureaucracy with four sequential approval layers (Administration, Supervisor, Director) creating significant waste and delays (2260+ hours average duration). The process lacks agility with its rigid, waterfall-like structure and shows poor lean principles with multiple bottlenecks and non-value-adding approval steps that could be streamlined or eliminated."
+pattern_50,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.929452896118164,False,False,True,0.8,numerical_scores,20,15,17.5,564,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,746 hours (73 days) for international declarations, despite a 100% success rate. The process involves multiple approval layers (EMPLOYEE → PRE_APPROVER → SUPERVISOR) creating bottlenecks at every stage, which violates lean principles of waste elimination and flow optimization. The sequential, waterfall-like approval chain lacks agility and creates excessive waiting time between activities."
+pattern_34,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.74941086769104,False,False,True,0.8,numerical_scores,10,5,7.5,503,,"Agile Score: 10/100
+Lean Score: 5/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 6,447 hours (approximately 269 days) and a 0% success rate, indicating complete failure to deliver value. The process shows minimal activities with a critical bottleneck at the EMPLOYEE step, suggesting poor flow, excessive waste, and lack of iterative improvement or adaptability that are fundamental to both Agile and Lean methodologies."
+case_14,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.874643087387085,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_57,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.25600004196167,False,False,True,0.8,numerical_scores,15,10,12.5,464,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely low success rate (28.6%) and excessive duration (1915+ hours/~80 days average). The process shows multiple rejections creating waste and rework, with bottlenecks at both EMPLOYEE and PRE_APPROVER stages, indicating poor collaboration and a non-optimized value stream that fails to deliver timely outcomes."
+pattern_61,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.488358974456787,False,False,True,0.8,numerical_scores,25,20,22.5,520,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 5,680 hours (237 days) for what appears to be a simple permit approval process. The bottlenecks at every human touchpoint (EMPLOYEE, SUPERVISOR, UNDEFINED) indicate poor flow and excessive wait times, while the linear, waterfall-like structure lacks iterative feedback loops or parallel processing capabilities that would align with Agile principles."
+case_17,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.185113906860352,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_162,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.557186126708984,True,False,False,0.8,numerical_scores,15,10,12.5,591,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no payment requests are ever approved. The 226-hour average duration (over 9 days) indicates excessive delays and waste, while the pattern of rejections between supervisor and employee suggests poor communication and lack of clear requirements upfront. The supervisor bottleneck and circular rejection pattern violate both Agile principles of collaboration and Lean principles of eliminating waste and optimizing flow."
+pattern_53,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.467091083526611,False,False,True,0.8,numerical_scores,20,15,17.5,596,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow is highly inefficient with an average duration of 2049 hours (85+ days) for what appears to be a simple approval process. The three-level sequential approval chain creates significant waste and delays, while the identified bottlenecks at multiple stages indicate poor flow and resource utilization. Despite a 100% success rate, the excessive cycle time and lack of parallel processing or delegation violates both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_6,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.226671934127808,True,False,False,0.8,numerical_scores,30,20,25.0,521,,"Agile Score: 30/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration of 1,384 hours (nearly 58 days) for a simple declaration process. The rejection-resubmission cycle between employee and pre-approver indicates poor communication and unclear requirements upfront, while the presence of multiple bottlenecks across all participant roles suggests systemic process issues that create waste and impede flow."
+pattern_154,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.567984819412231,True,False,False,0.8,numerical_scores,20,25,22.5,557,,"Agile Score: 20/100
+Lean Score: 25/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits excessive approval layers (5 sequential approvals) creating significant waste and delays, with an average duration of 378 hours (nearly 16 days) for prepaid travel costs. The rigid, waterfall-style approval chain lacks agility and creates no value for the customer, while the multiple handoffs between ADMINISTRATION, BUDGET OWNER, SUPERVISOR, and DIRECTOR represent classic non-value-adding activities that Lean principles seek to eliminate."
+case_22,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.284163236618042,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_121,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.3422589302063,True,False,False,0.8,numerical_scores,25,20,22.5,552,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 1,200 hours (50+ days) for a simple travel permit process, indicating severe bottlenecks at every role level. The sequential approval chain with multiple handoffs between employees, pre-approvers, and supervisors creates waste and delays, while the lack of parallel processing or iterative feedback loops violates both Agile collaboration principles and Lean flow optimization."
+pattern_125,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.402416706085205,True,False,False,0.8,numerical_scores,20,15,17.5,567,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 1250 hours (52 days) for a simple travel permit process, despite a 100% success rate. The sequential approval chain through multiple layers (EMPLOYEE → ADMINISTRATION → BUDGET OWNER) creates unnecessary handoffs and wait times, while the presence of ""UNDEFINED"" in bottlenecks suggests process ambiguity that violates both Agile and Lean principles of clarity and waste elimination."
+case_25,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.2112557888031,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_26,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.903796911239624,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_35,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.45666480064392,False,False,True,0.8,numerical_scores,20,15,17.5,503,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of nearly 100 days (2398.8 hours) for what appears to be a simple approval process. The three-level approval hierarchy (EMPLOYEE → SUPERVISOR → DIRECTOR) creates unnecessary handoffs and wait times, with identified bottlenecks at the first two stages, indicating poor flow and excessive waste in the form of waiting and over-processing."
+case_28,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.145698070526123,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_29,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.389256954193115,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_104,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.647507905960083,False,False,True,0.8,numerical_scores,15,10,12.5,478,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0.4 success rate and excessive duration (3367 hours/140 days average), indicating massive waste and poor flow. The multiple rejection cycles between EMPLOYEE and ADMINISTRATION show lack of collaboration and clear requirements upfront, while the employee bottleneck suggests process constraints that prevent smooth value delivery."
+case_31,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.654528141021729,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_56,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.091784238815308,True,False,False,0.8,numerical_scores,20,15,17.5,637,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,352 hours (56+ days) for what appears to be a simple permit approval process. The sequential approval chain through three hierarchical levels (EMPLOYEE → SUPERVISOR → DIRECTOR) creates unnecessary bottlenecks and wait times, violating both Agile principles of rapid iteration and Lean principles of waste elimination. The process lacks parallel processing, empowerment of lower-level approvers, and shows no evidence of continuous flow or value stream optimization."
+pattern_18,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.062164068222046,False,False,True,0.8,numerical_scores,10,5,7.5,572,,"Agile Score: 10/100
+Lean Score: 5/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate (all declarations are rejected), an extremely long average duration of 3,834 hours (approximately 160 days), and no iterative improvement or feedback loops. The process represents pure waste from a Lean perspective as it delivers zero value to customers while consuming significant time and resources, and from an Agile perspective, it lacks any adaptability or collaboration to address the 100% failure rate."
+pattern_92,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.22984504699707,False,False,True,0.8,numerical_scores,15,10,12.5,615,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 94+ days for international declarations, despite a 100% success rate. The process shows excessive handoffs through multiple approval layers (Employee → Administration → Supervisor → Director), creating significant waste and delays. The presence of bottlenecks at every stage and the sequential, waterfall-like approval chain directly contradicts both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+case_35,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.002834796905518,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_160,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.96302318572998,True,False,False,0.8,numerical_scores,20,15,17.5,513,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows severe inefficiencies with a 489-hour average duration (over 20 days), multiple resubmissions after rejection, and bottlenecks at every step including a ""MISSING"" actor. The process lacks agility with no apparent feedback loops or collaboration mechanisms, and violates lean principles through excessive waste, rework (rejection followed by resubmission), and unclear accountability that impedes flow."
+pattern_164,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.78701901435852,True,False,False,0.8,numerical_scores,25,20,22.5,503,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with a 353.8 hour (nearly 15 days) average duration for a payment request process, despite a 100% success rate. The presence of a rejection step followed by resubmission creates waste and rework, while the multiple approval layers (PRE_APPROVER and SUPERVISOR) add unnecessary handoffs that violate lean principles of minimizing non-value-adding activities."
+pattern_84,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.286356925964355,True,False,False,0.8,numerical_scores,20,15,17.5,609,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1150+ hours (nearly 48 days) for international declarations, despite a 100% success rate. The process shows poor agile characteristics with rigid sequential approvals and no iterative feedback loops, while from a lean perspective, the multiple approval layers (EMPLOYEE → ADMINISTRATION → BUDGET OWNER) and identified bottlenecks across all roles indicate substantial waste and waiting time that adds no value to the actual trip execution."
+case_39,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.22301197052002,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_108,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.276894092559814,False,False,True,0.8,numerical_scores,20,15,17.5,494,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows severe inefficiencies with an average duration of nearly 79 days (1893 hours) for what should be a simple declaration process. The bottleneck at the EMPLOYEE step suggests poor process design or lack of clear guidance, while the sequential approval chain (ADMINISTRATION then SUPERVISOR) creates unnecessary delays and violates lean principles of minimizing handoffs and wait times."
+case_41,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.360707759857178,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_168,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.733585357666016,True,False,False,0.8,numerical_scores,20,15,17.5,586,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates poor Agile and Lean practices with a 100% success rate that's misleading - all requests end in rejection after passing through multiple approval stages. The 94+ hour duration with bottlenecks at ADMINISTRATION and BUDGET OWNER represents significant waste and lack of flow, while the sequential approval-then-rejection pattern indicates poor collaboration and no early feedback mechanisms to prevent requests that will ultimately be rejected from entering the system."
+pattern_165,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.097758054733276,True,True,True,0.8,numerical_scores,70,85,77.5,535,,"Agile Score: 70/100
+Lean Score: 85/100
+Overall Classification: EFFICIENT
+
+Brief Analysis:
+This workflow demonstrates excellent lean principles with minimal waste - only two essential steps (submission and approval) with no bottlenecks and a very fast average duration of ~31 seconds. The 100% success rate and streamlined approval process indicate efficient value flow, though the agile score is slightly lower due to limited visibility into iterative feedback mechanisms or collaborative elements beyond the basic supervisor approval."
+pattern_102,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.555267810821533,False,False,True,0.8,numerical_scores,15,10,12.5,522,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 2,100 hours (88 days) and contains contradictory approval-rejection sequences that indicate rework and waste. The process lacks iterative feedback loops, shows poor collaboration between roles (with rejections occurring after approvals), and the presence of an ""UNDEFINED"" bottleneck suggests unclear responsibilities and significant process ambiguity."
+pattern_74,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.739337921142578,False,False,True,0.8,numerical_scores,15,10,12.5,481,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of nearly 2000 hours (83 days) for what appears to be a simple permit approval process. The sequential approval chain through four different roles creates multiple handoffs and bottlenecks at every stage, violating both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+pattern_46,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.10427212715149,False,False,True,0.8,numerical_scores,15,10,12.5,454,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 3,549 hours (nearly 5 months) for what appears to be a simple approval chain. The sequential waterfall approach with four approval levels creates significant waste and delays, while the presence of bottlenecks at every stage indicates poor flow and excessive wait times between activities."
+pattern_127,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.057749032974243,False,False,True,0.8,numerical_scores,20,15,17.5,581,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1527 hours (over 63 days) for a simple travel permit process, multiple approval layers creating waste, and bottlenecks at every stage. The sequential, waterfall-like structure with no apparent feedback loops or iterative improvements, combined with excessive handoffs between five different roles, violates both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+pattern_83,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.452349185943604,True,False,False,0.8,numerical_scores,15,10,12.5,534,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 14% success rate and excessive duration (1265+ hours), indicating multiple rejections and rework cycles that violate both Agile and Lean principles. The process shows poor collaboration between employees and administration, significant waste through repeated rejections, and a bottleneck at the employee level, suggesting fundamental process design flaws that prevent smooth value flow."
+case_49,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.067330837249756,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_106,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.682910919189453,False,False,True,0.8,numerical_scores,20,15,17.5,578,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 94 days (2258 hours) for international declarations, despite a 100% success rate. The process shows poor agile characteristics with sequential approvals creating bottlenecks at multiple roles (4 identified bottlenecks), and from a lean perspective, the workflow contains substantial waste with permits being approved AFTER the trip has already occurred, indicating redundant steps and poor value stream flow."
+pattern_51,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.15789794921875,False,False,True,0.8,numerical_scores,20,15,17.5,503,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an 87-day average duration, multiple rejections creating rework loops, and bottlenecks at every stage. The process lacks agility with rigid sequential approvals and poor collaboration (evidenced by rejections), while violating lean principles through excessive waste, non-value-adding activities, and interrupted flow that prevents timely permit processing."
+pattern_15,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.782827854156494,True,False,False,0.8,numerical_scores,30,20,25.0,527,,"Agile Score: 30/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejection cycles and an excessive average duration of 542+ hours (over 22 days) for domestic declarations. The presence of rework loops (rejection-resubmission cycles) and bottlenecks across all participant roles indicates poor flow, substantial waste, and lack of effective collaboration between employees and administration to get declarations right the first time."
+pattern_153,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.960188865661621,True,False,False,0.8,numerical_scores,15,10,12.5,598,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no requests ever complete successfully. The process shows poor collaboration between stakeholders (employee and administration repeatedly rejecting), creates significant waste through rework cycles, and the 81-hour average duration indicates major flow problems. The bottleneck at ADMINISTRATION and the rejection loop pattern violate both Agile principles of effective collaboration and Lean principles of waste elimination."
+pattern_132,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.312337160110474,False,False,True,0.8,numerical_scores,20,15,17.5,551,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 2094 hours (87 days) for a simple travel permit approval, involving multiple sequential handoffs through 4 different approval levels. The process shows no iterative elements, creates significant waste through excessive approval layers, and the presence of 6 identified bottlenecks indicates poor flow and value stream optimization, directly contradicting both Agile and Lean principles."
+case_55,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.745751142501831,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_91,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.35857605934143,True,False,False,0.8,numerical_scores,15,20,17.5,674,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,279 hours (53+ days) for international declarations, despite a 100% success rate. The sequential approval chain through multiple roles (Employee → Administration → Budget Owner → Supervisor) creates significant bottlenecks at every step, violating both Agile principles of rapid iteration and Lean principles of waste elimination. The process lacks parallel processing, shows no evidence of collaboration, and the extensive wait times between approvals indicate poor flow and excessive non-value-added time."
+case_57,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.882553815841675,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_81,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.278109073638916,False,False,True,0.8,numerical_scores,20,15,17.5,604,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2,340 hours (nearly 98 days) for what appears to be a simple travel approval process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the identification of all roles as bottlenecks indicates systemic delays throughout the entire process, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_48,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.068285942077637,False,False,True,0.8,numerical_scores,30,20,25.0,589,,"Agile Score: 30/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejection-resubmission cycles between the same actors (EMPLOYEE and SUPERVISOR), indicating poor initial communication and unclear requirements. The extremely long average duration of 2113.9 hours (approximately 88 days) combined with bottlenecks at every role level reveals severe waste in the value stream, lack of flow, and absence of continuous improvement practices that are fundamental to both Agile and Lean methodologies."
+case_60,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.97041392326355,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_33,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.547483205795288,False,False,True,0.8,numerical_scores,20,15,17.5,571,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of nearly 79 days (1891 hours) for what appears to be a simple travel permit approval process. The multiple approval layers (EMPLOYEE → PRE_APPROVER → SUPERVISOR) create unnecessary handoffs and waste, while the extensive list of bottlenecks across 7 different roles indicates poor flow and lack of clear accountability, violating both Agile collaboration principles and Lean waste elimination practices."
+pattern_7,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.432497024536133,False,False,True,0.8,numerical_scores,20,15,17.5,532,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of nearly 120 days (2869 hours) for a simple declaration process, multiple approval layers creating waste, and a confusing flow where rejections occur after approvals. The presence of ""MISSING"" as a bottleneck and the circular nature of the process (ending back at submission) indicates poor process design with no clear value stream or iterative improvement mechanisms."
+case_63,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.777344942092896,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_64,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.583577156066895,False,False,True,0.8,numerical_scores,25,20,22.5,551,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an extremely long average duration (1611 hours/67 days), a poor success rate of only 79.8%, and multiple rejection loops between employees and administration. The presence of numerous bottlenecks across all participant roles and the repetitive rejection-resubmission cycle indicates substantial waste, poor collaboration, and lack of streamlined processes that violate both Agile and Lean principles."
+pattern_24,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.254395008087158,True,False,False,0.8,numerical_scores,15,10,12.5,572,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with multiple rejections after initial approval, indicating poor communication and unclear requirements upfront. The 198+ hour average duration with bottlenecks at every step shows significant waste and lack of flow, while the rejection loop between supervisor and employee after administration approval suggests a fundamentally broken process that violates both Agile collaboration principles and Lean waste elimination practices."
+pattern_22,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.67758321762085,True,False,False,0.8,numerical_scores,25,20,22.5,563,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections creating a wasteful loop - the declaration is approved by administration but then rejected by the budget owner and employee, indicating poor upfront communication and alignment. The 82+ hour duration for a domestic declaration process represents excessive cycle time with no value-adding activities, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_37,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.477946996688843,True,False,False,0.8,numerical_scores,25,20,22.5,516,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with an average duration of 780+ hours (over 32 days) for what appears to be a simple travel declaration process. The linear, waterfall-like sequence lacks iterative feedback loops, and the presence of multiple bottlenecks across all participant types indicates poor flow and excessive wait times, violating both Agile collaboration principles and Lean waste elimination goals."
+pattern_27,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.162745237350464,False,False,True,0.8,numerical_scores,20,15,17.5,496,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 8,000 hours (nearly a year) for what should be a simple approval process. The sequential approval chain through multiple hierarchical levels (Employee → Supervisor → Director) creates significant bottlenecks and waste, with no evidence of parallel processing or iterative feedback loops that would align with Agile principles."
+pattern_70,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.930439233779907,False,False,True,0.8,numerical_scores,20,15,17.5,605,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 3,439 hours (over 143 days) for what appears to be a simple permit approval process. The sequential approval chain through multiple layers (EMPLOYEE → ADMINISTRATION → BUDGET OWNER → SUPERVISOR) creates significant waste and delays, with bottlenecks at every step including an ""UNDEFINED"" category, indicating poor process clarity and excessive handoffs that violate both Agile collaboration principles and Lean waste elimination practices."
+pattern_1,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.11653423309326,True,False,False,0.8,numerical_scores,25,20,22.5,552,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+The workflow shows significant inefficiencies with an average duration of 237 hours (nearly 10 days) for a simple domestic declaration process, with bottlenecks at the supervisor approval stage. Despite a 100% success rate, the linear, waterfall-style approval chain lacks iterative feedback loops and creates waste through excessive waiting time, violating both Agile principles of rapid iteration and Lean principles of continuous flow and waste elimination."
+pattern_103,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.31795573234558,False,False,True,0.8,numerical_scores,20,15,17.5,525,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows extremely poor performance with an average duration of 2,815 hours (117 days) for what appears to be a simple permit approval process. The multiple bottlenecks across all participant roles (EMPLOYEE, ADMINISTRATION, UNDEFINED, SUPERVISOR) indicate severe waste and lack of flow, while the linear, waterfall-like sequence with no feedback loops or iterative elements demonstrates minimal agility and collaboration."
+pattern_47,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.908642053604126,False,False,True,0.8,numerical_scores,20,15,17.5,554,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 2,692 hours (112 days) for what appears to be a straightforward approval process. The sequential nature with multiple approval layers (PRE_APPROVER and SUPERVISOR for permits, then repeated approvals for declarations) creates significant waste and delays, while the bottlenecks at every role indicate poor flow and likely batch processing rather than continuous flow or iterative delivery."
+case_73,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.667131185531616,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_97,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.31068205833435,False,False,True,0.8,numerical_scores,20,15,17.5,521,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating a circular pattern of waste. The 2,141+ hour average duration (nearly 3 months) indicates severe bottlenecks across all roles, while the rejection-resubmission cycle shows poor collaboration and lack of clear requirements upfront, violating both Agile principles of early feedback and Lean principles of eliminating rework."
+pattern_59,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.309395790100098,False,False,True,0.8,numerical_scores,25,20,22.5,546,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an average duration of 1573.6 hours (65.6 days) for what should be a straightforward declaration process. The bottlenecks at both EMPLOYEE and SUPERVISOR levels indicate poor flow and excessive wait times, while the sequential approval structure lacks iterative feedback loops and creates waste through delays, violating both Agile collaboration principles and Lean continuous flow requirements."
+case_76,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.795586109161377,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_119,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.78317379951477,False,False,True,0.8,numerical_scores,15,20,17.5,593,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 2,187 hours (91 days) for a simple travel permit approval, involving multiple sequential handoffs through four approval levels. The process shows poor agility with rigid hierarchical approvals and no iterative feedback loops, while from a Lean perspective, it contains excessive waste through multiple bottlenecks at every stage and non-value-adding approval layers that don't enhance the actual travel permit quality."
+pattern_98,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.177179098129272,False,False,True,0.8,numerical_scores,15,10,12.5,567,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,757 hours (73+ days) for international declarations, despite a 100% success rate. The process involves multiple sequential approvals creating significant bottlenecks at every stage, lacks iterative feedback loops, and appears to have no value-adding activities between approval steps - violating both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+pattern_78,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.80539083480835,False,False,True,0.8,numerical_scores,15,20,17.5,450,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits a rigid, waterfall-style approval chain with 5 sequential handoffs, creating significant waste and delays (2193+ hours average duration). The process lacks iterative feedback loops, parallel processing opportunities, and shows bottlenecks at every stage, indicating poor flow efficiency and excessive wait times between approval steps."
+pattern_149,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.62532091140747,True,False,False,0.8,numerical_scores,25,20,22.5,588,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 10-day average duration for a simple prepaid travel cost process, requiring three separate approval layers (EMPLOYEE → ADMINISTRATION → SUPERVISOR) that create unnecessary handoffs and waiting time. The identified bottlenecks at multiple approval stages indicate poor flow and excessive waste in the form of delays, while the rigid sequential structure lacks agility and creates no value for the end user during the lengthy approval chain."
+pattern_85,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.51723599433899,True,False,False,0.8,numerical_scores,20,15,17.5,554,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1261 hours (52.5 days) for what appears to be a simple permit approval process. The presence of multiple bottlenecks across all roles (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) indicates severe flow problems and waste, while the linear, sequential approval chain lacks any iterative feedback loops or collaborative elements that would align with Agile principles."
+pattern_167,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.887125968933105,True,False,False,0.8,numerical_scores,20,15,17.5,505,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 336-hour (14-day) average duration and multiple approval bottlenecks across all organizational levels. The sequential, hierarchical approval chain (Employee → Administration → Supervisor → Director) creates excessive wait times and handoffs, violating both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+pattern_105,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.498055934906006,False,False,True,0.8,numerical_scores,15,10,12.5,557,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an average duration of 2,335 hours (97+ days) for international declarations, multiple rejection loops between different stakeholders, and bottlenecks at every approval level. The process lacks iterative improvement, contains significant waste through redundant rejections, and shows poor flow with activities bouncing back and forth between employees and multiple approvers before eventually starting the trip."
+pattern_17,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.08993411064148,True,False,False,0.8,numerical_scores,20,15,17.5,515,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 515-hour average duration (over 21 days) and multiple rejection loops between employees and supervisors, indicating poor collaboration and excessive waste. The presence of bottlenecks across all participant roles and the repetitive submit-reject cycle violates both Agile principles of effective collaboration and Lean principles of waste elimination and smooth flow."
+pattern_138,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.88341784477234,True,False,False,0.8,numerical_scores,20,15,17.5,557,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,497 hours (62 days) for a simple travel permit process, indicating severe delays and waste. The process lacks agility with rigid sequential approvals across multiple roles, and the presence of bottlenecks at every step (EMPLOYEE, ADMINISTRATION, SUPERVISOR, UNDEFINED) demonstrates poor flow and excessive handoffs that violate lean principles of continuous flow and waste elimination."
+case_86,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.792771100997925,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_40,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.614717245101929,False,False,True,0.8,numerical_scores,20,15,17.5,514,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 7,637 hours (over 318 days) for a simple declaration process, indicating massive waste and delays. The sequential approval chain through three hierarchical levels (EMPLOYEE → SUPERVISOR → DIRECTOR) creates unnecessary handoffs and bottlenecks at every stage, violating both Agile principles of collaboration and Lean principles of flow optimization."
+pattern_31,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.659996032714844,False,False,True,0.8,numerical_scores,25,20,22.5,480,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with an extremely long average duration of 1,670 hours (nearly 70 days) for what should be a straightforward declaration process. The presence of 7 different bottleneck roles indicates poor flow and excessive handoffs, while the rigid sequential approval structure lacks the iterative feedback and adaptability that Agile principles promote."
+pattern_166,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.393261671066284,True,False,False,0.8,numerical_scores,20,15,17.5,522,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 668 hours (nearly 28 days) for a payment request, multiple rejection points creating rework loops, and bottlenecks at every stage. The process lacks agility with its rigid sequential approval chain and demonstrates significant waste through redundant rejections and excessive wait times, violating core Lean principles of flow and value stream optimization."
+pattern_55,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.969498872756958,False,False,True,0.8,numerical_scores,20,15,17.5,506,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of ~74 days (1780 hours) for what appears to be a simple travel permit approval process. The multiple approval layers (PRE_APPROVER and SUPERVISOR) create unnecessary bottlenecks and waste, while the linear, waterfall-like structure lacks any iterative feedback loops or opportunities for adaptation that would align with Agile principles."
+pattern_88,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.785792112350464,True,False,False,0.8,numerical_scores,20,15,17.5,511,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 838 hours (nearly 35 days) for what appears to be a simple permit approval process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the presence of bottlenecks at every stage indicates poor flow and excessive waste in the form of delays."
+case_92,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.540527820587158,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_93,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.314249992370605,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_63,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.565755128860474,False,False,True,0.8,numerical_scores,20,15,17.5,482,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 3,470 hours (approximately 144 days) for what appears to be a simple permit approval process. The sequential approval chain through multiple roles creates significant bottlenecks and waste, with no evidence of parallel processing, iteration, or value-focused activities that would align with Agile or Lean principles."
+pattern_8,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.463295936584473,True,False,False,0.8,numerical_scores,25,20,22.5,490,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with a 242-hour (10+ days) average duration and bottlenecks at multiple approval stages. The presence of a ""REJECTED by MISSING"" step indicates process failures and rework, while the sequential approval chain (EMPLOYEE → SUPERVISOR) lacks parallel processing or iterative feedback loops that would enable faster cycle times and continuous improvement."
+case_96,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.3381929397583,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_20,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,23.211798906326294,True,False,False,0.8,numerical_scores,20,15,17.5,586,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating a wasteful loop, despite a 100% success rate. The 566+ hour average duration (over 23 days) indicates severe bottlenecks across all roles, with no evidence of iterative improvement or streamlined value delivery. The rejection-resubmission cycle between budget owner and employee represents pure waste that violates both Agile collaboration principles and Lean waste elimination practices."
+pattern_73,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.50337529182434,False,False,True,0.8,numerical_scores,15,10,12.5,515,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 2,500 hours (104+ days) for a simple permit approval process, despite a 100% success rate. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs, violating both Agile principles (lack of collaboration and adaptability) and Lean principles (excessive wait times and non-value-adding approval steps)."
+pattern_141,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.488972902297974,True,False,False,0.8,numerical_scores,20,15,17.5,610,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 796-hour average duration (over 33 days) for a simple travel permit process, multiple handoffs between 5 different roles, and a rejection-reapproval cycle that adds no value. The process lacks iterative improvement, has excessive wait times between activities, and the rejection of payment requests after permit approval indicates poor communication and misaligned requirements - all violations of both Agile collaboration and Lean waste elimination principles."
+pattern_111,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.525480031967163,True,False,False,0.8,numerical_scores,20,15,17.5,621,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of nearly 49 days (1169 hours) for what appears to be a simple permit approval process. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs, violating both Agile principles of rapid iteration and Lean principles of waste elimination. Despite the 100% success rate, the excessive processing time and lack of parallel processing or delegation indicates a highly bureaucratic, non-value-adding approval structure."
+pattern_161,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.483994245529175,True,False,False,0.8,numerical_scores,35,25,30.0,490,,"Agile Score: 35/100
+Lean Score: 25/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows significant inefficiencies with multiple rejections and resubmissions creating waste and rework. The 270+ hour average duration indicates poor flow and the presence of undefined bottlenecks suggests lack of process clarity, while the rejection-resubmission cycle demonstrates inadequate collaboration between employees and pre-approvers to get requirements right the first time."
+pattern_87,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.027112245559692,False,False,True,0.8,numerical_scores,20,15,17.5,534,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of ~79 days (1904 hours) for what appears to be a simple travel approval process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the identification of all roles as bottlenecks indicates systemic delays and lack of flow optimization throughout the entire process."
+pattern_90,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.112718105316162,True,False,False,0.8,numerical_scores,15,20,17.5,568,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,320 hours (55 days) for international declarations, despite a 100% success rate. The sequential approval chain through four hierarchical levels (Employee → Administration → Supervisor → Director) creates multiple bottlenecks and lacks the iterative, collaborative approach valued in Agile, while the extended processing time and redundant approval steps represent substantial waste in Lean terms."
+pattern_113,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.158242225646973,True,False,False,0.8,numerical_scores,25,20,22.5,561,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 1,452 hours (60+ days) for a simple travel permit process, indicating severe bottlenecks and wait times. The sequential approval chain with multiple handoffs between employees and supervisors, combined with bottlenecks at every role level, demonstrates poor flow and excessive waste in the form of waiting, over-processing, and unnecessary approvals that add no value to the end result."
+pattern_19,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.632570266723633,True,False,False,0.8,numerical_scores,15,10,12.5,499,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no declarations are ever approved, creating 100% waste. The 202-hour average duration (over 8 days) with bottlenecks at both employee and administration stages indicates poor flow and excessive cycle time, while the rejection loop between administration and employee shows lack of collaboration and clear requirements upfront."
+pattern_124,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.160407066345215,False,False,True,0.8,numerical_scores,20,15,17.5,533,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,613 hours (67 days) for a simple travel permit approval, involving multiple sequential handoffs between 5 different roles. The process lacks agility with its rigid waterfall approach requiring 4 separate approval stages, and violates lean principles through excessive wait times and non-value-adding approval layers that create significant waste in the value stream."
+pattern_99,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.669590950012207,True,False,False,0.8,numerical_scores,20,15,17.5,621,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1353 hours (56+ days) for what appears to be a simple declaration process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates multiple handoffs and waiting periods, violating both Agile principles of rapid iteration and Lean principles of waste elimination. Despite the 100% success rate, the extensive bottlenecks at every approval stage indicate poor flow and excessive non-value-added time."
+pattern_150,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.384845972061157,True,False,False,0.8,numerical_scores,20,15,17.5,538,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 339-hour average duration (over 14 days) for a simple prepaid travel cost approval, involving four sequential approval layers that create unnecessary bottlenecks. The process lacks agility with its rigid, waterfall-style approval chain and demonstrates poor lean principles through excessive handoffs, wait times, and non-value-adding approval steps that could be streamlined or automated."
+case_109,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.03753113746643,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_54,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.726557970046997,False,False,True,0.8,numerical_scores,20,15,17.5,551,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 3,086 hours (nearly 129 days) for what appears to be a simple permit approval process. The presence of bottlenecks at both EMPLOYEE and SUPERVISOR stages, combined with a rejection at the end by ""MISSING"" (likely missing documentation), indicates poor communication, lack of iterative feedback, and significant waste in the value stream - all contrary to both Agile and Lean principles."
+pattern_147,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.00399088859558,True,False,False,0.8,numerical_scores,25,20,22.5,588,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 233.7 hours (nearly 10 days) for a simple prepaid travel cost reimbursement, indicating severe bottlenecks at multiple approval stages. The sequential, waterfall-like process with three separate approval steps (PRE_APPROVER, SUPERVISOR, and an UNDEFINED bottleneck) creates unnecessary waste and delays, violating both Agile principles of rapid iteration and Lean principles of eliminating non-value-adding activities."
+pattern_110,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.77570104598999,True,False,False,0.8,numerical_scores,20,15,17.5,628,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 1,135 hours (47+ days) for what appears to be a simple permit approval process. The presence of three bottlenecks (EMPLOYEE, ADMINISTRATION, BUDGET OWNER) and a sequential approval chain that includes both approval and rejection steps indicates poor flow, excessive handoffs, and likely significant waiting times between activities. The process lacks iterative feedback loops and shows no evidence of parallel processing or waste elimination principles."
+pattern_3,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.0313458442688,True,False,False,0.8,numerical_scores,20,15,17.5,633,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows severe inefficiencies with an average duration of 944+ hours (nearly 40 days) for a simple declaration process, multiple rejections and resubmissions indicating poor communication and unclear requirements, and bottlenecks at every step including an undefined resource. The presence of a ""MISSING"" rejection reason and the need for repeated submissions demonstrates significant waste, lack of clear process definition, and absence of collaborative problem-solving that are fundamental to both Agile and Lean methodologies."
+case_114,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.940535068511963,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_30,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.554959058761597,False,False,True,0.8,numerical_scores,25,20,22.5,517,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with an average duration of 1554 hours (nearly 65 days) for what appears to be a simple travel declaration process. The bottlenecks at both EMPLOYEE and SUPERVISOR stages indicate poor flow and excessive wait times, while the linear, waterfall-like approval structure lacks iterative feedback loops and shows no evidence of waste elimination or value stream optimization."
+case_116,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.082411050796509,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_117,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.414811849594116,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_118,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.7890682220459,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_155,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.81552267074585,True,False,False,0.8,numerical_scores,20,15,17.5,522,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 67% success rate, 850+ hour average duration, and a repetitive rejection cycle between EMPLOYEE and ADMINISTRATION. The process shows poor collaboration (multiple rejections without resolution), excessive waste (repeated submissions of the same request), and identifies bottlenecks across all participant roles, indicating systemic flow problems throughout the value stream."
+pattern_94,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.499998092651367,True,False,False,0.8,numerical_scores,20,15,17.5,608,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,120 hours (47 days) for what appears to be a simple permit approval process. The sequential approval chain (Employee → Administration → Supervisor) creates multiple bottlenecks and lacks parallel processing or iterative feedback loops. The three-stage approval process for international declarations represents excessive bureaucracy and waste, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+case_121,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.060157299041748,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_146,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.889360189437866,True,False,False,0.8,numerical_scores,20,15,17.5,474,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows critical deficiencies with a 0% success rate and no measurable duration, indicating a completely broken or non-functional process. The single activity ""Request For Payment SAVED by EMPLOYEE"" suggests a manual, incomplete process that lacks the iterative feedback loops, collaboration mechanisms, and value delivery essential to both Agile and Lean methodologies."
+pattern_151,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,23.71651577949524,True,False,False,0.8,numerical_scores,20,15,17.5,574,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections creating a circular pattern (submitted → approved → rejected → rejected → resubmitted), indicating poor initial requirements clarity and lack of effective collaboration. The 621+ hour average duration and the presence of bottlenecks across all roles suggest excessive waste, rework, and poor flow optimization, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_115,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.591058254241943,False,False,True,0.8,numerical_scores,20,15,17.5,571,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2809.9 hours (approximately 117 days) for a simple travel permit process, indicating severe delays and waste. The sequential approval chain through multiple hierarchical levels (Employee → Supervisor → Director) creates bottlenecks and lacks the iterative, collaborative approach valued in Agile, while the extended timeline and multiple handoffs violate Lean principles of flow and waste elimination."
+pattern_156,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.915277004241943,True,False,False,0.8,numerical_scores,20,15,17.5,574,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant waste with multiple rejections after initial approval, creating a circular pattern that contradicts lean principles of eliminating non-value-adding activities. The 165+ hour average duration and bottlenecks at multiple approval stages indicate poor flow and lack of collaboration, while the rejection loop between supervisor and employee suggests inadequate upfront communication and requirements clarity, violating both Agile and Lean principles."
+case_126,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.849684000015259,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_43,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.869114875793457,True,False,False,0.8,numerical_scores,20,15,17.5,591,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,458 hours (over 60 days) for what appears to be a simple permit approval process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the presence of all roles as bottlenecks indicates systemic delays throughout the entire process, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_117,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.97622799873352,False,False,True,0.8,numerical_scores,20,15,17.5,533,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,744 hours (72+ days) for a simple travel permit process, indicating massive delays and waste. The presence of multiple bottlenecks across all roles (including ""MISSING"" and ""UNDEFINED"") suggests poor flow, lack of clear accountability, and significant process breakdowns that violate both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_52,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.697659015655518,False,False,True,0.8,numerical_scores,20,15,17.5,523,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2,301 hours (96 days) for a simple travel declaration process, involving three sequential approval layers that create bottlenecks at every stage. The rigid, waterfall-style approval chain lacks agility and creates massive waste through excessive waiting times, despite having a 100% success rate which suggests the multiple approvals may be unnecessary."
+pattern_144,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.966232061386108,True,False,False,0.8,numerical_scores,20,15,17.5,530,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 112+ hour average duration and a critical bottleneck at the SUPERVISOR approval stage, violating lean principles of flow and waste elimination. The process lacks agility as it follows a rigid, sequential approval chain with no apparent feedback loops or collaborative elements, and the mysterious ""REJECTED by MISSING"" step suggests process gaps that create uncertainty and delays."
+pattern_9,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.95832896232605,True,False,False,0.8,numerical_scores,15,10,12.5,508,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no declarations are ever approved, creating 100% waste. The 181-hour average duration (over 7 days) with a supervisor bottleneck indicates poor flow and excessive wait times, while the rejection loop between supervisor and employee shows lack of effective collaboration and clear requirements, violating both Agile and Lean principles."
+pattern_152,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.056185722351074,True,False,False,0.8,numerical_scores,30,20,25.0,497,,"Agile Score: 30/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating waste and rework. The 525+ hour average duration (over 21 days) indicates poor flow and excessive wait times, while the rejection-resubmission cycle shows lack of clear communication and upfront requirement clarity, violating both Agile collaboration principles and Lean waste elimination practices."
+case_133,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.17289090156555,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_134,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.161391973495483,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_143,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.30718994140625,True,False,False,0.8,numerical_scores,20,15,17.5,624,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 750+ hours (over 31 days) for a simple travel permit approval. The sequential approval chain through multiple layers (Administration → Budget Owner → Supervisor) creates unnecessary handoffs and waiting time, violating both Agile principles of rapid iteration and Lean principles of waste elimination. Despite the 100% success rate, the excessive processing time indicates severe bottlenecks in the approval hierarchy that add no value to the end result."
+case_136,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.016848802566528,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_123,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.77642798423767,False,False,True,0.8,numerical_scores,25,20,22.5,580,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1772.5 hours (approximately 74 days) for a simple travel permit process, indicating severe bottlenecks at the SUPERVISOR and UNDEFINED stages. The sequential approval chain with three separate approval steps (PRE_APPROVER, SUPERVISOR, FINAL_APPROVED) creates unnecessary handoffs and wait times, violating both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+pattern_116,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.742452144622803,False,False,True,0.8,numerical_scores,25,20,22.5,486,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 1,664 hours (nearly 70 days) for a simple travel permit process. The presence of multiple bottlenecks across all roles, sequential approval layers without parallel processing, and a rejected payment request at the end indicates poor flow, excessive waste, and lack of iterative improvement mechanisms."
+case_139,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.940299987792969,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_44,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.665996789932251,False,False,True,0.8,numerical_scores,20,15,17.5,572,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 103 days (2491 hours) for international declarations, despite a 100% success rate. The process shows poor agility with rigid sequential approvals and no iterative feedback loops, while from a Lean perspective, the multiple approval layers (PRE_APPROVER and SUPERVISOR) after trip commencement create waste and bottlenecks across all roles, indicating severe flow problems and excessive wait times."
+pattern_107,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.140230894088745,False,False,True,0.8,numerical_scores,20,15,17.5,601,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 2,336 hours (97 days) for a simple declaration process, indicating massive delays and waste. The multiple approval layers (Administration, Budget Owner, and potentially Supervisor) create unnecessary handoffs and bottlenecks, while the presence of ""UNDEFINED"" roles suggests poor process clarity and accountability - all contradicting both Agile's emphasis on rapid iteration and Lean's focus on eliminating non-value-adding activities."
+pattern_71,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.060091018676758,False,False,True,0.8,numerical_scores,15,10,12.5,607,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of nearly 300 days (7175 hours) for what appears to be a simple permit approval process. The sequential approval chain through multiple layers (Employee → Administration → Budget Owner → Supervisor) creates significant waste and delays, with bottlenecks at every step including undefined roles, indicating poor process clarity and excessive handoffs that violate both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_12,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.654170036315918,False,False,True,0.8,numerical_scores,15,10,12.5,446,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 75% failure rate, excessive cycle time (1726+ hours), and a repetitive rejection loop between employee and supervisor. The process lacks effective collaboration mechanisms and creates significant waste through rework, with the supervisor bottleneck preventing smooth flow and timely value delivery."
+case_144,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.841248035430908,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_16,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.95084309577942,True,False,False,0.8,numerical_scores,20,15,17.5,522,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 342.5 hours (over 14 days) for a simple declaration process, despite a 100% success rate. The sequential approval chain through four different roles creates significant waste and delays, with bottlenecks at every step indicating poor flow and excessive handoffs that violate both Agile principles of rapid iteration and Lean principles of waste elimination."
+case_146,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.839436054229736,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_147,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.66755986213684,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_134,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.831379890441895,True,False,False,0.8,numerical_scores,15,10,12.5,488,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with multiple rejections after initial approval, indicating poor communication and unclear requirements. The 974-hour average duration (over 40 days) and the bottleneck at the employee level suggest significant waste, rework, and lack of streamlined processes, violating both Agile principles of collaboration and Lean principles of waste elimination."
+pattern_25,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.679041862487793,True,False,False,0.8,numerical_scores,20,15,17.5,556,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with multiple rejection cycles between employee and administration, indicating poor communication and unclear requirements. The extremely long duration (1198+ hours) and low success rate (60%) reveal significant waste in the process, with employees identified as the bottleneck, suggesting a lack of proper guidance or training that violates both Agile collaboration principles and Lean waste elimination practices."
+case_150,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.811106204986572,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_114,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.399178981781006,False,False,True,0.8,numerical_scores,20,15,17.5,605,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2,097 hours (87 days) for a simple travel permit and payment process. The sequential approval chain creates multiple handoffs and bottlenecks across all participant roles, indicating poor flow and excessive wait times. The process lacks iterative feedback loops and contains redundant approval steps (both APPROVED and FINAL_APPROVED stages), violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_68,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.174862146377563,False,False,True,0.8,numerical_scores,15,10,12.5,570,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 100 days (2432 hours) for what appears to be a simple permit approval process. The presence of multiple bottlenecks across all roles (EMPLOYEE, ADMINISTRATION, SUPERVISOR, UNDEFINED) indicates poor flow and excessive wait times, while the contradictory sequence showing approval followed by rejection suggests rework and lack of clear communication - all violations of both Agile and Lean principles."
+pattern_77,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.601447820663452,False,False,True,0.8,numerical_scores,20,15,17.5,584,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of ~75 days (1797 hours) for a simple declaration process, involving four sequential approval layers that create significant waste and delays. The rigid waterfall structure with multiple handoffs between EMPLOYEE → ADMINISTRATION → SUPERVISOR → DIRECTOR prevents iterative feedback, while the identification of all roles as bottlenecks indicates systemic flow problems and excessive wait times throughout the value stream."
+case_154,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.201180934906006,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_42,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.63510799407959,False,False,True,0.8,numerical_scores,25,20,22.5,515,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 2,126 hours (88+ days) for what appears to be a simple travel approval process. The sequential approval chain through multiple levels (EMPLOYEE → PRE_APPROVER → SUPERVISOR) creates unnecessary handoffs and wait times, while the identification of all participants as bottlenecks indicates systemic delays rather than value-adding activities."
+pattern_118,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.917176961898804,True,False,False,0.8,numerical_scores,15,10,12.5,450,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an extremely long average duration (1403+ hours/~58 days), a 0% success rate, and a clear bottleneck at the EMPLOYEE step. The process lacks iterative improvement mechanisms, shows no evidence of continuous flow, and the complete failure rate indicates massive waste and zero value delivery to customers."
+case_157,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.560942649841309,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_158,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.75927710533142,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_36,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.047595977783203,False,False,True,0.8,numerical_scores,20,15,17.5,599,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an average duration of 80+ days for international declarations, multiple rejection loops between employees and pre-approvers, and undefined bottlenecks indicating poor process clarity. The workflow lacks iterative improvement mechanisms, shows significant waste through rejection cycles, and despite a 100% success rate, the excessive duration and rework patterns violate both Agile principles of rapid delivery and Lean principles of waste elimination."
+pattern_66,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.299569129943848,True,False,False,0.8,numerical_scores,20,15,17.5,586,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,486 hours (62 days) for what appears to be a simple permit approval process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the presence of all roles as bottlenecks indicates systemic delays throughout the entire process, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_58,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.033270120620728,False,False,True,0.8,numerical_scores,20,15,17.5,528,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows severe inefficiencies with an extremely long average duration (1701+ hours/~71 days), multiple rejections and resubmissions indicating poor initial requirements clarity, and bottlenecks at every step. The presence of a ""MISSING"" role rejection and ""UNDEFINED"" bottleneck suggests broken processes and lack of clear ownership, violating both Agile principles of collaboration and Lean principles of waste elimination."
+pattern_100,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.435704946517944,False,False,True,0.8,numerical_scores,20,15,17.5,541,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an average duration of nearly 80 days (1916 hours) and multiple rejection loops between the same activities, indicating poor communication and unclear requirements. The extensive bottlenecks across 6 different roles and the repetitive submit-reject cycle create significant waste and prevent smooth flow, violating both Agile principles of collaboration and Lean principles of waste elimination."
+pattern_122,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.491458892822266,False,False,True,0.8,numerical_scores,20,15,17.5,580,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,672 hours (nearly 70 days) for a simple travel permit process, despite a 100% success rate. The sequential approval chain through three hierarchical levels (Employee → Supervisor → Director) creates unnecessary bottlenecks and waste, while the lack of parallel processing or iterative feedback loops violates both Agile principles of rapid iteration and Lean principles of eliminating non-value-adding steps."
+pattern_23,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.609161853790283,True,False,False,0.8,numerical_scores,15,10,12.5,568,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 803 hours (over 33 days) for domestic declarations, multiple rejection loops between different roles, and bottlenecks at every stage. The process lacks agility with rigid sequential approvals and no iterative improvement, while from a Lean perspective, it contains massive waste through redundant approval steps, rework from rejections, and excessive waiting times that provide no value to the end user."
+pattern_67,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.199841022491455,False,False,True,0.8,numerical_scores,20,15,17.5,614,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 244 days (5863 hours) for what should be a simple declaration process. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates multiple bottlenecks and handoffs, violating both Agile principles of rapid iteration and Lean principles of waste elimination. The process lacks parallel processing, automation opportunities, and shows no evidence of continuous improvement despite a 100% success rate."
+case_166,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.04436469078064,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_167,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.81219506263733,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_5,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.613696098327637,True,False,False,0.8,numerical_scores,25,15,20.0,530,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejection cycles and an extremely long average duration of 1141.85 hours (approximately 47.5 days) for a simple declaration process. The repeated rejections between employee and supervisor indicate poor communication and unclear requirements upfront, while the presence of bottlenecks at multiple stages violates lean principles of continuous flow and waste elimination."
+pattern_112,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,15.919041872024536,True,False,False,0.8,numerical_scores,20,15,17.5,606,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 60 days (1459 hours) for a simple travel permit process, multiple approval layers creating waste, and bottlenecks at every role level. The sequential, waterfall-like approval chain (EMPLOYEE → SUPERVISOR → DIRECTOR → back to EMPLOYEE → SUPERVISOR) lacks iteration, creates excessive handoffs, and despite a 100% success rate, provides no value through the lengthy multi-tier approval process that could be streamlined or automated."
+pattern_130,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.69817590713501,True,False,False,0.8,numerical_scores,20,15,17.5,568,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,267 hours (approximately 53 days) for a simple travel permit process, indicating severe bottlenecks across all participant roles. The sequential approval chain with multiple handoffs between EMPLOYEE, ADMINISTRATION, and SUPERVISOR creates waste and delays, while the lack of parallel processing or iterative feedback loops violates both Agile collaboration principles and Lean flow optimization."
+pattern_137,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,22.364622116088867,False,False,True,0.8,numerical_scores,20,15,17.5,515,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1555.6 hours (65 days) for a simple travel permit process, indicating massive delays and waste. The sequential approval chain through multiple departments creates bottlenecks at every step, lacks iteration or parallel processing, and the presence of ""UNDEFINED"" as a bottleneck suggests process ambiguity that violates both Agile and Lean principles."
+pattern_145,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.220078945159912,True,False,False,0.8,numerical_scores,25,20,22.5,619,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of over 208 hours (8.7 days) for a simple prepaid travel cost reimbursement. The bottlenecks at the supervisor approval stage and undefined payment handling indicate poor flow and excessive wait times, violating both Agile principles of rapid iteration and Lean principles of waste elimination. Despite a 100% success rate, the lengthy process time for what should be a straightforward financial transaction represents substantial non-value-added time."
+pattern_120,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.44893789291382,False,False,True,0.8,numerical_scores,20,15,17.5,487,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Despite a 100% success rate, this workflow is highly inefficient with an average duration of 2094 hours (87 days) for a simple travel permit process. The presence of a ""REJECTED by MISSING"" step after final approval indicates poor process design and lack of clear communication, while the extremely long duration suggests significant waiting times and lack of continuous flow between activities."
+case_174,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.006340742111206,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_175,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.531655311584473,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_76,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.098249912261963,True,False,False,0.8,numerical_scores,20,15,17.5,554,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,258 hours (52+ days) for international declarations, despite a 100% success rate. The process shows poor agile characteristics with rigid sequential approvals and no iterative feedback loops, while the extensive bottlenecks across multiple roles (EMPLOYEE, ADMINISTRATION, BUDGET OWNER, SUPERVISOR, UNDEFINED) indicate severe waste and flow impediments that violate lean principles."
+pattern_32,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.403909683227539,False,False,True,0.8,numerical_scores,20,15,17.5,541,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2,638 hours (110 days) for a simple permit approval process, involving three sequential approval layers that create unnecessary bottlenecks. The linear, waterfall-style approval chain lacks iterative feedback loops and creates waste through excessive waiting time, while the presence of 'MISSING' and 'UNDEFINED' bottlenecks indicates poor process definition and control."
+pattern_142,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.482331037521362,True,False,False,0.8,numerical_scores,20,15,17.5,532,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1201 hours (50 days) for a simple travel permit approval, indicating severe delays and lack of flow. The process requires five sequential handoffs between different roles with no parallel processing, and the employee bottleneck suggests rework loops or waiting times that violate both Agile principles of rapid iteration and Lean principles of waste elimination."
+case_179,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.063301086425781,False,False,True,0.8,numerical_scores,0,0,0.0,479,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or one that lacks basic documentation and measurement, both of which are fundamental requirements for efficient workflow management in Agile and Lean methodologies."
+pattern_45,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.788532972335815,False,False,True,0.8,numerical_scores,25,15,20.0,533,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating waste and rework. The extremely long duration (2519+ hours) and presence of bottlenecks at every role level indicate poor flow and excessive wait times, while the rejection-resubmission cycle shows lack of clear communication and upfront requirement clarity that violates both Agile collaboration and Lean waste elimination principles."
+pattern_140,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.772390127182007,True,False,False,0.8,numerical_scores,20,15,17.5,549,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of nearly 50 days (1199.5 hours) for a simple travel permit process, multiple handoffs between different roles creating bottlenecks, and a rejection loop in the payment request phase that adds waste. The process lacks iterative improvement mechanisms and contains unnecessary complexity with separate approval stages that could be consolidated to improve flow and reduce cycle time."
+case_182,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.637791872024536,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_183,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.5469651222229,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_82,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.578679084777832,True,False,False,0.8,numerical_scores,20,15,17.5,609,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,267 hours (52+ days) for international declarations, despite a 100% success rate. The sequential approval chain (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates multiple bottlenecks and lacks parallel processing or iterative feedback loops. The presence of ""UNDEFINED"" as a bottleneck and the rigid, waterfall-like structure with no apparent value-adding activities between approvals indicates substantial waste and poor flow efficiency."
+case_185,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.763155937194824,False,False,True,0.8,numerical_scores,0,0,0.0,479,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or one that lacks basic documentation and measurement, both of which are fundamental requirements for efficient workflow management in Agile and Lean methodologies."
+pattern_60,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.573434829711914,False,False,True,0.8,numerical_scores,15,10,12.5,529,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an extremely long average duration (2785 hours/116 days), multiple approval layers creating waste, and a confusing flow that includes rejection by ""MISSING"" followed by resubmission. The process lacks agility with its rigid hierarchical approvals and shows significant lean waste through excessive handoffs, waiting times, and the presence of undefined bottlenecks throughout every step."
+case_187,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.548802137374878,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_21,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.65947914123535,True,False,False,0.8,numerical_scores,25,15,20.0,563,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with multiple rejection cycles between employee and administration, indicating poor communication and unclear requirements upfront. The 748-hour average duration (over 31 days) and 86.5% success rate reveal significant waste in the form of rework, delays, and failed attempts, while the presence of 5 different bottleneck roles suggests a fragmented, non-collaborative process that violates both Agile and Lean principles."
+case_189,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.375020027160645,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+research_20250909_141106_pattern_0,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.959627866744995,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_41,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.140017986297607,False,False,True,0.8,numerical_scores,20,15,17.5,518,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of nearly 3,000 hours (over 4 months) for international declarations, despite a 100% success rate. The process shows poor agile characteristics with rigid sequential approvals and no iterative feedback loops, while the extreme duration and identified bottleneck at the EMPLOYEE stage indicate massive waste and poor flow that violates core lean principles."
+pattern_95,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,24.469733953475952,False,False,True,0.8,numerical_scores,20,15,17.5,623,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 3000 hours (125 days) for a simple permit approval process, involving 5 sequential approval steps that create multiple bottlenecks. The process lacks agility with its rigid, waterfall-like structure and no evidence of iteration or adaptation, while from a Lean perspective, it contains excessive waste through redundant approvals (ADMINISTRATION, BUDGET OWNER, SUPERVISOR, and DIRECTOR all approve) and no value-adding activities between approval steps."
+pattern_69,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.16116714477539,False,False,True,0.8,numerical_scores,20,15,17.5,630,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 274 days (6579 hours) for what appears to be a simple permit approval process. The sequential approval chain through four different roles creates multiple bottlenecks and handoffs, violating both Agile principles of rapid iteration and Lean principles of waste elimination. The presence of ""UNDEFINED"" as a bottleneck suggests process ambiguity, while the excessive duration indicates significant waiting time and non-value-added activities throughout the workflow."
+pattern_89,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.143539905548096,False,False,True,0.8,numerical_scores,20,15,17.5,484,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating waste and rework. The extremely long duration (1984+ hours) and involvement of 6 different roles as bottlenecks indicates poor flow, excessive handoffs, and lack of streamlined decision-making, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_93,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.64506196975708,False,False,True,0.8,numerical_scores,20,15,17.5,581,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 2,444 hours (102 days) and bottlenecks at every stage, indicating poor flow and excessive wait times. The sequential approval chain (EMPLOYEE → ADMINISTRATION → SUPERVISOR) followed by a rejection creates massive waste, as all prior work and waiting time is lost when the declaration is ultimately rejected, demonstrating a complete lack of iterative feedback and early validation that would prevent such waste."
+pattern_139,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.294128179550171,False,False,True,0.8,numerical_scores,20,15,17.5,591,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 2,110 hours (88 days) for a simple travel permit process, indicating severe bottlenecks across all participant roles. The sequential approval chain (Employee → Administration → Supervisor) creates unnecessary handoffs and wait times, while the multiple submission steps by employees suggest a lack of integration and automation, violating both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_79,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.053961992263794,True,False,False,0.8,numerical_scores,20,15,17.5,567,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 941 hours (nearly 40 days) for what appears to be a simple permit approval process. The sequential approval chain through multiple layers (EMPLOYEE → ADMINISTRATION → BUDGET OWNER → SUPERVISOR) creates significant waste and delays, with bottlenecks at every step indicating poor flow and excessive handoffs that violate both Agile principles of rapid iteration and Lean principles of waste elimination."
+pattern_163,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.55230689048767,True,False,False,0.8,numerical_scores,25,20,22.5,496,,"Agile Score: 25/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 123+ hour average duration and multiple approval layers creating bottlenecks at PRE_APPROVER and SUPERVISOR stages. The sequential, waterfall-like approval chain lacks agility and creates waste through excessive waiting time, while the presence of a REJECTED status by ""MISSING"" suggests process failures and rework that further impede value flow."
+case_199,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,12.443334817886353,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_136,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.175872087478638,False,False,True,0.8,numerical_scores,20,15,17.5,534,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows severe inefficiencies with an average duration of over 71 days (1717 hours) for a simple travel permit process, multiple redundant payment request submissions, and bottlenecks across four different roles. The process lacks agility with rigid sequential approvals and no iterative improvement, while from a Lean perspective, it contains significant waste through duplicate activities and excessive wait times between steps."
+case_201,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.761534929275513,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_4,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.968325853347778,True,False,False,0.8,numerical_scores,20,15,17.5,456,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow shows critical inefficiencies with a 0% success rate and only a single ""SAVED"" activity, indicating declarations are started but never completed or approved. The process lacks any iterative feedback loops, collaboration steps, or value delivery, representing significant waste in the system where effort is expended without producing usable outcomes."
+pattern_159,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.321496963500977,True,False,False,0.8,numerical_scores,20,25,22.5,563,,"Agile Score: 20/100
+Lean Score: 25/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 274 hours (over 11 days) for a simple payment request, despite a 100% success rate. The process shows poor agile characteristics with rigid sequential approvals and no iterative feedback loops, while the identified bottlenecks at multiple approval stages (SUPERVISOR, DIRECTOR) indicate substantial waste and waiting time that violates lean principles of continuous flow and waste elimination."
+pattern_26,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,19.36084294319153,True,False,False,0.8,numerical_scores,20,15,17.5,521,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates poor Agile and Lean performance with an extremely long average duration of 1,386 hours (nearly 58 days) for what appears to be a simple travel declaration process. The sequential, waterfall-like approval chain lacks iteration or parallel processing, while the identified bottlenecks at every role (EMPLOYEE, SUPERVISOR, UNDEFINED) indicate severe waste and flow impediments throughout the value stream."
+pattern_86,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.687922954559326,False,False,True,0.8,numerical_scores,20,15,17.5,513,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of over 2,242 hours (93+ days) for what appears to be a straightforward approval process. The sequential nature with multiple approval layers (EMPLOYEE → ADMINISTRATION → SUPERVISOR → ADMINISTRATION) creates significant waste and delays, while the presence of bottlenecks at every stage indicates poor flow and excessive wait times between activities."
+pattern_131,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,21.61452627182007,False,False,True,0.8,numerical_scores,20,15,17.5,539,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of nearly 80 days (1907 hours) for a simple travel permit process, despite a 100% success rate. The sequential approval chain creates multiple handoffs and bottlenecks, particularly at the EMPLOYEE and SUPERVISOR stages, while the duplicate approval steps (both ADMINISTRATION and SUPERVISOR must approve) add unnecessary waste without clear value addition to the process."
+pattern_13,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.400542974472046,True,False,False,0.8,numerical_scores,15,10,12.5,522,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no declarations are ever approved. The process creates pure waste with nearly 20 hours of cycle time that delivers zero value to customers. The rejection loop between pre-approver and employee indicates poor communication, lack of clear requirements, and absence of iterative improvement - all fundamental failures of both Agile and Lean principles."
+case_208,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.908618688583374,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_28,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.27834701538086,True,False,False,0.8,numerical_scores,20,15,17.5,634,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,152 hours (48 days) for what appears to be a simple travel declaration process. The multiple approval layers (PRE_APPROVER and SUPERVISOR) create unnecessary handoffs and bottlenecks, violating lean principles of waste elimination. The sequential, waterfall-like approval chain lacks agility and creates excessive waiting time between activities, despite having a 100% success rate which suggests the approvals may be largely ceremonial rather than value-adding."
+pattern_65,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.85826587677002,True,False,False,0.8,numerical_scores,20,15,17.5,580,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 1,323 hours (55 days) for what appears to be a simple permit approval process. The sequential approval chain through multiple levels (EMPLOYEE → ADMINISTRATION → SUPERVISOR → potentially DIRECTOR) creates significant waste and delays, while the presence of ""UNDEFINED"" bottlenecks indicates poor process clarity and accountability, violating both Agile collaboration principles and Lean waste elimination practices."
+pattern_129,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.677674055099487,True,False,False,0.8,numerical_scores,15,10,12.5,657,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no permits are ever approved despite consuming nearly 980 hours on average. The process shows multiple rejection loops between employees and administration without any successful outcomes, creating massive waste and zero value delivery. The presence of ""Start trip"" and ""End trip"" activities after rejections suggests trips may be occurring without proper permits, indicating a completely broken process that fails both Agile collaboration principles and Lean waste elimination goals."
+pattern_75,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.212396621704102,False,False,True,0.8,numerical_scores,15,20,17.5,608,,"Agile Score: 15/100
+Lean Score: 20/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 2107 hours (88 days) for what appears to be a straightforward approval process. The sequential nature with four approval stages creates significant waste and delays, while the presence of bottlenecks at every step indicates poor flow and excessive wait times. Despite the 100% success rate, the process lacks agility, contains no iterative elements, and violates lean principles through excessive handoffs and non-value-adding approval layers."
+pattern_2,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,11.158405065536499,True,False,False,0.8,numerical_scores,20,15,17.5,535,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 672.89 hours (28+ days) for domestic declarations, despite a 100% success rate. The process involves multiple sequential approval layers (employee → pre-approver → supervisor) creating bottlenecks at every human touchpoint, which violates both Agile principles of rapid iteration and Lean principles of waste elimination through excessive waiting time and handoffs."
+pattern_133,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.031507968902588,True,False,False,0.8,numerical_scores,20,15,17.5,547,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 855+ hours (over 35 days) for a simple travel permit process, despite a 100% success rate. The sequential approval chain through multiple levels (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the identification of all participants as bottlenecks indicates systemic delays and lack of flow optimization throughout the entire process."
+pattern_38,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.11413335800171,False,False,True,0.8,numerical_scores,20,15,17.5,640,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1,863 hours (77.6 days) for international declarations, despite a 100% success rate. The sequential approval chain through three hierarchical levels (EMPLOYEE → SUPERVISOR → DIRECTOR) creates unnecessary bottlenecks at every stage, violating both Agile principles of rapid iteration and Lean principles of waste elimination. The process lacks parallel processing, empowerment of lower levels, and shows no evidence of continuous improvement or value stream optimization."
+pattern_80,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.917332887649536,True,False,False,0.8,numerical_scores,20,15,17.5,496,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an average duration of 1524 hours (63.5 days) for international declarations, despite a 100% success rate. The process involves multiple sequential approvals creating bottlenecks at nearly every step, lacks iterative feedback loops, and demonstrates excessive waste through redundant approval layers that don't add proportional value to the outcome."
+pattern_39,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.816589117050171,False,False,True,0.8,numerical_scores,25,15,20.0,526,,"Agile Score: 25/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejection cycles and resubmissions, indicating poor initial requirements gathering and communication. The extremely high average duration of 1537 hours (64 days) combined with repetitive rejection-resubmission loops represents substantial waste in the value stream, violating both Agile principles of effective collaboration and Lean principles of waste elimination."
+pattern_157,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.00772476196289,True,False,False,0.8,numerical_scores,20,15,17.5,490,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates significant inefficiencies with multiple rejections and resubmissions creating a circular pattern of rework. The 645-hour average duration (nearly 27 days) indicates severe bottlenecks across all roles, while the rejection-resubmission cycle between BUDGET OWNER and EMPLOYEE represents substantial waste and lack of clear communication or requirements alignment upfront."
+case_219,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,10.165132999420166,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_220,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,13.672495126724243,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_72,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,20.045881748199463,False,False,True,0.8,numerical_scores,20,15,17.5,515,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with an extremely long average duration of 1808 hours (75 days) for what appears to be a simple permit approval process. The presence of 6 different bottleneck roles and a rigid, sequential approval chain with no apparent feedback loops or parallel processing violates both Agile principles of rapid iteration and Lean principles of waste elimination and flow optimization."
+case_222,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,7.679127931594849,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_29,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,17.61421799659729,False,False,True,0.8,numerical_scores,20,15,17.5,525,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 9,297 hours (over 387 days) for a simple declaration process, indicating massive waste and delays. The sequential approval chain through multiple bottlenecks (EMPLOYEE → SUPERVISOR → UNDEFINED) lacks parallel processing or iterative feedback loops, while the extended timeline between submission and payment severely impacts value delivery and flow efficiency."
+pattern_135,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,9.802504062652588,False,False,True,0.8,numerical_scores,20,15,17.5,629,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with an average duration of 1,662 hours (69 days) for a simple travel permit process, multiple approval layers creating unnecessary handoffs, and a rejected payment request at the end that wastes all previous effort. The process lacks iterative feedback loops, has excessive wait times between activities, and shows clear signs of waste with bottlenecks at every role level, violating both Agile principles of rapid delivery and Lean principles of eliminating non-value-adding activities."
+pattern_49,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,14.109925985336304,False,False,True,0.8,numerical_scores,20,15,17.5,586,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits severe inefficiencies with an average duration of 2,565 hours (over 107 days) for what should be a straightforward approval process. The sequential approval chain creates multiple bottlenecks across all roles, indicating poor flow and excessive wait times. Despite a 100% success rate, the process lacks agility with its rigid, waterfall-like structure and shows significant waste in the form of delays, making it highly inefficient from both Agile and Lean perspectives."
+case_226,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.839120149612427,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+case_227,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.169775009155273,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."
+pattern_148,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,16.0695481300354,True,False,False,0.8,numerical_scores,15,10,12.5,575,,"Agile Score: 15/100
+Lean Score: 10/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow demonstrates severe inefficiencies with a 0% success rate, meaning no requests ever complete successfully. The process shows a repetitive rejection cycle between employee and pre-approver with an excessive average duration of 155+ hours, indicating massive waste, poor collaboration, and no value delivery. The workflow completely fails both Agile principles (no iterative improvement or adaptability) and Lean principles (pure waste with zero value stream efficiency)."
+pattern_14,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,8.931308031082153,True,False,False,0.8,numerical_scores,20,15,17.5,518,,"Agile Score: 20/100
+Lean Score: 15/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+This workflow exhibits significant inefficiencies with a 248-hour (over 10 days) average duration for a simple domestic declaration process, despite a 100% success rate. The sequential approval chain through three different roles (EMPLOYEE → ADMINISTRATION → SUPERVISOR) creates unnecessary handoffs and wait times, while the presence of bottlenecks at every step indicates poor flow and excessive waste in the form of delays."
+research_20250909_141106_pattern_1,claude_opus_4,us.anthropic.claude-opus-4-20250514-v1:0,False,True,18.8850519657135,False,False,True,0.8,numerical_scores,0,0,0.0,508,,"Agile Score: 0/100
+Lean Score: 0/100
+Overall Classification: INEFFICIENT
+
+Brief Analysis:
+Without any process information, activities, duration data, or success metrics, it's impossible to evaluate this workflow against Agile or Lean principles. The complete absence of data indicates either a non-existent process or a critical lack of visibility and measurement, both of which are fundamental failures in Agile and Lean methodologies that emphasize transparency, continuous improvement, and value delivery."

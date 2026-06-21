@@ -1,0 +1,37 @@
+{
+  "timestamp": "20250914_221335",
+  "models_evaluated": 4,
+  "total_evaluations": 924,
+  "average_accuracy": 0.6417748917748918,
+  "average_api_success": 1.0,
+  "model_rankings": [
+    {
+      "rank": 3,
+      "model": "Llama 3.3 70B",
+      "accuracy": 0.645021645021645,
+      "api_success_rate": 1.0,
+      "avg_processing_time": 2.81454476443204
+    },
+    {
+      "rank": 1,
+      "model": "Claude Sonnet 4",
+      "accuracy": 0.6406926406926406,
+      "api_success_rate": 1.0,
+      "avg_processing_time": 8.356220393985897
+    },
+    {
+      "rank": 2,
+      "model": "Claude Opus 4",
+      "accuracy": 0.6406926406926406,
+      "api_success_rate": 1.0,
+      "avg_processing_time": 13.971876937073546
+    },
+    {
+      "rank": 4,
+      "model": "DeepSeek R1",
+      "accuracy": 0.6406926406926406,
+      "api_success_rate": 1.0,
+      "avg_processing_time": 3.6018641882644586
+    }
+  ]
+}
