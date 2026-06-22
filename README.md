@@ -26,17 +26,6 @@ Users provide:
 
 The system benchmarks user workflows against similar efficient processes from the BPI Challenge 2020 dataset and provides evidence-based optimization recommendations.
 
-## What's Included vs. What You Need to Supply
-
-| Item | Status |
-|---|---|
-| Processed BPI Challenge 2020 data (`data/*.json`) | ✅ Included in this repo |
-| All source code | ✅ Included in this repo |
-| Raw `.xes` BPI Challenge 2020 files | ❌ Not included (large; not required to run — processed JSON is used instead). Available from [4TU.ResearchData](https://data.4tu.nl/) if needed |
-| `real_documents/` (McKinsey, BCG, Deloitte, IEEE/ICPM research PDFs) | ❌ Not included — third-party copyrighted material, not redistributable. Supply your own equivalent documents to populate the RAG knowledge base |
-| AWS Bedrock access + credentials | ❌ Not included — you'll need your own AWS account |
-
-With the included data, the **retrieval and similarity-matching components run out of the box**. The **AI analysis step** (Claude Opus 4 via Bedrock) requires your own AWS credentials, and the **document-grounded RAG knowledge base** requires you to supply your own research PDFs into a `real_documents/` folder.
 
 ## Technical Architecture
 
@@ -63,11 +52,6 @@ With the included data, the **retrieval and similarity-matching components run o
 - **Operating Model Papers**: Efficiency optimization research
 
 > **Note on source documents:** This code references a `real_documents/` folder containing third-party research PDFs that are not redistributed in this repository for copyright reasons. To use this part of the system, create a `real_documents/` folder and supply your own equivalent documents.
-
-**Dynamic Processing** (`pdf_processor.py`):
-```
-Drag-and-drop functionality: New documents added to the real_documents/ folder are automatically processed and integrated into the RAG system during analysis
-```
 
 ### 3. Similarity Matching Engine
 
@@ -102,18 +86,6 @@ Drag-and-drop functionality: New documents added to the real_documents/ folder a
 - **File**: `s3_manager.py` - Complete S3 integration with intelligent caching
 - **File**: `strands_config.py` - AWS configuration management
 - **Structure**: Cloud-first design with local fallback for development — the system runs fully from local files in `data/` if S3 is not configured
-
-**S3 Bucket Organization** (optional, only used if AWS S3 is configured):
-```
-workflow-optimization-system/
-├── datasets/
-│   ├── bpi_rag_data_with_operating_models.json
-│   ├── labeled_knowledge_base_for_rag.json
-│   └── research_benchmarks.json
-├── analysis_results/        # Timestamped user analysis outputs
-├── workflow_diagrams/       # Generated process visualizations
-└── configurations/          # System settings and parameters
-```
 
 ### 6. Web Interface Architecture
 
@@ -189,10 +161,6 @@ workflow-optimization-system/
 - University HR/Operations employee questionnaire
 - Qualitative feedback on recommendation relevance and feasibility
 - Academic validation of methodology and approach
-
-## File Structure & Implementation
-
-> **Note:** This repository uses a flat file structure (all source files at the top level, data in `data/`) rather than nested folders, for ease of browsing. Files are grouped below by function.
 
 **Core System Files**
 ```
@@ -297,10 +265,6 @@ aws configure
 # Region: eu-west-2 (Claude Opus 4 availability)
 # Ensure Bedrock model access enabled
 ```
-
-### 3. (Optional) Add your own research documents
-
-To populate the RAG knowledge base with grounding documents, create a `real_documents/` folder in the project root and add your own PDFs (e.g. process-optimization research papers, consulting frameworks). The system will pick these up automatically via `pdf_processor.py`.
 
 ### Core Dependencies
 
