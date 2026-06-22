@@ -5,6 +5,7 @@ Integrates with Claude to provide evidence-based workflow optimization
 """
 
 import json
+import os
 import numpy as np
 from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass
@@ -125,7 +126,7 @@ class BPIRAGSystem:
             try:
                 # Use provided path or default
                 if not self.rag_data_path:
-                    self.rag_data_path = "/Users/mando/Downloads/Diss COde/data/bpi_rag_data_with_operating_models.json"
+                    self.rag_data_path = os.path.join("data", "bpi_rag_data_with_operating_models.json")
                 
                 with open(self.rag_data_path, 'r') as f:
                     self.rag_data = json.load(f)
@@ -942,7 +943,7 @@ def test_rag_system():
     }
     
     # Initialize RAG system
-    rag_data_path = "/Users/mando/Downloads/Diss COde/data/bpi_rag_data_with_operating_models.json"
+    rag_data_path = os.path.join("data", "bpi_rag_data_with_operating_models.json")
     rag_system = BPIRAGSystem(rag_data_path)
     
     # Test similarity analysis
